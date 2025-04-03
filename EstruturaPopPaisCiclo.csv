@@ -1,0 +1,712 @@
+﻿Continente,Country,Cycle,PopVal,PopPct,Size
+Africa,Algeria,Young,14144417,0.306393488,2
+Africa,Algeria,Adult,29075978,0.629837929,2
+Africa,Algeria,Old,2943827,0.063768583,2
+Africa,Angola,Young,16380266,0.445722615,2
+Africa,Angola,Adult,19336437,0.52616284,2
+Africa,Angola,Old,1033207,0.028114545,2
+Africa,Benin,Young,5903527,0.418362378,2
+Africa,Benin,Adult,7771774,0.55075853,2
+Africa,Benin,Old,435736,0.030879091,2
+Africa,Botswana,Young,800656,0.322813531,1
+Africa,Botswana,Adult,1581130,0.637489956,1
+Africa,Botswana,Old,98457,0.039696514,1
+Africa,Burkina Faso,Young,9763217,0.42401247,2
+Africa,Burkina Faso,Adult,12659119,0.549780294,2
+Africa,Burkina Faso,Old,603442,0.026207236,2
+Africa,Burundi,Young,6210182,0.453647099,2
+Africa,Burundi,Adult,7135624,0.521249639,2
+Africa,Burundi,Old,343650,0.025103262,2
+Africa,Cabo Verde,Young,137743,0.263706242,1
+Africa,Cabo Verde,Adult,350220,0.670489245,1
+Africa,Cabo Verde,Old,34372,0.065804512,1
+Africa,Cameroon,Young,11848591,0.417605486,2
+Africa,Cameroon,Adult,15736802,0.554646105,2
+Africa,Cameroon,Old,787297,0.027748409,2
+Africa,Central African Republic,Young,2533260,0.491664398,2
+Africa,Central African Republic,Adult,2511201,0.487383106,2
+Africa,Central African Republic,Old,107956,0.020952497,2
+Africa,Chad,Young,9029186,0.467371549,2
+Africa,Chad,Adult,9889056,0.511880408,2
+Africa,Chad,Old,400833,0.020748043,2
+Africa,Comoros,Young,318057,0.37401222,1
+Africa,Comoros,Adult,494293,0.581253116,1
+Africa,Comoros,Old,38042,0.044734664,1
+Africa,Congo,Young,2527789,0.408836159,2
+Africa,Congo,Adult,3474889,0.562016953,2
+Africa,Congo,Old,180212,0.029146888,2
+Africa,Côte d'Ivoire,Young,12864068,0.41276427,2
+Africa,Côte d'Ivoire,Adult,17501174,0.561553259,2
+Africa,Côte d'Ivoire,Old,800411,0.025682472,2
+Africa,Democratic Republic of the Congo,Young,48756676,0.460882868,3
+Africa,Democratic Republic of the Congo,Adult,53787047,0.508433522,3
+Africa,Democratic Republic of the Congo,Old,3246011,0.030683611,3
+Africa,Djibouti,Young,340980,0.295745183,1
+Africa,Djibouti,Adult,757366,0.656892915,1
+Africa,Djibouti,Old,54606,0.047361902,1
+Africa,Egypt,Young,37149814,0.32435119,3
+Africa,Egypt,Adult,71693891,0.62595196,3
+Africa,Egypt,Old,5692067,0.049696849,3
+Africa,Equatorial Guinea,Young,692541,0.374841683,1
+Africa,Equatorial Guinea,Adult,1088063,0.588920173,1
+Africa,Equatorial Guinea,Old,66952,0.036238144,1
+Africa,Eritrea,Young,1342258,0.386774174,1
+Africa,Eritrea,Adult,1984075,0.571714953,1
+Africa,Eritrea,Old,144059,0.041510873,1
+Africa,Eswatini,Young,414299,0.336689126,1
+Africa,Eswatini,Adult,765180,0.62184023,1
+Africa,Eswatini,Old,51030,0.041470643,1
+Africa,Ethiopia,Young,50660304,0.393656352,3
+Africa,Ethiopia,Adult,73950181,0.574630553,3
+Africa,Ethiopia,Old,4081212,0.031713095,3
+Africa,Gabon,Young,910978,0.366621431,1
+Africa,Gabon,Adult,1473377,0.592957881,1
+Africa,Gabon,Old,100437,0.040420687,1
+Africa,Gambia,Young,1098854,0.407307602,1
+Africa,Gambia,Adult,1518652,0.562912366,1
+Africa,Gambia,Old,80342,0.029780032,1
+Africa,Ghana,Young,12224101,0.361789138,2
+Africa,Ghana,Adult,20336698,0.601892641,2
+Africa,Ghana,Old,1227117,0.036318221,2
+Africa,Guinea,Young,5941239,0.412429404,2
+Africa,Guinea,Adult,7968527,0.553159845,2
+Africa,Guinea,Old,495703,0.034410751,2
+Africa,Guinea-Bissau,Young,845019,0.392421558,1
+Africa,Guinea-Bissau,Adult,1240651,0.576150594,1
+Africa,Guinea-Bissau,Old,67675,0.031427848,1
+Africa,Kenya,Young,20722869,0.374471277,3
+Africa,Kenya,Adult,33003942,0.59639562,3
+Africa,Kenya,Old,1612197,0.029133103,3
+Africa,Lesotho,Young,807249,0.349235294,1
+Africa,Lesotho,Adult,1415769,0.612495652,1
+Africa,Lesotho,Old,88458,0.038269054,1
+Africa,Liberia,Young,2197035,0.399967413,2
+Africa,Liberia,Adult,3115959,0.567256353,2
+Africa,Liberia,Old,180041,0.032776234,2
+Africa,Libya,Young,2042748,0.27961166,2
+Africa,Libya,Adult,4906531,0.671606717,2
+Africa,Libya,Old,356382,0.048781623,2
+Africa,Madagascar,Young,12344896,0.395721263,2
+Africa,Madagascar,Adult,17810603,0.570926991,2
+Africa,Madagascar,Old,1040439,0.033351746,2
+Africa,Malawi,Young,8719545,0.413160855,2
+Africa,Malawi,Adult,11837788,0.560913512,2
+Africa,Malawi,Old,547147,0.025925633,2
+Africa,Mali,Young,11043184,0.464601944,2
+Africa,Mali,Adult,12154218,0.511344673,2
+Africa,Mali,Old,571728,0.024053384,2
+Africa,Mauritania,Young,2161463,0.430360968,2
+Africa,Mauritania,Adult,2699491,0.537485749,2
+Africa,Mauritania,Old,161488,0.032153283,2
+Africa,Mauritius,Young,192621,0.151242194,1
+Africa,Mauritius,Adult,916145,0.71933891,1
+Africa,Mauritius,Old,164827,0.129418896,1
+Africa,Mayotte,Young,137654,0.43557395,1
+Africa,Mayotte,Adult,169942,0.53774179,1
+Africa,Mayotte,Old,8433,0.02668426,1
+Africa,Morocco,Young,9818525,0.260351888,2
+Africa,Morocco,Adult,24942706,0.661390647,2
+Africa,Morocco,Old,2951286,0.078257466,2
+Africa,Mozambique,Young,15053370,0.44754857,2
+Africa,Mozambique,Adult,17651184,0.52478363,2
+Africa,Mozambique,Old,930611,0.027667799,2
+Africa,Namibia,Young,1105007,0.372922363,1
+Africa,Namibia,Adult,1752271,0.591363713,1
+Africa,Namibia,Old,105824,0.035713924,1
+Africa,Niger,Young,12286171,0.469657314,2
+Africa,Niger,Adult,13201111,0.504632268,2
+Africa,Niger,Old,672581,0.025710418,2
+Africa,Nigeria,Young,94553713,0.414922279,4
+Africa,Nigeria,Adult,126428567,0.554796078,4
+Africa,Nigeria,Old,6900670,0.030281642,4
+Africa,Réunion,Young,185455,0.211976916,1
+Africa,Réunion,Adult,559085,0.639039734,1
+Africa,Réunion,Old,130343,0.14898335,1
+Africa,Rwanda,Young,5265213,0.377313613,2
+Africa,Rwanda,Adult,8155942,0.584467892,2
+Africa,Rwanda,Old,533319,0.038218495,2
+Africa,Saint Helena,Young,733,0.137885628,1
+Africa,Saint Helena,Adult,3182,0.598570354,1
+Africa,Saint Helena,Old,1401,0.263544018,1
+Africa,Sao Tome and Principe,Young,88379,0.382788611,1
+Africa,Sao Tome and Principe,Adult,133568,0.578511967,1
+Africa,Sao Tome and Principe,Old,8935,0.038699422,1
+Africa,Senegal,Young,6983294,0.386295971,2
+Africa,Senegal,Adult,10445224,0.577800096,2
+Africa,Senegal,Old,649056,0.035903933,2
+Africa,Seychelles,Young,25771,0.201397301,1
+Africa,Seychelles,Adult,91525,0.715256992,1
+Africa,Seychelles,Old,10665,0.083345707,1
+Africa,Sierra Leone,Young,3259983,0.38531696,2
+Africa,Sierra Leone,Adult,4929234,0.582615756,2
+Africa,Sierra Leone,Old,271306,0.032067285,2
+Africa,Somalia,Young,8569568,0.466787104,2
+Africa,Somalia,Adult,9318231,0.507567017,2
+Africa,Somalia,Old,470823,0.025645879,2
+Africa,South Africa,Young,16488889,0.260849009,3
+Africa,South Africa,Adult,42605150,0.673999997,3
+Africa,South Africa,Old,4118350,0.065150994,3
+Africa,South Sudan,Young,4576301,0.398515401,2
+Africa,South Sudan,Adult,6572629,0.57236049,2
+Africa,South Sudan,Old,334443,0.029124108,2
+Africa,Sudan,Young,20342113,0.406494301,3
+Africa,Sudan,Adult,28093481,0.561389071,3
+Africa,Sudan,Old,1607206,0.032116628,3
+Africa,Togo,Young,3710806,0.398825022,2
+Africa,Togo,Adult,5299168,0.569536859,2
+Africa,Togo,Old,294372,0.031638118,2
+Africa,Tunisia,Young,2981164,0.244349013,2
+Africa,Tunisia,Adult,8100944,0.663988183,2
+Africa,Tunisia,Old,1118326,0.091662805,2
+Africa,Uganda,Young,21378767,0.439380564,2
+Africa,Uganda,Adult,26231436,0.539113558,2
+Africa,Uganda,Old,1046403,0.021505877,2
+Africa,United Republic of Tanzania,Young,28461636,0.427238937,3
+Africa,United Republic of Tanzania,Adult,36128666,0.542329079,3
+Africa,United Republic of Tanzania,Old,2027306,0.030431984,3
+Africa,Western Sahara,Young,135554,0.233820625,1
+Africa,Western Sahara,Adult,407439,0.702802142,1
+Africa,Western Sahara,Old,36742,0.063377233,1
+Africa,Zambia,Young,8694763,0.419551072,2
+Africa,Zambia,Adult,11635684,0.561460238,2
+Africa,Zambia,Old,393521,0.01898869,2
+Africa,Zimbabwe,Young,6752564,0.413232646,2
+Africa,Zimbabwe,Adult,8996998,0.550583939,2
+Africa,Zimbabwe,Old,591267,0.036183415,2
+Asia,Afghanistan,Young,17919319,0.432262006,2
+Asia,Afghanistan,Adult,22549839,0.54396256,2
+Asia,Afghanistan,Old,985605,0.023775434,2
+Asia,Armenia,Young,575294,0.195452331,1
+Asia,Armenia,Adult,1979247,0.672436076,1
+Asia,Armenia,Old,388857,0.132111593,1
+Asia,Azerbaijan,Young,2305545,0.223444258,2
+Asia,Azerbaijan,Adult,7186118,0.696449995,2
+Asia,Azerbaijan,Old,826548,0.080105747,2
+Asia,Bahrain,Young,298110,0.189918295,1
+Asia,Bahrain,Adult,1214455,0.773698377,1
+Asia,Bahrain,Old,57110,0.036383328,1
+Asia,Bangladesh,Young,48629550,0.283608823,3
+Asia,Bangladesh,Adult,111999783,0.653185698,3
+Asia,Bangladesh,Old,10837653,0.063205479,3
+Asia,Bhutan,Young,168770,0.214614433,1
+Asia,Bhutan,Adult,567530,0.721693009,1
+Asia,Bhutan,Old,50087,0.063692558,1
+Asia,Brunei Darussalam,Young,96492,0.210241002,1
+Asia,Brunei Darussalam,Adult,332581,0.72464207,1
+Asia,Brunei Darussalam,Old,29886,0.065116928,1
+Asia,Cambodia,Young,5246428,0.30110554,2
+Asia,Cambodia,Adult,11138783,0.639282436,2
+Asia,Cambodia,Old,1038673,0.059612025,2
+Asia,China,Young,236001304,0.165896108,4
+Asia,China,Adult,982925266,0.690943117,4
+Asia,China,Old,203658361,0.143160775,4
+Asia,"China, Hong Kong SAR",Young,796302,0.106990451,2
+Asia,"China, Hong Kong SAR",Adult,5035434,0.676556574,2
+Asia,"China, Hong Kong SAR",Old,1611003,0.216452975,2
+Asia,"China, Macao SAR",Young,100623,0.140945153,1
+Asia,"China, Macao SAR",Adult,517055,0.724251873,1
+Asia,"China, Macao SAR",Old,96238,0.134802974,1
+Asia,"China, Taiwan Province of China",Young,2785148,0.119446356,2
+Asia,"China, Taiwan Province of China",Adult,16258491,0.697276232,2
+Asia,"China, Taiwan Province of China",Old,4273506,0.183277412,2
+Asia,Cyprus,Young,215923,0.160539814,1
+Asia,Cyprus,Adult,936409,0.696224705,1
+Asia,Cyprus,Old,192649,0.143235481,1
+Asia,Dem. People's Republic of Korea,Young,5014339,0.189806254,2
+Asia,Dem. People's Republic of Korea,Adult,18226121,0.689907831,2
+Asia,Dem. People's Republic of Korea,Old,3177737,0.120285915,2
+Asia,Georgia,Young,801129,0.210408473,1
+Asia,Georgia,Adult,2423155,0.636417287,1
+Asia,Georgia,Old,583210,0.15317424,1
+Asia,India,Young,360337994,0.250570622,4
+Asia,India,Adult,978190679,0.680210945,4
+Asia,India,Old,99540924,0.069218433,4
+Asia,Indonesia,Young,70113727,0.249346383,4
+Asia,Indonesia,Adult,191256545,0.680168204,4
+Asia,Indonesia,Old,19819798,0.070485412,4
+Asia,Iran (Islamic Republic of),Young,20693926,0.228387825,3
+Asia,Iran (Islamic Republic of),Adult,62742120,0.692451318,3
+Asia,Iran (Islamic Republic of),Old,7172663,0.079160856,3
+Asia,Iraq,Young,16718596,0.370913947,2
+Asia,Iraq,Adult,26824422,0.595118886,2
+Asia,Iraq,Old,1531038,0.033967167,2
+Asia,Israel,Young,2556094,0.27614608,2
+Asia,Israel,Adult,5550982,0.599697007,2
+Asia,Israel,Old,1149235,0.124156913,2
+Asia,Japan,Young,14488332,0.116492898,3
+Asia,Japan,Adult,73116310,0.587888987,3
+Asia,Japan,Old,36766305,0.295618116,3
+Asia,Jordan,Young,3572034,0.312261998,2
+Asia,Jordan,Adult,7372744,0.644514517,2
+Asia,Jordan,Old,494443,0.043223485,2
+Asia,Kazakhstan,Young,6005328,0.295390841,2
+Asia,Kazakhstan,Adult,12635723,0.621527558,2
+Asia,Kazakhstan,Old,1689058,0.083081601,2
+Asia,Kuwait,Young,900150,0.186028181,1
+Asia,Kuwait,Adult,3795752,0.784443526,1
+Asia,Kuwait,Old,142881,0.029528293,1
+Asia,Kyrgyzstan,Young,2311038,0.326716687,2
+Asia,Kyrgyzstan,Adult,4378599,0.619012478,2
+Asia,Kyrgyzstan,Old,383886,0.054270835,2
+Asia,Lao People's Democratic Republic,Young,2342242,0.305576176,2
+Asia,Lao People's Democratic Republic,Adult,4975112,0.649068585,2
+Asia,Lao People's Democratic Republic,Old,347648,0.045355239,2
+Asia,Lebanon,Young,1542437,0.267158189,2
+Asia,Lebanon,Adult,3663843,0.634596848,2
+Asia,Lebanon,Old,567217,0.098244963,2
+Asia,Malaysia,Young,7828947,0.222879947,2
+Asia,Malaysia,Adult,24680030,0.702608382,2
+Asia,Malaysia,Old,2617319,0.074511671,2
+Asia,Maldives,Young,105459,0.200488965,1
+Asia,Maldives,Adult,397689,0.756049801,1
+Asia,Maldives,Old,22861,0.043461234,1
+Asia,Mongolia,Young,1120097,0.326374391,1
+Asia,Mongolia,Adult,2144921,0.62498809,1
+Asia,Mongolia,Old,166921,0.048637519,1
+Asia,Myanmar,Young,13271293,0.245157235,3
+Asia,Myanmar,Adult,37024879,0.683951216,3
+Asia,Myanmar,Old,3837629,0.070891549,3
+Asia,Nepal,Young,8526401,0.28713628,2
+Asia,Nepal,Adult,19279461,0.649257842,2
+Asia,Nepal,Old,1888752,0.063605878,2
+Asia,Oman,Young,1273816,0.25227736,2
+Asia,Oman,Adult,3641115,0.721117398,2
+Asia,Oman,Old,134337,0.026605243,2
+Asia,Pakistan,Young,91670870,0.370380612,4
+Asia,Pakistan,Adult,145447668,0.587656649,4
+Asia,Pakistan,Old,10385967,0.041962739,4
+Asia,Philippines,Young,32867555,0.286075476,3
+Asia,Philippines,Adult,75977870,0.661302775,3
+Asia,Philippines,Old,6045776,0.05262175,3
+Asia,Qatar,Young,451647,0.151605793,1
+Asia,Qatar,Adult,2480602,0.83267161,1
+Asia,Qatar,Old,46839,0.015722597,1
+Asia,Republic of Korea,Young,5677260,0.10970817,3
+Asia,Republic of Korea,Adult,36583336,0.706941525,3
+Asia,Republic of Korea,Old,9488148,0.183350305,3
+Asia,Saudi Arabia,Young,8015842,0.24097439,2
+Asia,Saudi Arabia,Adult,24310558,0.730830509,2
+Asia,Saudi Arabia,Old,937890,0.028195101,2
+Asia,Singapore,Young,682387,0.117874617,2
+Asia,Singapore,Adult,4348600,0.751171341,2
+Asia,Singapore,Old,758105,0.130954043,2
+Asia,Sri Lanka,Young,5136747,0.223612784,2
+Asia,Sri Lanka,Adult,15138300,0.65900022,2
+Asia,Sri Lanka,Old,2696569,0.117386996,2
+Asia,State of Palestine,Young,2075520,0.383701699,2
+Asia,State of Palestine,Adult,3127993,0.578272544,2
+Asia,State of Palestine,Old,205689,0.038025757,2
+Asia,Syrian Arab Republic,Young,7157554,0.30335529,2
+Asia,Syrian Arab Republic,Adult,15331228,0.649776322,2
+Asia,Syrian Arab Republic,Old,1105842,0.046868388,2
+Asia,Tajikistan,Young,3792925,0.365062088,2
+Asia,Tajikistan,Adult,6217645,0.598436949,2
+Asia,Tajikistan,Old,379238,0.036500963,2
+Asia,Thailand,Young,10819671,0.150896836,3
+Asia,Thailand,Adult,50329421,0.701920638,3
+Asia,Thailand,Old,10553346,0.147182527,3
+Asia,Timor-Leste,Young,473838,0.342296031,1
+Asia,Timor-Leste,Adult,836611,0.604359771,1
+Asia,Timor-Leste,Old,73844,0.053344198,1
+Asia,Türkiye,Young,19059642,0.218397297,3
+Asia,Türkiye,Adult,59482915,0.681592439,3
+Asia,Türkiye,Old,8727946,0.100010263,3
+Asia,Turkmenistan,Young,2332348,0.316704183,2
+Asia,Turkmenistan,Adult,4717447,0.640571302,2
+Asia,Turkmenistan,Old,314642,0.042724515,2
+Asia,United Arab Emirates,Young,1738805,0.163389444,2
+Asia,United Arab Emirates,Adult,8722830,0.819653923,2
+Asia,United Arab Emirates,Old,180454,0.016956633,2
+Asia,Uzbekistan,Young,11006247,0.308710619,2
+Asia,Uzbekistan,Adult,22615649,0.634338935,2
+Asia,Uzbekistan,Old,2030415,0.056950446,2
+Asia,Viet Nam,Young,23688984,0.236058468,3
+Asia,Viet Nam,Adult,68011676,0.67772987,3
+Asia,Viet Nam,Old,8651529,0.086211662,3
+Asia,Yemen,Young,16239297,0.412261163,2
+Asia,Yemen,Adult,22163767,0.562663541,2
+Asia,Yemen,Old,987736,0.025075297,2
+Europe,Austria,Young,1305892,0.143026263,2
+Europe,Austria,Adult,5983479,0.655333399,2
+Europe,Austria,Old,1841064,0.201640338,2
+Europe,Bulgaria,Young,987985,0.145381599,2
+Europe,Bulgaria,Adult,4324128,0.636293714,2
+Europe,Bulgaria,Old,1483692,0.218324687,2
+Europe,Estonia,Young,218319,0.159683762,1
+Europe,Estonia,Adult,862940,0.631175047,1
+Europe,Estonia,Old,285937,0.209141191,1
+Europe,Malta,Young,70098,0.131524584,1
+Europe,Malta,Adult,357340,0.670475547,1
+Europe,Malta,Old,105527,0.197999869,1
+Europe,Portugal,Young,1344901,0.12893636,2
+Europe,Portugal,Adult,6570828,0.629948704,2
+Europe,Portugal,Old,2515006,0.241114936,2
+Europe,Albania,Young,479162,0.170419489,1
+Europe,Albania,Adult,1874138,0.666558783,1
+Europe,Albania,Old,458362,0.163021729,1
+Europe,Andorra,Young,9908,0.122519136,1
+Europe,Andorra,Adult,58488,0.723243765,1
+Europe,Andorra,Old,12473,0.1542371,1
+Europe,Belarus,Young,1520063,0.166752544,2
+Europe,Belarus,Adult,6040301,0.66262751,2
+Europe,Belarus,Old,1555317,0.170619946,2
+Europe,Belgium,Young,1908119,0.162907562,2
+Europe,Belgium,Adult,7445180,0.635639663,2
+Europe,Belgium,Old,2359595,0.201452775,2
+Europe,Bosnia and Herzegovina,Young,421063,0.132198854,1
+Europe,Bosnia and Herzegovina,Adult,2074680,0.651375965,1
+Europe,Bosnia and Herzegovina,Old,689330,0.216425181,1
+Europe,Croatia,Young,550842,0.141385679,1
+Europe,Croatia,Adult,2456291,0.630460952,1
+Europe,Croatia,Old,888891,0.228153369,1
+Europe,Czechia,Young,1694276,0.156736316,2
+Europe,Czechia,Adult,6894489,0.637804469,2
+Europe,Czechia,Old,2220957,0.205459215,2
+Europe,Denmark,Young,943787,0.158669425,2
+Europe,Denmark,Adult,3779021,0.635328827,2
+Europe,Denmark,Old,1225326,0.206001748,2
+Europe,Faroe Islands,Young,11034,0.201578428,1
+Europe,Faroe Islands,Adult,33997,0.6210859,1
+Europe,Faroe Islands,Old,9707,0.177335672,1
+Europe,Finland,Young,836537,0.14934995,2
+Europe,Finland,Adult,3444010,0.614871455,2
+Europe,Finland,Old,1320640,0.235778595,2
+Europe,France,Young,11151609,0.167847768,3
+Europe,France,Adult,40837342,0.614660782,3
+Europe,France,Old,14449877,0.217491449,3
+Europe,Germany,Young,11765368,0.13915569,3
+Europe,Germany,Adult,53514287,0.632943869,3
+Europe,Germany,Old,19268580,0.227900441,3
+Europe,Gibraltar,Young,6848,0.177902476,1
+Europe,Gibraltar,Adult,24912,0.647182605,1
+Europe,Gibraltar,Old,6733,0.17491492,1
+Europe,Greece,Young,1391686,0.135868225,2
+Europe,Greece,Adult,6445881,0.629301732,2
+Europe,Greece,Old,2405343,0.234830043,2
+Europe,Guernsey,Young,9087,0.141889043,1
+Europe,Guernsey,Adult,41311,0.645050981,1
+Europe,Guernsey,Old,13645,0.213059975,1
+Europe,Holy See,Young,30,0.05988024,1
+Europe,Holy See,Adult,246,0.491017964,1
+Europe,Holy See,Old,225,0.449101796,1
+Europe,Hungary,Young,1403127,0.144854392,2
+Europe,Hungary,Adult,6266703,0.646954591,2
+Europe,Hungary,Old,2016635,0.208191017,2
+Europe,Iceland,Young,69977,0.180558315,1
+Europe,Iceland,Adult,258093,0.665945056,1
+Europe,Iceland,Old,59489,0.153496629,1
+Europe,Ireland,Young,988246,0.19017048,2
+Europe,Ireland,Adult,3400741,0.654412512,2
+Europe,Ireland,Old,807645,0.155417009,2
+Europe,Isle of Man,Young,12227,0.145244827,1
+Europe,Isle of Man,Adult,52829,0.62755696,1
+Europe,Isle of Man,Old,19126,0.227198213,1
+Europe,Italy,Young,7225873,0.121444362,3
+Europe,Italy,Adult,37863536,0.636367811,3
+Europe,Italy,Old,14410043,0.242187827,3
+Europe,Jersey,Young,15057,0.145225694,1
+Europe,Jersey,Adult,69279,0.668200231,1
+Europe,Jersey,Old,19344,0.186574074,1
+Europe,Kosovo (under UNSC res. 1244),Young,362012,0.21294335,1
+Europe,Kosovo (under UNSC res. 1244),Adult,1174075,0.690616509,1
+Europe,Kosovo (under UNSC res. 1244),Old,163952,0.09644014,1
+Europe,Latvia,Young,295386,0.15691989,1
+Europe,Latvia,Adult,1185457,0.629758287,1
+Europe,Latvia,Old,401557,0.213321823,1
+Europe,Liechtenstein,Young,5684,0.143455656,1
+Europe,Liechtenstein,Adult,25944,0.654787744,1
+Europe,Liechtenstein,Old,7994,0.2017566,1
+Europe,Lithuania,Young,424895,0.148871538,1
+Europe,Lithuania,Adult,1862495,0.652567092,1
+Europe,Lithuania,Old,566715,0.19856137,1
+Europe,Luxembourg,Young,105218,0.158198529,1
+Europe,Luxembourg,Adult,459413,0.690741707,1
+Europe,Luxembourg,Old,100470,0.151059764,1
+Europe,Monaco,Young,5136,0.131763257,1
+Europe,Monaco,Adult,19670,0.504630699,1
+Europe,Monaco,Old,14173,0.363606044,1
+Europe,Montenegro,Young,116150,0.183329124,1
+Europe,Montenegro,Adult,406749,0.642005493,1
+Europe,Montenegro,Old,110661,0.174665383,1
+Europe,Netherlands,Young,2744865,0.151712646,2
+Europe,Netherlands,Adult,11700794,0.646719756,2
+Europe,Netherlands,Old,3646867,0.201567598,2
+Europe,North Macedonia,Young,312648,0.170678022,1
+Europe,North Macedonia,Adult,1198551,0.654302326,1
+Europe,North Macedonia,Old,320601,0.175019653,1
+Europe,Norway,Young,911036,0.165067633,2
+Europe,Norway,Adult,3585218,0.649593924,2
+Europe,Norway,Old,1022914,0.185338442,2
+Europe,Poland,Young,5851935,0.150967626,2
+Europe,Poland,Adult,25328545,0.653423238,2
+Europe,Poland,Old,7582367,0.195609136,2
+Europe,Republic of Moldova,Young,613176,0.199922271,1
+Europe,Republic of Moldova,Adult,1974980,0.643930107,1
+Europe,Republic of Moldova,Old,478916,0.156147622,1
+Europe,Romania,Young,3035340,0.158764697,2
+Europe,Romania,Adult,12306640,0.643703825,2
+Europe,Romania,Old,3776502,0.197531478,2
+Europe,Russian Federation,Young,25473878,0.175149819,3
+Europe,Russian Federation,Adult,95816749,0.658803747,3
+Europe,Russian Federation,Old,24149877,0.166046434,3
+Europe,San Marino,Young,4287,0.126980836,1
+Europe,San Marino,Adult,22148,0.656023222,1
+Europe,San Marino,Old,7326,0.216995942,1
+Europe,Serbia,Young,971977,0.143503239,2
+Europe,Serbia,Adult,4288205,0.633113034,2
+Europe,Serbia,Old,1513024,0.223383727,2
+Europe,Slovakia,Young,877767,0.159071753,2
+Europe,Slovakia,Adult,3644236,0.660420144,2
+Europe,Slovakia,Old,996054,0.180508103,2
+Europe,Slovenia,Young,316271,0.149297463,1
+Europe,Slovenia,Adult,1350222,0.637379714,1
+Europe,Slovenia,Old,451902,0.213322822,1
+Europe,Spain,Young,6352430,0.132586516,2
+Europe,Spain,Adult,31663635,0.660876397,2
+Europe,Spain,Old,9895519,0.206537087,2
+Europe,Sweden,Young,1820110,0.172497847,2
+Europe,Sweden,Adult,6564489,0.622138344,2
+Europe,Sweden,Old,2166895,0.205363809,2
+Europe,Switzerland,Young,1331560,0.150109959,2
+Europe,Switzerland,Adult,5799364,0.653776242,2
+Europe,Switzerland,Old,1739640,0.196113798,2
+Europe,Ukraine,Young,5394109,0.142955314,2
+Europe,Ukraine,Adult,25336441,0.671469354,2
+Europe,Ukraine,Old,7002283,0.185575332,2
+Europe,United Kingdom,Young,11957115,0.174091421,3
+Europe,United Kingdom,Adult,43512530,0.633527251,3
+Europe,United Kingdom,Old,13213320,0.192381328,3
+Latin America and the Caribbean,Anguilla,Young,2470,0.171111881,1
+Latin America and the Caribbean,Anguilla,Adult,10202,0.706754416,1
+Latin America and the Caribbean,Anguilla,Old,1763,0.122133703,1
+Latin America and the Caribbean,Antigua and Barbuda,Young,17000,0.182143508,1
+Latin America and the Caribbean,Antigua and Barbuda,Adult,65834,0.705366805,1
+Latin America and the Caribbean,Antigua and Barbuda,Old,10499,0.112489687,1
+Latin America and the Caribbean,Argentina,Young,10105269,0.22190653,2
+Latin America and the Caribbean,Argentina,Adult,29876072,0.656063235,2
+Latin America and the Caribbean,Argentina,Old,5557062,0.122030235,2
+Latin America and the Caribbean,Aruba,Young,18550,0.171845182,1
+Latin America and the Caribbean,Aruba,Adult,71723,0.664434069,1
+Latin America and the Caribbean,Aruba,Old,17673,0.163720749,1
+Latin America and the Caribbean,Bahamas,Young,73209,0.183273585,1
+Latin America and the Caribbean,Bahamas,Adult,280308,0.701731372,1
+Latin America and the Caribbean,Bahamas,Old,45935,0.114995043,1
+Latin America and the Caribbean,Barbados,Young,49372,0.174861607,1
+Latin America and the Caribbean,Barbados,Adult,187530,0.664178021,1
+Latin America and the Caribbean,Barbados,Old,45447,0.160960372,1
+Latin America and the Caribbean,Belize,Young,110968,0.269919609,1
+Latin America and the Caribbean,Belize,Adult,280234,0.681643822,1
+Latin America and the Caribbean,Belize,Old,19913,0.048436569,1
+Latin America and the Caribbean,Bolivia (Plurinational State of),Young,3690681,0.301423756,2
+Latin America and the Caribbean,Bolivia (Plurinational State of),Adult,7873871,0.643071502,2
+Latin America and the Caribbean,Bolivia (Plurinational State of),Old,679609,0.055504742,2
+Latin America and the Caribbean,"Bonaire, Sint Eustatius and Saba",Young,4792,0.160160428,1
+Latin America and the Caribbean,"Bonaire, Sint Eustatius and Saba",Adult,20918,0.699131016,1
+Latin America and the Caribbean,"Bonaire, Sint Eustatius and Saba",Old,4210,0.140708556,1
+Latin America and the Caribbean,Brazil,Young,42092910,0.199359497,4
+Latin America and the Caribbean,Brazil,Adult,146595893,0.694304184,4
+Latin America and the Caribbean,Brazil,Old,22451928,0.106336318,4
+Latin America and the Caribbean,British Virgin Islands,Young,5907,0.151426594,1
+Latin America and the Caribbean,British Virgin Islands,Adult,29506,0.756389551,1
+Latin America and the Caribbean,British Virgin Islands,Old,3596,0.092183855,1
+Latin America and the Caribbean,Cayman Islands,Young,11903,0.162932038,1
+Latin America and the Caribbean,Cayman Islands,Adult,54905,0.751557046,1
+Latin America and the Caribbean,Cayman Islands,Old,6247,0.085510916,1
+Latin America and the Caribbean,Chile,Young,3417557,0.173843322,2
+Latin America and the Caribbean,Chile,Adult,13549330,0.689223481,2
+Latin America and the Caribbean,Chile,Old,2691947,0.136933198,2
+Latin America and the Caribbean,Colombia,Young,10777030,0.205978454,3
+Latin America and the Caribbean,Colombia,Adult,36638789,0.700267246,3
+Latin America and the Caribbean,Colombia,Old,4905333,0.0937543,3
+Latin America and the Caribbean,Costa Rica,Young,986947,0.193309525,2
+Latin America and the Caribbean,Costa Rica,Adult,3520268,0.689501397,2
+Latin America and the Caribbean,Costa Rica,Old,598312,0.117189078,2
+Latin America and the Caribbean,Cuba,Young,1709629,0.155139705,2
+Latin America and the Caribbean,Cuba,Adult,7525568,0.682905121,2
+Latin America and the Caribbean,Cuba,Old,1784735,0.161955174,2
+Latin America and the Caribbean,Curaçao,Young,28265,0.152422912,1
+Latin America and the Caribbean,Curaçao,Adult,126976,0.684735599,1
+Latin America and the Caribbean,Curaçao,Old,30197,0.162841489,1
+Latin America and the Caribbean,Dominica,Young,12049,0.181100824,1
+Latin America and the Caribbean,Dominica,Adult,45996,0.6913365,1
+Latin America and the Caribbean,Dominica,Old,8487,0.127562677,1
+Latin America and the Caribbean,Dominican Republic,Young,3049699,0.269140111,2
+Latin America and the Caribbean,Dominican Republic,Adult,7422561,0.655051169,2
+Latin America and the Caribbean,Dominican Republic,Old,859009,0.07580872,2
+Latin America and the Caribbean,Ecuador,Young,4495865,0.250046996,2
+Latin America and the Caribbean,Ecuador,Adult,12029107,0.669024109,2
+Latin America and the Caribbean,Ecuador,Old,1455108,0.080928895,2
+Latin America and the Caribbean,El Salvador,Young,1590681,0.252103729,2
+Latin America and the Caribbean,El Salvador,Adult,4214152,0.667892201,2
+Latin America and the Caribbean,El Salvador,Old,504796,0.08000407,2
+Latin America and the Caribbean,Falkland Islands (Malvinas),Young,569,0.16266438,1
+Latin America and the Caribbean,Falkland Islands (Malvinas),Adult,2516,0.719268153,1
+Latin America and the Caribbean,Falkland Islands (Malvinas),Old,413,0.118067467,1
+Latin America and the Caribbean,French Guiana,Young,94660,0.311988108,1
+Latin America and the Caribbean,French Guiana,Adult,187981,0.619563032,1
+Latin America and the Caribbean,French Guiana,Old,20768,0.068448859,1
+Latin America and the Caribbean,Grenada,Young,23240,0.198473022,1
+Latin America and the Caribbean,Grenada,Adult,79948,0.682767691,1
+Latin America and the Caribbean,Grenada,Old,13906,0.118759287,1
+Latin America and the Caribbean,Guadeloupe,Young,61972,0.164591522,1
+Latin America and the Caribbean,Guadeloupe,Adult,227488,0.604185701,1
+Latin America and the Caribbean,Guadeloupe,Old,87060,0.231222777,1
+Latin America and the Caribbean,Guatemala,Young,5824914,0.321377367,2
+Latin America and the Caribbean,Guatemala,Adult,11441759,0.631274965,2
+Latin America and the Caribbean,Guatemala,Old,858169,0.047347668,2
+Latin America and the Caribbean,Guyana,Young,242315,0.293231763,1
+Latin America and the Caribbean,Guyana,Adult,530494,0.641964761,1
+Latin America and the Caribbean,Guyana,Old,53551,0.064803475,1
+Latin America and the Caribbean,Haiti,Young,3674181,0.315721756,2
+Latin America and the Caribbean,Haiti,Adult,7425785,0.638096458,2
+Latin America and the Caribbean,Haiti,Old,537436,0.046181785,2
+Latin America and the Caribbean,Honduras,Young,3299494,0.309961385,2
+Latin America and the Caribbean,Honduras,Adult,6888402,0.647110928,2
+Latin America and the Caribbean,Honduras,Old,456959,0.042927687,2
+Latin America and the Caribbean,Jamaica,Young,543367,0.191340894,1
+Latin America and the Caribbean,Jamaica,Adult,2073145,0.730035901,1
+Latin America and the Caribbean,Jamaica,Old,223273,0.078623206,1
+Latin America and the Caribbean,Martinique,Young,52118,0.150626575,1
+Latin America and the Caribbean,Martinique,Adult,209540,0.605592934,1
+Latin America and the Caribbean,Martinique,Old,84350,0.243780491,1
+Latin America and the Caribbean,Mexico,Young,32328518,0.249179718,3
+Latin America and the Caribbean,Mexico,Adult,87049389,0.670953805,3
+Latin America and the Caribbean,Mexico,Old,10361858,0.079866477,3
+Latin America and the Caribbean,Montserrat,Young,748,0.168468468,1
+Latin America and the Caribbean,Montserrat,Adult,2840,0.63963964,1
+Latin America and the Caribbean,Montserrat,Old,852,0.191891892,1
+Latin America and the Caribbean,Nicaragua,Young,1992762,0.292038873,2
+Latin America and the Caribbean,Nicaragua,Adult,4463789,0.654167385,2
+Latin America and the Caribbean,Nicaragua,Old,367068,0.053793742,2
+Latin America and the Caribbean,Panama,Young,1127002,0.252761363,1
+Latin America and the Caribbean,Panama,Adult,2927938,0.65667106,1
+Latin America and the Caribbean,Panama,Old,403819,0.090567577,1
+Latin America and the Caribbean,Paraguay,Young,1969814,0.287809797,2
+Latin America and the Caribbean,Paraguay,Adult,4438412,0.648496994,2
+Latin America and the Caribbean,Paraguay,Old,435926,0.063693208,2
+Latin America and the Caribbean,Peru,Young,8244172,0.243581673,2
+Latin America and the Caribbean,Peru,Adult,22557856,0.666492681,2
+Latin America and the Caribbean,Peru,Old,3043589,0.089925647,2
+Latin America and the Caribbean,Puerto Rico,Young,389202,0.12004908,1
+Latin America and the Caribbean,Puerto Rico,Adult,2066836,0.637514096,1
+Latin America and the Caribbean,Puerto Rico,Old,785986,0.242436823,1
+Latin America and the Caribbean,Saint Barthélemy,Young,2235,0.201133909,1
+Latin America and the Caribbean,Saint Barthélemy,Adult,6952,0.62562995,1
+Latin America and the Caribbean,Saint Barthélemy,Old,1925,0.173236141,1
+Latin America and the Caribbean,Saint Kitts and Nevis,Young,8577,0.183335827,1
+Latin America and the Caribbean,Saint Kitts and Nevis,Adult,33196,0.709573991,1
+Latin America and the Caribbean,Saint Kitts and Nevis,Old,5010,0.107090182,1
+Latin America and the Caribbean,Saint Lucia,Young,32039,0.178695327,1
+Latin America and the Caribbean,Saint Lucia,Adult,130579,0.728295425,1
+Latin America and the Caribbean,Saint Lucia,Old,16676,0.093009247,1
+Latin America and the Caribbean,Saint Martin (French part),Young,5820,0.211290615,1
+Latin America and the Caribbean,Saint Martin (French part),Adult,16982,0.616518424,1
+Latin America and the Caribbean,Saint Martin (French part),Old,4743,0.17219096,1
+Latin America and the Caribbean,Saint Vincent and the Grenadines,Young,21933,0.216449063,1
+Latin America and the Caribbean,Saint Vincent and the Grenadines,Adult,67675,0.667860773,1
+Latin America and the Caribbean,Saint Vincent and the Grenadines,Old,11723,0.115690164,1
+Latin America and the Caribbean,Sint Maarten (Dutch part),Young,6656,0.155604909,1
+Latin America and the Caribbean,Sint Maarten (Dutch part),Adult,30361,0.709783752,1
+Latin America and the Caribbean,Sint Maarten (Dutch part),Old,5758,0.134611338,1
+Latin America and the Caribbean,Suriname,Young,163174,0.259462674,1
+Latin America and the Caribbean,Suriname,Adult,417782,0.664314381,1
+Latin America and the Caribbean,Suriname,Old,47936,0.076222944,1
+Latin America and the Caribbean,Trinidad and Tobago,Young,270932,0.180268248,1
+Latin America and the Caribbean,Trinidad and Tobago,Adult,1053843,0.701188605,1
+Latin America and the Caribbean,Trinidad and Tobago,Old,178163,0.118543147,1
+Latin America and the Caribbean,Turks and Caicos Islands,Young,7495,0.16215573,1
+Latin America and the Caribbean,Turks and Caicos Islands,Adult,33683,0.72873802,1
+Latin America and the Caribbean,Turks and Caicos Islands,Old,5043,0.10910625,1
+Latin America and the Caribbean,United States Virgin Islands,Young,14161,0.165212217,1
+Latin America and the Caribbean,United States Virgin Islands,Adult,52485,0.612327041,1
+Latin America and the Caribbean,United States Virgin Islands,Old,19068,0.222460742,1
+Latin America and the Caribbean,Uruguay,Young,633076,0.186853746,1
+Latin America and the Caribbean,Uruguay,Adult,2219256,0.655018192,1
+Latin America and the Caribbean,Uruguay,Old,535751,0.158128062,1
+Latin America and the Caribbean,Venezuela (Bolivarian Republic of),Young,7401741,0.261537661,2
+Latin America and the Caribbean,Venezuela (Bolivarian Republic of),Adult,18257638,0.645126592,2
+Latin America and the Caribbean,Venezuela (Bolivarian Republic of),Old,2641482,0.093335747,2
+Northern America,Bermuda,Young,8984,0.138811205,1
+Northern America,Bermuda,Adult,42199,0.652014029,1
+Northern America,Bermuda,Old,13538,0.209174766,1
+Northern America,Canada,Young,6014548,0.153045443,2
+Northern America,Canada,Adult,25676985,0.653373376,2
+Northern America,Canada,Old,7607566,0.193581181,2
+Northern America,Greenland,Young,11638,0.208003432,1
+Northern America,Greenland,Adult,38644,0.69067577,1
+Northern America,Greenland,Old,5669,0.101320799,1
+Northern America,Saint Pierre and Miquelon,Young,820,0.143683196,1
+Northern America,Saint Pierre and Miquelon,Adult,3755,0.657963904,1
+Northern America,Saint Pierre and Miquelon,Old,1132,0.1983529,1
+Northern America,United States of America,Young,60433593,0.175946379,4
+Northern America,United States of America,Adult,223169393,0.649735431,4
+Northern America,United States of America,Old,59874347,0.17431819,4
+Oceania,American Samoa,Young,13078,0.275071513,1
+Oceania,American Samoa,Adult,30872,0.649335353,1
+Oceania,American Samoa,Old,3594,0.075593135,1
+Oceania,Australia,Young,4769212,0.180302797,2
+Oceania,Australia,Adult,17083647,0.64585708,2
+Oceania,Australia,Old,4598267,0.173840123,2
+Oceania,Cook Islands,Young,3537,0.24831508,1
+Oceania,Cook Islands,Adult,8871,0.622788543,1
+Oceania,Cook Islands,Old,1836,0.128896377,1
+Oceania,Fiji,Young,253079,0.273850269,1
+Oceania,Fiji,Adult,612449,0.662715292,1
+Oceania,Fiji,Old,58623,0.063434439,1
+Oceania,French Polynesia,Young,55476,0.197335003,1
+Oceania,French Polynesia,Adult,195494,0.69539637,1
+Oceania,French Polynesia,Old,30156,0.107268627,1
+Oceania,Guam,Young,43326,0.260177151,1
+Oceania,Guam,Adult,103015,0.618615823,1
+Oceania,Guam,Old,20184,0.121207026,1
+Oceania,Kiribati,Young,46292,0.34926551,1
+Oceania,Kiribati,Adult,80786,0.609517055,1
+Oceania,Kiribati,Old,5463,0.041217435,1
+Oceania,Marshall Islands,Young,13479,0.346958738,1
+Oceania,Marshall Islands,Adult,23661,0.609050426,1
+Oceania,Marshall Islands,Old,1709,0.043990836,1
+Oceania,Micronesia (Fed. States of),Young,36188,0.321254195,1
+Oceania,Micronesia (Fed. States of),Adult,69996,0.621380253,1
+Oceania,Micronesia (Fed. States of),Old,6462,0.057365552,1
+Oceania,Nauru,Young,4537,0.381260504,1
+Oceania,Nauru,Adult,7039,0.591512605,1
+Oceania,Nauru,Old,324,0.027226891,1
+Oceania,New Caledonia,Young,62398,0.215253846,1
+Oceania,New Caledonia,Adult,195330,0.673828226,1
+Oceania,New Caledonia,Old,32153,0.110917928,1
+Oceania,New Zealand,Young,950495,0.183747261,2
+Oceania,New Zealand,Adult,3353379,0.648266648,2
+Oceania,New Zealand,Old,868965,0.16798609,2
+Oceania,Niue,Young,428,0.232482347,1
+Oceania,Niue,Adult,1116,0.606192287,1
+Oceania,Niue,Old,297,0.161325367,1
+Oceania,Northern Mariana Islands,Young,10200,0.225833592,1
+Oceania,Northern Mariana Islands,Adult,31016,0.686711243,1
+Oceania,Northern Mariana Islands,Old,3950,0.087455165,1
+Oceania,Palau,Young,3290,0.185341671,1
+Oceania,Palau,Adult,12529,0.70581939,1
+Oceania,Palau,Old,1932,0.108838939,1
+Oceania,Papua New Guinea,Young,3512137,0.338042255,2
+Oceania,Papua New Guinea,Adult,6529620,0.628474194,2
+Oceania,Papua New Guinea,Old,347882,0.03348355,2
+Oceania,Samoa,Young,83911,0.387266644,1
+Oceania,Samoa,Adult,120397,0.55565709,1
+Oceania,Samoa,Old,12367,0.057076266,1
+Oceania,Solomon Islands,Young,298909,0.373629244,1
+Oceania,Solomon Islands,Adult,472090,0.590101436,1
+Oceania,Solomon Islands,Old,29016,0.03626932,1
+Oceania,Tokelau,Young,651,0.268564356,1
+Oceania,Tokelau,Adult,1582,0.652640264,1
+Oceania,Tokelau,Old,191,0.07879538,1
+Oceania,Tonga,Young,37260,0.356166479,1
+Oceania,Tonga,Adult,60440,0.577742941,1
+Oceania,Tonga,Old,6914,0.066090581,1
+Oceania,Tuvalu,Young,3202,0.325505744,1
+Oceania,Tuvalu,Adult,6010,0.610958626,1
+Oceania,Tuvalu,Old,625,0.063535631,1
+Oceania,Vanuatu,Young,123722,0.386122052,1
+Oceania,Vanuatu,Adult,183178,0.57167735,1
+Oceania,Vanuatu,Old,13522,0.042200598,1
+Oceania,Wallis and Futuna Islands,Young,2425,0.212831315,1
+Oceania,Wallis and Futuna Islands,Adult,7366,0.646480604,1
+Oceania,Wallis and Futuna Islands,Old,1603,0.140688081,1
