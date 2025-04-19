@@ -1,662 +1,662 @@
-﻿Geo_Cod,Geo_Desc,TIME_PERIOD,OBS_VALUE,Target2020
-AT,Austria,2019,33.755,34
-AT,Austria,2020,36.545,34
-AT,Austria,2021,34.792,34
-AT,Austria,2022,34.075,34
-AT,Austria,2023,40.844,34
-BE,Belgium,2019,9.929,13
-BE,Belgium,2020,13,13
-BE,Belgium,2021,13.076,13
-BE,Belgium,2022,13.816,13
-BE,Belgium,2023,14.741,13
-BG,Bulgaria,2019,21.545,16
-BG,Bulgaria,2020,23.319,16
-BG,Bulgaria,2021,19.445,16
-BG,Bulgaria,2022,19.044,16
-BG,Bulgaria,2023,22.549,16
-CY,Cyprus,2019,13.777,13
-CY,Cyprus,2020,16.879,13
-CY,Cyprus,2021,19.069,13
-CY,Cyprus,2022,19.427,13
-CY,Cyprus,2023,20.213,13
-CZ,Czechia,2019,16.239,13
-CZ,Czechia,2020,17.303,13
-CZ,Czechia,2021,17.614,13
-CZ,Czechia,2022,18.123,13
-CZ,Czechia,2023,18.586,13
-DE,Germany,2019,17.266,18
-DE,Germany,2020,19.09,18
-DE,Germany,2021,19.3,18
-DE,Germany,2022,20.814,18
-DE,Germany,2023,21.562,18
-DK,Denmark,2019,37.02,30
-DK,Denmark,2020,31.681,30
-DK,Denmark,2021,41.813,30
-DK,Denmark,2022,42.383,30
-DK,Denmark,2023,44.396,30
-EE,Estonia,2019,31.73,25
-EE,Estonia,2020,30.069,25
-EE,Estonia,2021,37.342,25
-EE,Estonia,2022,38.542,25
-EE,Estonia,2023,40.95,25
-EL,Greece,2019,19.633,18
-EL,Greece,2020,21.749,18
-EL,Greece,2021,22.001,18
-EL,Greece,2022,22.671,18
-EL,Greece,2023,25.269,18
-ES,Spain,2019,17.852,20
-ES,Spain,2020,21.22,20
-ES,Spain,2021,20.55,20
-ES,Spain,2022,21.896,20
-ES,Spain,2023,24.852,20
-EU27_2020,EU27,2019,19.887,20
-EU27_2020,EU27,2020,22.038,20
-EU27_2020,EU27,2021,21.894,20
-EU27_2020,EU27,2022,23.058,20
-EU27_2020,EU27,2023,24.554,20
-FI,Finland,2019,42.807,38
-FI,Finland,2020,43.939,38
-FI,Finland,2021,42.819,38
-FI,Finland,2022,47.74,38
-FI,Finland,2023,50.75,38
-FR,France,2019,17.174,23
-FR,France,2020,19.109,23
-FR,France,2021,19.316,23
-FR,France,2022,20.445,23
-FR,France,2023,22.283,23
-HR,Croatia,2019,28.466,20
-HR,Croatia,2020,31.023,20
-HR,Croatia,2021,31.285,20
-HR,Croatia,2022,28.088,20
-HR,Croatia,2023,28.051,20
-HU,Hungary,2019,12.634,13
-HU,Hungary,2020,13.85,13
-HU,Hungary,2021,14.134,13
-HU,Hungary,2022,15.128,13
-HU,Hungary,2023,17.117,13
-IE,Ireland,2019,11.979,16
-IE,Ireland,2020,16.16,16
-IE,Ireland,2021,12.996,16
-IE,Ireland,2022,13.068,16
-IE,Ireland,2023,15.253,16
-IS,Iceland,2019,78.612,64
-IS,Iceland,2020,83.725,64
-IS,Iceland,2021,80.185,64
-IS,Iceland,2022,79.475,64
-IT,Italy,2019,18.181,17
-IT,Italy,2020,20.359,17
-IT,Italy,2021,18.883,17
-IT,Italy,2022,19.131,17
-IT,Italy,2023,19.594,17
-LT,Lithuania,2019,25.474,23
-LT,Lithuania,2020,26.773,23
-LT,Lithuania,2021,28.166,23
-LT,Lithuania,2022,29.599,23
-LT,Lithuania,2023,31.926,23
-LU,Luxembourg,2019,7.046,11
-LU,Luxembourg,2020,11.699,11
-LU,Luxembourg,2021,11.726,11
-LU,Luxembourg,2022,14.262,11
-LU,Luxembourg,2023,14.355,11
-LV,Latvia,2019,40.929,40
-LV,Latvia,2020,42.132,40
-LV,Latvia,2021,42.096,40
-LV,Latvia,2022,43.72,40
-LV,Latvia,2023,43.223,40
-MD,Moldova,2019,23.843,0
-MD,Moldova,2020,25.057,0
-MD,Moldova,2021,22.203,0
-MD,Moldova,2022,21.538,0
-MD,Moldova,2023,22.995,0
-MT,Malta,2019,8.23,10
-MT,Malta,2020,10.714,10
-MT,Malta,2021,12.631,10
-MT,Malta,2022,13.969,10
-MT,Malta,2023,15.077,10
-NL,Netherlands,2019,8.886,14
-NL,Netherlands,2020,13.999,14
-NL,Netherlands,2021,13.116,14
-NL,Netherlands,2022,15.134,14
-NL,Netherlands,2023,17.42,14
-NO,Norway,2019,74.406,67.5
-NO,Norway,2020,77.358,67.5
-NO,Norway,2021,74.026,67.5
-NO,Norway,2022,75.875,67.5
-NO,Norway,2023,75.613,67.5
-PL,Poland,2019,15.377,15
-PL,Poland,2020,16.102,15
-PL,Poland,2021,15.604,15
-PL,Poland,2022,16.629,15
-PL,Poland,2023,16.564,15
-PT,Portugal,2019,30.623,31
-PT,Portugal,2020,33.982,31
-PT,Portugal,2021,33.982,31
-PT,Portugal,2022,34.675,31
-PT,Portugal,2023,35.163,31
-RO,Romania,2019,24.29,24
-RO,Romania,2020,24.478,24
-RO,Romania,2021,23.871,24
-RO,Romania,2022,24.229,24
-RO,Romania,2023,25.757,24
-SE,Sweden,2019,55.785,49
-SE,Sweden,2020,60.124,49
-SE,Sweden,2021,62.527,49
-SE,Sweden,2022,66.287,49
-SE,Sweden,2023,66.393,49
-SI,Slovenia,2019,21.968,25
-SI,Slovenia,2020,25,25
-SI,Slovenia,2021,25,25
-SI,Slovenia,2022,25.002,25
-SI,Slovenia,2023,25.066,25
-SK,Slovakia,2019,16.894,14
-SK,Slovakia,2020,17.345,14
-SK,Slovakia,2021,17.419,14
-SK,Slovakia,2022,17.481,14
-SK,Slovakia,2023,16.99,14
-AT,Austria,2019,75.067,34
-AT,Austria,2020,78.204,34
-AT,Austria,2021,73.881,34
-AT,Austria,2022,74.806,34
-AT,Austria,2023,87.764,34
-BE,Belgium,2019,20.817,13
-BE,Belgium,2020,25.122,13
-BE,Belgium,2021,26.018,13
-BE,Belgium,2022,29.098,13
-BE,Belgium,2023,31.37,13
-BG,Bulgaria,2019,23.509,16
-BG,Bulgaria,2020,23.586,16
-BG,Bulgaria,2021,21.413,16
-BG,Bulgaria,2022,20.08,16
-BG,Bulgaria,2023,29.426,16
-CY,Cyprus,2019,9.756,13
-CY,Cyprus,2020,12.041,13
-CY,Cyprus,2021,14.84,13
-CY,Cyprus,2022,16.963,13
-CY,Cyprus,2023,20.939,13
-CZ,Czechia,2019,14.046,13
-CZ,Czechia,2020,14.81,13
-CZ,Czechia,2021,14.468,13
-CZ,Czechia,2022,15.499,13
-CZ,Czechia,2023,16.448,13
-DE,Germany,2019,40.604,18
-DE,Germany,2020,44.215,18
-DE,Germany,2021,43.964,18
-DE,Germany,2022,48.041,18
-DE,Germany,2023,52.31,18
-DK,Denmark,2019,65.347,30
-DK,Denmark,2020,65.323,30
-DK,Denmark,2021,72.92,30
-DK,Denmark,2022,77.222,30
-DK,Denmark,2023,79.392,30
-EE,Estonia,2019,21.998,25
-EE,Estonia,2020,28.293,25
-EE,Estonia,2021,29.197,25
-EE,Estonia,2022,29.115,25
-EE,Estonia,2023,31.845,25
-EL,Greece,2019,31.295,18
-EL,Greece,2020,35.856,18
-EL,Greece,2021,35.881,18
-EL,Greece,2022,42.361,18
-EL,Greece,2023,48.225,18
-ES,Spain,2019,37.131,20
-ES,Spain,2020,42.944,20
-ES,Spain,2021,46.001,20
-ES,Spain,2022,50.901,20
-ES,Spain,2023,56.933,20
-EU27_2020,EU27,2019,34.086,20
-EU27_2020,EU27,2020,37.408,20
-EU27_2020,EU27,2021,37.777,20
-EU27_2020,EU27,2022,41.249,20
-EU27_2020,EU27,2023,45.299,20
-FI,Finland,2019,37.969,38
-FI,Finland,2020,39.564,38
-FI,Finland,2021,39.583,38
-FI,Finland,2022,47.966,38
-FI,Finland,2023,52.375,38
-FR,France,2019,22.389,23
-FR,France,2020,24.819,23
-FR,France,2021,24.733,23
-FR,France,2022,27.292,23
-FR,France,2023,29.981,23
-HR,Croatia,2019,49.783,20
-HR,Croatia,2020,53.816,20
-HR,Croatia,2021,53.471,20
-HR,Croatia,2022,56.245,20
-HR,Croatia,2023,58.826,20
-HU,Hungary,2019,9.969,13
-HU,Hungary,2020,11.904,13
-HU,Hungary,2021,13.66,13
-HU,Hungary,2022,15.333,13
-HU,Hungary,2023,19.535,13
-IE,Ireland,2019,36.46,16
-IE,Ireland,2020,39.055,16
-IE,Ireland,2021,37.665,16
-IE,Ireland,2022,37.387,16
-IE,Ireland,2023,40.428,16
-IS,Iceland,2019,100.64,64
-IS,Iceland,2020,102.709,64
-IS,Iceland,2021,99.536,64
-IS,Iceland,2022,99.193,64
-IT,Italy,2019,34.969,17
-IT,Italy,2020,38.081,17
-IT,Italy,2021,35.996,17
-IT,Italy,2022,37.102,17
-IT,Italy,2023,38.1,17
-LT,Lithuania,2019,18.79,23
-LT,Lithuania,2020,20.166,23
-LT,Lithuania,2021,21.278,23
-LT,Lithuania,2022,26.461,23
-LT,Lithuania,2023,36.469,23
-LU,Luxembourg,2019,10.863,11
-LU,Luxembourg,2020,13.887,11
-LU,Luxembourg,2021,14.216,11
-LU,Luxembourg,2022,16.187,11
-LU,Luxembourg,2023,18.044,11
-LV,Latvia,2019,53.423,40
-LV,Latvia,2020,53.357,40
-LV,Latvia,2021,51.399,40
-LV,Latvia,2022,53.519,40
-LV,Latvia,2023,54.317,40
-MD,Moldova,2019,3.039,0
-MD,Moldova,2020,3.118,0
-MD,Moldova,2021,3.579,0
-MD,Moldova,2022,5.535,0
-MD,Moldova,2023,9.209,0
-MT,Malta,2019,7.485,10
-MT,Malta,2020,9.489,10
-MT,Malta,2021,9.649,10
-MT,Malta,2022,10.122,10
-MT,Malta,2023,10.74,10
-NL,Netherlands,2019,18.23,14
-NL,Netherlands,2020,26.407,14
-NL,Netherlands,2021,33.251,14
-NL,Netherlands,2022,39.65,14
-NL,Netherlands,2023,46.4,14
-NO,Norway,2019,110.445,67.5
-NO,Norway,2020,113.802,67.5
-NO,Norway,2021,113.642,67.5
-NO,Norway,2022,120.01,67.5
-NO,Norway,2023,116.538,67.5
-PL,Poland,2019,14.356,15
-PL,Poland,2020,16.237,15
-PL,Poland,2021,17.167,15
-PL,Poland,2022,21.009,15
-PL,Poland,2023,25.793,15
-PT,Portugal,2019,53.774,31
-PT,Portugal,2020,58.032,31
-PT,Portugal,2021,58.433,31
-PT,Portugal,2022,60.991,31
-PT,Portugal,2023,63.01,31
-RO,Romania,2019,42.616,24
-RO,Romania,2020,43.374,24
-RO,Romania,2021,42.676,24
-RO,Romania,2022,43.726,24
-RO,Romania,2023,47.391,24
-SE,Sweden,2019,71.234,49
-SE,Sweden,2020,74.495,49
-SE,Sweden,2021,75.76,49
-SE,Sweden,2022,83.372,49
-SE,Sweden,2023,87.547,49
-SI,Slovenia,2019,32.632,25
-SI,Slovenia,2020,35.095,25
-SI,Slovenia,2021,34.976,25
-SI,Slovenia,2022,37.005,25
-SI,Slovenia,2023,41.887,25
-SK,Slovakia,2019,22.103,14
-SK,Slovakia,2020,23.066,14
-SK,Slovakia,2021,22.402,14
-SK,Slovakia,2022,22.901,14
-SK,Slovakia,2023,24.201,14
-AT,Austria,2019,33.929,34
-AT,Austria,2020,34.995,34
-AT,Austria,2021,33.432,34
-AT,Austria,2022,31.293,34
-AT,Austria,2023,39.387,34
-BE,Belgium,2019,8.319,13
-BE,Belgium,2020,8.447,13
-BE,Belgium,2021,9.279,13
-BE,Belgium,2022,10.556,13
-BE,Belgium,2023,11.304,13
-BG,Bulgaria,2019,35.423,16
-BG,Bulgaria,2020,37.178,16
-BG,Bulgaria,2021,30.015,16
-BG,Bulgaria,2022,31.646,16
-BG,Bulgaria,2023,34.876,16
-CY,Cyprus,2019,35.051,13
-CY,Cyprus,2020,37.117,13
-CY,Cyprus,2021,42.595,13
-CY,Cyprus,2022,41.56,13
-CY,Cyprus,2023,42.75,13
-CZ,Czechia,2019,22.632,13
-CZ,Czechia,2020,23.535,13
-CZ,Czechia,2021,24.349,13
-CZ,Czechia,2022,25.821,13
-CZ,Czechia,2023,27.769,13
-DE,Germany,2019,14.504,18
-DE,Germany,2020,14.481,18
-DE,Germany,2021,15.529,18
-DE,Germany,2022,17.376,18
-DE,Germany,2023,17.101,18
-DK,Denmark,2019,47.302,30
-DK,Denmark,2020,51.073,30
-DK,Denmark,2021,51.292,30
-DK,Denmark,2022,52.323,30
-DK,Denmark,2023,54.898,30
-EE,Estonia,2019,52.193,25
-EE,Estonia,2020,58.834,25
-EE,Estonia,2021,61.347,25
-EE,Estonia,2022,65.442,25
-EE,Estonia,2023,66.668,25
-EL,Greece,2019,30.048,18
-EL,Greece,2020,31.941,18
-EL,Greece,2021,31.081,18
-EL,Greece,2022,30.622,18
-EL,Greece,2023,35.547,18
-ES,Spain,2019,17.203,20
-ES,Spain,2020,17.966,20
-ES,Spain,2021,16.957,20
-ES,Spain,2022,19.47,20
-ES,Spain,2023,21.449,20
-EU27_2020,EU27,2019,22.432,20
-EU27_2020,EU27,2020,22.983,20
-EU27_2020,EU27,2021,23.03,20
-EU27_2020,EU27,2022,24.917,20
-EU27_2020,EU27,2023,26.237,20
-FI,Finland,2019,56.884,38
-FI,Finland,2020,57.622,38
-FI,Finland,2021,52.085,38
-FI,Finland,2022,58.292,38
-FI,Finland,2023,61.264,38
-FR,France,2019,22.36,23
-FR,France,2020,23.368,23
-FR,France,2021,24.643,23
-FR,France,2022,27.272,23
-FR,France,2023,29.927,23
-HR,Croatia,2019,36.791,20
-HR,Croatia,2020,36.928,20
-HR,Croatia,2021,38.006,20
-HR,Croatia,2022,37.213,20
-HR,Croatia,2023,36.173,20
-HU,Hungary,2019,18.16,13
-HU,Hungary,2020,17.72,13
-HU,Hungary,2021,17.898,13
-HU,Hungary,2022,20.232,13
-HU,Hungary,2023,22.265,13
-IE,Ireland,2019,6.344,16
-IE,Ireland,2020,6.264,16
-IE,Ireland,2021,5.564,16
-IE,Ireland,2022,5.523,16
-IE,Ireland,2023,7.862,16
-IS,Iceland,2019,80.896,64
-IS,Iceland,2020,80.504,64
-IS,Iceland,2021,79.621,64
-IS,Iceland,2022,83.555,64
-IT,Italy,2019,19.699,17
-IT,Italy,2020,19.949,17
-IT,Italy,2021,19.335,17
-IT,Italy,2022,20.566,17
-IT,Italy,2023,21.715,17
-LT,Lithuania,2019,47.372,23
-LT,Lithuania,2020,50.35,23
-LT,Lithuania,2021,48.624,23
-LT,Lithuania,2022,51.54,23
-LT,Lithuania,2023,53.611,23
-LU,Luxembourg,2019,8.687,11
-LU,Luxembourg,2020,12.614,11
-LU,Luxembourg,2021,12.888,11
-LU,Luxembourg,2022,14.976,11
-LU,Luxembourg,2023,15.48,11
-LV,Latvia,2019,57.749,40
-LV,Latvia,2020,57.094,40
-LV,Latvia,2021,57.36,40
-LV,Latvia,2022,60.96,40
-LV,Latvia,2023,61.356,40
-MD,Moldova,2019,40.472,0
-MD,Moldova,2020,41.173,0
-MD,Moldova,2021,36.877,0
-MD,Moldova,2022,38.39,0
-MD,Moldova,2023,40.655,0
-MT,Malta,2019,23.602,10
-MT,Malta,2020,23.027,10
-MT,Malta,2021,32.606,10
-MT,Malta,2022,39.942,10
-MT,Malta,2023,47.474,10
-NL,Netherlands,2019,7.217,14
-NL,Netherlands,2020,8.053,14
-NL,Netherlands,2021,8.092,14
-NL,Netherlands,2022,9.081,14
-NL,Netherlands,2023,10.199,14
-NO,Norway,2019,35.384,67.5
-NO,Norway,2020,36.126,67.5
-NO,Norway,2021,32.305,67.5
-NO,Norway,2022,34.271,67.5
-NO,Norway,2023,33.637,67.5
-PL,Poland,2019,22.005,15
-PL,Poland,2020,22.143,15
-PL,Poland,2021,20.978,15
-PL,Poland,2022,22.065,15
-PL,Poland,2023,20.415,15
-PT,Portugal,2019,41.657,31
-PT,Portugal,2020,41.546,31
-PT,Portugal,2021,42.681,31
-PT,Portugal,2022,45.545,31
-PT,Portugal,2023,47.098,31
-RO,Romania,2019,25.739,24
-RO,Romania,2020,25.327,24
-RO,Romania,2021,24.573,24
-RO,Romania,2022,26.251,24
-RO,Romania,2023,29.126,24
-SE,Sweden,2019,64.394,49
-SE,Sweden,2020,66.381,49
-SE,Sweden,2021,68.53,49
-SE,Sweden,2022,69.81,49
-SE,Sweden,2023,67.068,49
-SI,Slovenia,2019,32.132,25
-SI,Slovenia,2020,32.141,25
-SI,Slovenia,2021,35.216,25
-SI,Slovenia,2022,33.989,25
-SI,Slovenia,2023,34.302,25
-SK,Slovakia,2019,19.696,14
-SK,Slovakia,2020,19.427,14
-SK,Slovakia,2021,19.521,14
-SK,Slovakia,2022,19.882,14
-SK,Slovakia,2023,18.794,14
-BE,Belgium,2021,9.525,13
-BE,Belgium,2022,10.764,13
-BE,Belgium,2023,11.554,13
-DK,Denmark,2021,53.071,30
-DK,Denmark,2022,54.075,30
-DK,Denmark,2023,56.536,30
-ES,Spain,2021,17.023,20
-ES,Spain,2022,19.542,20
-ES,Spain,2023,21.523,20
-EU27_2020,EU27,2021,23.091,20
-EU27_2020,EU27,2022,24.977,20
-EU27_2020,EU27,2023,26.302,20
-HU,Hungary,2021,17.908,13
-HU,Hungary,2022,20.242,13
-HU,Hungary,2023,22.277,13
-IT,Italy,2021,19.352,17
-IT,Italy,2022,20.586,17
-IT,Italy,2023,21.759,17
-LU,Luxembourg,2021,19.77,11
-LU,Luxembourg,2022,22.936,11
-LU,Luxembourg,2023,23.781,11
-AT,Austria,2019,10.051,34
-AT,Austria,2020,10.283,34
-AT,Austria,2021,9.568,34
-AT,Austria,2022,10.744,34
-AT,Austria,2023,13.207,34
-BE,Belgium,2019,6.817,13
-BE,Belgium,2020,11.035,13
-BE,Belgium,2021,10.315,13
-BE,Belgium,2022,10.443,13
-BE,Belgium,2023,12.095,13
-BG,Bulgaria,2019,7.893,16
-BG,Bulgaria,2020,9.101,16
-BG,Bulgaria,2021,7.613,16
-BG,Bulgaria,2022,7.662,16
-BG,Bulgaria,2023,8.088,16
-CY,Cyprus,2019,3.316,13
-CY,Cyprus,2020,7.401,13
-CY,Cyprus,2021,7.189,13
-CY,Cyprus,2022,7.228,13
-CY,Cyprus,2023,7.285,13
-CZ,Czechia,2019,7.841,13
-CZ,Czechia,2020,9.383,13
-CZ,Czechia,2021,6.74,13
-CZ,Czechia,2022,6.24,13
-CZ,Czechia,2023,5.653,13
-DE,Germany,2019,7.63,18
-DE,Germany,2020,10.008,18
-DE,Germany,2021,8.104,18
-DE,Germany,2022,10.075,18
-DE,Germany,2023,11.864,18
-DK,Denmark,2019,7.11,30
-DK,Denmark,2020,9.701,30
-DK,Denmark,2021,10.51,30
-DK,Denmark,2022,10.354,30
-DK,Denmark,2023,10.803,30
-EE,Estonia,2019,6.243,25
-EE,Estonia,2020,12.165,25
-EE,Estonia,2021,11.187,25
-EE,Estonia,2022,8.531,25
-EE,Estonia,2023,9.065,25
-EL,Greece,2019,4.049,18
-EL,Greece,2020,5.341,18
-EL,Greece,2021,4.414,18
-EL,Greece,2022,4.083,18
-EL,Greece,2023,3.942,18
-ES,Spain,2019,7.61,20
-ES,Spain,2020,9.528,20
-ES,Spain,2021,9.206,20
-ES,Spain,2022,9.683,20
-ES,Spain,2023,11.96,20
-EU27_2020,EU27,2019,8.804,20
-EU27_2020,EU27,2020,10.253,20
-EU27_2020,EU27,2021,9.052,20
-EU27_2020,EU27,2022,9.635,20
-EU27_2020,EU27,2023,10.831,20
-FI,Finland,2019,14.845,38
-FI,Finland,2020,14.31,38
-FI,Finland,2021,20.298,38
-FI,Finland,2022,18.766,38
-FI,Finland,2023,20.645,38
-FR,France,2019,9.248,23
-FR,France,2020,9.207,23
-FR,France,2021,8.116,23
-FR,France,2022,8.866,23
-FR,France,2023,10.028,23
-HR,Croatia,2019,5.855,20
-HR,Croatia,2020,6.593,20
-HR,Croatia,2021,6.985,20
-HR,Croatia,2022,2.395,20
-HR,Croatia,2023,0.919,20
-HU,Hungary,2019,8.057,13
-HU,Hungary,2020,11.571,13
-HU,Hungary,2021,6.165,13
-HU,Hungary,2022,7.77,13
-HU,Hungary,2023,7.575,13
-IE,Ireland,2019,8.917,16
-IE,Ireland,2020,10.187,16
-IE,Ireland,2021,4.645,16
-IE,Ireland,2022,5.823,16
-IE,Ireland,2023,7.578,16
-IS,Iceland,2019,9.292,64
-IS,Iceland,2020,11.959,64
-IS,Iceland,2021,12.562,64
-IS,Iceland,2022,13.666,64
-IT,Italy,2019,9.047,17
-IT,Italy,2020,10.736,17
-IT,Italy,2021,9.87,17
-IT,Italy,2022,10.048,17
-IT,Italy,2023,10.25,17
-LT,Lithuania,2019,4.049,23
-LT,Lithuania,2020,5.511,23
-LT,Lithuania,2021,6.467,23
-LT,Lithuania,2022,6.682,23
-LT,Lithuania,2023,7.231,23
-LU,Luxembourg,2019,7.707,11
-LU,Luxembourg,2020,12.581,11
-LU,Luxembourg,2021,7.968,11
-LU,Luxembourg,2022,8.71,11
-LU,Luxembourg,2023,9.151,11
-LV,Latvia,2019,4.554,40
-LV,Latvia,2020,6.733,40
-LV,Latvia,2021,6.436,40
-LV,Latvia,2022,3.123,40
-LV,Latvia,2023,1.358,40
-MD,Moldova,2019,0.174,0
-MD,Moldova,2020,0.179,0
-MD,Moldova,2021,0.017,0
-MD,Moldova,2022,0.017,0
-MD,Moldova,2023,0.022,0
-MT,Malta,2019,8.902,10
-MT,Malta,2020,10.586,10
-MT,Malta,2021,10.516,10
-MT,Malta,2022,10.473,10
-MT,Malta,2023,10.748,10
-NL,Netherlands,2019,12.326,14
-NL,Netherlands,2020,12.631,14
-NL,Netherlands,2021,9.222,14
-NL,Netherlands,2022,11.08,14
-NL,Netherlands,2023,13.435,14
-NO,Norway,2019,25.668,67.5
-NO,Norway,2020,28.69,67.5
-NO,Norway,2021,20.66,67.5
-NO,Norway,2022,23.734,67.5
-NO,Norway,2023,27.732,67.5
-PL,Poland,2019,6.2,15
-PL,Poland,2020,6.575,15
-PL,Poland,2021,5.677,15
-PL,Poland,2022,5.803,15
-PL,Poland,2023,5.986,15
-PT,Portugal,2019,9.089,31
-PT,Portugal,2020,9.701,31
-PT,Portugal,2021,8.611,31
-PT,Portugal,2022,8.706,31
-PT,Portugal,2023,11.162,31
-RO,Romania,2019,7.846,24
-RO,Romania,2020,8.54,24
-RO,Romania,2021,8.917,24
-RO,Romania,2022,8.924,24
-RO,Romania,2023,8.025,24
-SE,Sweden,2019,30.309,49
-SE,Sweden,2020,31.854,49
-SE,Sweden,2021,28.677,49
-SE,Sweden,2022,28.841,49
-SE,Sweden,2023,33.645,49
-SI,Slovenia,2019,7.983,25
-SI,Slovenia,2020,10.911,25
-SI,Slovenia,2021,10.642,25
-SI,Slovenia,2022,7.828,25
-SI,Slovenia,2023,10.021,25
-SK,Slovakia,2019,8.308,14
-SK,Slovakia,2020,9.259,14
-SK,Slovakia,2021,8.755,14
-SK,Slovakia,2022,8.931,14
-SK,Slovakia,2023,9.182,14
-BE,Belgium,2021,73,13
-BE,Belgium,2022,74,13
-BE,Belgium,2023,74,13
-DE,Germany,2021,18.568,18
-DE,Germany,2022,20.115,18
-DE,Germany,2023,20.925,18
-DK,Denmark,2021,72,30
-DK,Denmark,2022,72,30
-DK,Denmark,2023,72,30
-ES,Spain,2021,38,20
-ES,Spain,2022,38,20
-ES,Spain,2023,38,20
-EU27_2020,EU27,2021,30.546,20
-EU27_2020,EU27,2022,31.848,20
-EU27_2020,EU27,2023,33.303,20
-HU,Hungary,2021,16,13
-HU,Hungary,2022,18,13
-HU,Hungary,2023,20,13
-IT,Italy,2021,25,17
-IT,Italy,2022,27,17
-IT,Italy,2023,28,17
-LU,Luxembourg,2021,76,11
-LU,Luxembourg,2022,79,11
-LU,Luxembourg,2023,82,11
+﻿Energy balance,Geo_Cod,Geo_Desc,TIME_PERIOD,OBS_VALUE,Target2020
+Renewable energy sources,AT,Austria,2019,33.755,34
+Renewable energy sources,AT,Austria,2020,36.545,34
+Renewable energy sources,AT,Austria,2021,34.792,34
+Renewable energy sources,AT,Austria,2022,34.075,34
+Renewable energy sources,AT,Austria,2023,40.844,34
+Renewable energy sources,BE,Belgium,2019,9.929,13
+Renewable energy sources,BE,Belgium,2020,13,13
+Renewable energy sources,BE,Belgium,2021,13.076,13
+Renewable energy sources,BE,Belgium,2022,13.816,13
+Renewable energy sources,BE,Belgium,2023,14.741,13
+Renewable energy sources,BG,Bulgaria,2019,21.545,16
+Renewable energy sources,BG,Bulgaria,2020,23.319,16
+Renewable energy sources,BG,Bulgaria,2021,19.445,16
+Renewable energy sources,BG,Bulgaria,2022,19.044,16
+Renewable energy sources,BG,Bulgaria,2023,22.549,16
+Renewable energy sources,CY,Cyprus,2019,13.777,13
+Renewable energy sources,CY,Cyprus,2020,16.879,13
+Renewable energy sources,CY,Cyprus,2021,19.069,13
+Renewable energy sources,CY,Cyprus,2022,19.427,13
+Renewable energy sources,CY,Cyprus,2023,20.213,13
+Renewable energy sources,CZ,Czechia,2019,16.239,13
+Renewable energy sources,CZ,Czechia,2020,17.303,13
+Renewable energy sources,CZ,Czechia,2021,17.614,13
+Renewable energy sources,CZ,Czechia,2022,18.123,13
+Renewable energy sources,CZ,Czechia,2023,18.586,13
+Renewable energy sources,DE,Germany,2019,17.266,18
+Renewable energy sources,DE,Germany,2020,19.09,18
+Renewable energy sources,DE,Germany,2021,19.3,18
+Renewable energy sources,DE,Germany,2022,20.814,18
+Renewable energy sources,DE,Germany,2023,21.562,18
+Renewable energy sources,DK,Denmark,2019,37.02,30
+Renewable energy sources,DK,Denmark,2020,31.681,30
+Renewable energy sources,DK,Denmark,2021,41.813,30
+Renewable energy sources,DK,Denmark,2022,42.383,30
+Renewable energy sources,DK,Denmark,2023,44.396,30
+Renewable energy sources,EE,Estonia,2019,31.73,25
+Renewable energy sources,EE,Estonia,2020,30.069,25
+Renewable energy sources,EE,Estonia,2021,37.342,25
+Renewable energy sources,EE,Estonia,2022,38.542,25
+Renewable energy sources,EE,Estonia,2023,40.95,25
+Renewable energy sources,EL,Greece,2019,19.633,18
+Renewable energy sources,EL,Greece,2020,21.749,18
+Renewable energy sources,EL,Greece,2021,22.001,18
+Renewable energy sources,EL,Greece,2022,22.671,18
+Renewable energy sources,EL,Greece,2023,25.269,18
+Renewable energy sources,ES,Spain,2019,17.852,20
+Renewable energy sources,ES,Spain,2020,21.22,20
+Renewable energy sources,ES,Spain,2021,20.55,20
+Renewable energy sources,ES,Spain,2022,21.896,20
+Renewable energy sources,ES,Spain,2023,24.852,20
+Renewable energy sources,EU27_2020,EU27,2019,19.887,20
+Renewable energy sources,EU27_2020,EU27,2020,22.038,20
+Renewable energy sources,EU27_2020,EU27,2021,21.894,20
+Renewable energy sources,EU27_2020,EU27,2022,23.058,20
+Renewable energy sources,EU27_2020,EU27,2023,24.554,20
+Renewable energy sources,FI,Finland,2019,42.807,38
+Renewable energy sources,FI,Finland,2020,43.939,38
+Renewable energy sources,FI,Finland,2021,42.819,38
+Renewable energy sources,FI,Finland,2022,47.74,38
+Renewable energy sources,FI,Finland,2023,50.75,38
+Renewable energy sources,FR,France,2019,17.174,23
+Renewable energy sources,FR,France,2020,19.109,23
+Renewable energy sources,FR,France,2021,19.316,23
+Renewable energy sources,FR,France,2022,20.445,23
+Renewable energy sources,FR,France,2023,22.283,23
+Renewable energy sources,HR,Croatia,2019,28.466,20
+Renewable energy sources,HR,Croatia,2020,31.023,20
+Renewable energy sources,HR,Croatia,2021,31.285,20
+Renewable energy sources,HR,Croatia,2022,28.088,20
+Renewable energy sources,HR,Croatia,2023,28.051,20
+Renewable energy sources,HU,Hungary,2019,12.634,13
+Renewable energy sources,HU,Hungary,2020,13.85,13
+Renewable energy sources,HU,Hungary,2021,14.134,13
+Renewable energy sources,HU,Hungary,2022,15.128,13
+Renewable energy sources,HU,Hungary,2023,17.117,13
+Renewable energy sources,IE,Ireland,2019,11.979,16
+Renewable energy sources,IE,Ireland,2020,16.16,16
+Renewable energy sources,IE,Ireland,2021,12.996,16
+Renewable energy sources,IE,Ireland,2022,13.068,16
+Renewable energy sources,IE,Ireland,2023,15.253,16
+Renewable energy sources,IS,Iceland,2019,78.612,64
+Renewable energy sources,IS,Iceland,2020,83.725,64
+Renewable energy sources,IS,Iceland,2021,80.185,64
+Renewable energy sources,IS,Iceland,2022,79.475,64
+Renewable energy sources,IT,Italy,2019,18.181,17
+Renewable energy sources,IT,Italy,2020,20.359,17
+Renewable energy sources,IT,Italy,2021,18.883,17
+Renewable energy sources,IT,Italy,2022,19.131,17
+Renewable energy sources,IT,Italy,2023,19.594,17
+Renewable energy sources,LT,Lithuania,2019,25.474,23
+Renewable energy sources,LT,Lithuania,2020,26.773,23
+Renewable energy sources,LT,Lithuania,2021,28.166,23
+Renewable energy sources,LT,Lithuania,2022,29.599,23
+Renewable energy sources,LT,Lithuania,2023,31.926,23
+Renewable energy sources,LU,Luxembourg,2019,7.046,11
+Renewable energy sources,LU,Luxembourg,2020,11.699,11
+Renewable energy sources,LU,Luxembourg,2021,11.726,11
+Renewable energy sources,LU,Luxembourg,2022,14.262,11
+Renewable energy sources,LU,Luxembourg,2023,14.355,11
+Renewable energy sources,LV,Latvia,2019,40.929,40
+Renewable energy sources,LV,Latvia,2020,42.132,40
+Renewable energy sources,LV,Latvia,2021,42.096,40
+Renewable energy sources,LV,Latvia,2022,43.72,40
+Renewable energy sources,LV,Latvia,2023,43.223,40
+Renewable energy sources,MD,Moldova,2019,23.843,0
+Renewable energy sources,MD,Moldova,2020,25.057,0
+Renewable energy sources,MD,Moldova,2021,22.203,0
+Renewable energy sources,MD,Moldova,2022,21.538,0
+Renewable energy sources,MD,Moldova,2023,22.995,0
+Renewable energy sources,MT,Malta,2019,8.23,10
+Renewable energy sources,MT,Malta,2020,10.714,10
+Renewable energy sources,MT,Malta,2021,12.631,10
+Renewable energy sources,MT,Malta,2022,13.969,10
+Renewable energy sources,MT,Malta,2023,15.077,10
+Renewable energy sources,NL,Netherlands,2019,8.886,14
+Renewable energy sources,NL,Netherlands,2020,13.999,14
+Renewable energy sources,NL,Netherlands,2021,13.116,14
+Renewable energy sources,NL,Netherlands,2022,15.134,14
+Renewable energy sources,NL,Netherlands,2023,17.42,14
+Renewable energy sources,NO,Norway,2019,74.406,67.5
+Renewable energy sources,NO,Norway,2020,77.358,67.5
+Renewable energy sources,NO,Norway,2021,74.026,67.5
+Renewable energy sources,NO,Norway,2022,75.875,67.5
+Renewable energy sources,NO,Norway,2023,75.613,67.5
+Renewable energy sources,PL,Poland,2019,15.377,15
+Renewable energy sources,PL,Poland,2020,16.102,15
+Renewable energy sources,PL,Poland,2021,15.604,15
+Renewable energy sources,PL,Poland,2022,16.629,15
+Renewable energy sources,PL,Poland,2023,16.564,15
+Renewable energy sources,PT,Portugal,2019,30.623,31
+Renewable energy sources,PT,Portugal,2020,33.982,31
+Renewable energy sources,PT,Portugal,2021,33.982,31
+Renewable energy sources,PT,Portugal,2022,34.675,31
+Renewable energy sources,PT,Portugal,2023,35.163,31
+Renewable energy sources,RO,Romania,2019,24.29,24
+Renewable energy sources,RO,Romania,2020,24.478,24
+Renewable energy sources,RO,Romania,2021,23.871,24
+Renewable energy sources,RO,Romania,2022,24.229,24
+Renewable energy sources,RO,Romania,2023,25.757,24
+Renewable energy sources,SE,Sweden,2019,55.785,49
+Renewable energy sources,SE,Sweden,2020,60.124,49
+Renewable energy sources,SE,Sweden,2021,62.527,49
+Renewable energy sources,SE,Sweden,2022,66.287,49
+Renewable energy sources,SE,Sweden,2023,66.393,49
+Renewable energy sources,SI,Slovenia,2019,21.968,25
+Renewable energy sources,SI,Slovenia,2020,25,25
+Renewable energy sources,SI,Slovenia,2021,25,25
+Renewable energy sources,SI,Slovenia,2022,25.002,25
+Renewable energy sources,SI,Slovenia,2023,25.066,25
+Renewable energy sources,SK,Slovakia,2019,16.894,14
+Renewable energy sources,SK,Slovakia,2020,17.345,14
+Renewable energy sources,SK,Slovakia,2021,17.419,14
+Renewable energy sources,SK,Slovakia,2022,17.481,14
+Renewable energy sources,SK,Slovakia,2023,16.99,14
+Renewable energy sources in electricity,AT,Austria,2019,75.067,34
+Renewable energy sources in electricity,AT,Austria,2020,78.204,34
+Renewable energy sources in electricity,AT,Austria,2021,73.881,34
+Renewable energy sources in electricity,AT,Austria,2022,74.806,34
+Renewable energy sources in electricity,AT,Austria,2023,87.764,34
+Renewable energy sources in electricity,BE,Belgium,2019,20.817,13
+Renewable energy sources in electricity,BE,Belgium,2020,25.122,13
+Renewable energy sources in electricity,BE,Belgium,2021,26.018,13
+Renewable energy sources in electricity,BE,Belgium,2022,29.098,13
+Renewable energy sources in electricity,BE,Belgium,2023,31.37,13
+Renewable energy sources in electricity,BG,Bulgaria,2019,23.509,16
+Renewable energy sources in electricity,BG,Bulgaria,2020,23.586,16
+Renewable energy sources in electricity,BG,Bulgaria,2021,21.413,16
+Renewable energy sources in electricity,BG,Bulgaria,2022,20.08,16
+Renewable energy sources in electricity,BG,Bulgaria,2023,29.426,16
+Renewable energy sources in electricity,CY,Cyprus,2019,9.756,13
+Renewable energy sources in electricity,CY,Cyprus,2020,12.041,13
+Renewable energy sources in electricity,CY,Cyprus,2021,14.84,13
+Renewable energy sources in electricity,CY,Cyprus,2022,16.963,13
+Renewable energy sources in electricity,CY,Cyprus,2023,20.939,13
+Renewable energy sources in electricity,CZ,Czechia,2019,14.046,13
+Renewable energy sources in electricity,CZ,Czechia,2020,14.81,13
+Renewable energy sources in electricity,CZ,Czechia,2021,14.468,13
+Renewable energy sources in electricity,CZ,Czechia,2022,15.499,13
+Renewable energy sources in electricity,CZ,Czechia,2023,16.448,13
+Renewable energy sources in electricity,DE,Germany,2019,40.604,18
+Renewable energy sources in electricity,DE,Germany,2020,44.215,18
+Renewable energy sources in electricity,DE,Germany,2021,43.964,18
+Renewable energy sources in electricity,DE,Germany,2022,48.041,18
+Renewable energy sources in electricity,DE,Germany,2023,52.31,18
+Renewable energy sources in electricity,DK,Denmark,2019,65.347,30
+Renewable energy sources in electricity,DK,Denmark,2020,65.323,30
+Renewable energy sources in electricity,DK,Denmark,2021,72.92,30
+Renewable energy sources in electricity,DK,Denmark,2022,77.222,30
+Renewable energy sources in electricity,DK,Denmark,2023,79.392,30
+Renewable energy sources in electricity,EE,Estonia,2019,21.998,25
+Renewable energy sources in electricity,EE,Estonia,2020,28.293,25
+Renewable energy sources in electricity,EE,Estonia,2021,29.197,25
+Renewable energy sources in electricity,EE,Estonia,2022,29.115,25
+Renewable energy sources in electricity,EE,Estonia,2023,31.845,25
+Renewable energy sources in electricity,EL,Greece,2019,31.295,18
+Renewable energy sources in electricity,EL,Greece,2020,35.856,18
+Renewable energy sources in electricity,EL,Greece,2021,35.881,18
+Renewable energy sources in electricity,EL,Greece,2022,42.361,18
+Renewable energy sources in electricity,EL,Greece,2023,48.225,18
+Renewable energy sources in electricity,ES,Spain,2019,37.131,20
+Renewable energy sources in electricity,ES,Spain,2020,42.944,20
+Renewable energy sources in electricity,ES,Spain,2021,46.001,20
+Renewable energy sources in electricity,ES,Spain,2022,50.901,20
+Renewable energy sources in electricity,ES,Spain,2023,56.933,20
+Renewable energy sources in electricity,EU27_2020,EU27,2019,34.086,20
+Renewable energy sources in electricity,EU27_2020,EU27,2020,37.408,20
+Renewable energy sources in electricity,EU27_2020,EU27,2021,37.777,20
+Renewable energy sources in electricity,EU27_2020,EU27,2022,41.249,20
+Renewable energy sources in electricity,EU27_2020,EU27,2023,45.299,20
+Renewable energy sources in electricity,FI,Finland,2019,37.969,38
+Renewable energy sources in electricity,FI,Finland,2020,39.564,38
+Renewable energy sources in electricity,FI,Finland,2021,39.583,38
+Renewable energy sources in electricity,FI,Finland,2022,47.966,38
+Renewable energy sources in electricity,FI,Finland,2023,52.375,38
+Renewable energy sources in electricity,FR,France,2019,22.389,23
+Renewable energy sources in electricity,FR,France,2020,24.819,23
+Renewable energy sources in electricity,FR,France,2021,24.733,23
+Renewable energy sources in electricity,FR,France,2022,27.292,23
+Renewable energy sources in electricity,FR,France,2023,29.981,23
+Renewable energy sources in electricity,HR,Croatia,2019,49.783,20
+Renewable energy sources in electricity,HR,Croatia,2020,53.816,20
+Renewable energy sources in electricity,HR,Croatia,2021,53.471,20
+Renewable energy sources in electricity,HR,Croatia,2022,56.245,20
+Renewable energy sources in electricity,HR,Croatia,2023,58.826,20
+Renewable energy sources in electricity,HU,Hungary,2019,9.969,13
+Renewable energy sources in electricity,HU,Hungary,2020,11.904,13
+Renewable energy sources in electricity,HU,Hungary,2021,13.66,13
+Renewable energy sources in electricity,HU,Hungary,2022,15.333,13
+Renewable energy sources in electricity,HU,Hungary,2023,19.535,13
+Renewable energy sources in electricity,IE,Ireland,2019,36.46,16
+Renewable energy sources in electricity,IE,Ireland,2020,39.055,16
+Renewable energy sources in electricity,IE,Ireland,2021,37.665,16
+Renewable energy sources in electricity,IE,Ireland,2022,37.387,16
+Renewable energy sources in electricity,IE,Ireland,2023,40.428,16
+Renewable energy sources in electricity,IS,Iceland,2019,100.64,64
+Renewable energy sources in electricity,IS,Iceland,2020,102.709,64
+Renewable energy sources in electricity,IS,Iceland,2021,99.536,64
+Renewable energy sources in electricity,IS,Iceland,2022,99.193,64
+Renewable energy sources in electricity,IT,Italy,2019,34.969,17
+Renewable energy sources in electricity,IT,Italy,2020,38.081,17
+Renewable energy sources in electricity,IT,Italy,2021,35.996,17
+Renewable energy sources in electricity,IT,Italy,2022,37.102,17
+Renewable energy sources in electricity,IT,Italy,2023,38.1,17
+Renewable energy sources in electricity,LT,Lithuania,2019,18.79,23
+Renewable energy sources in electricity,LT,Lithuania,2020,20.166,23
+Renewable energy sources in electricity,LT,Lithuania,2021,21.278,23
+Renewable energy sources in electricity,LT,Lithuania,2022,26.461,23
+Renewable energy sources in electricity,LT,Lithuania,2023,36.469,23
+Renewable energy sources in electricity,LU,Luxembourg,2019,10.863,11
+Renewable energy sources in electricity,LU,Luxembourg,2020,13.887,11
+Renewable energy sources in electricity,LU,Luxembourg,2021,14.216,11
+Renewable energy sources in electricity,LU,Luxembourg,2022,16.187,11
+Renewable energy sources in electricity,LU,Luxembourg,2023,18.044,11
+Renewable energy sources in electricity,LV,Latvia,2019,53.423,40
+Renewable energy sources in electricity,LV,Latvia,2020,53.357,40
+Renewable energy sources in electricity,LV,Latvia,2021,51.399,40
+Renewable energy sources in electricity,LV,Latvia,2022,53.519,40
+Renewable energy sources in electricity,LV,Latvia,2023,54.317,40
+Renewable energy sources in electricity,MD,Moldova,2019,3.039,0
+Renewable energy sources in electricity,MD,Moldova,2020,3.118,0
+Renewable energy sources in electricity,MD,Moldova,2021,3.579,0
+Renewable energy sources in electricity,MD,Moldova,2022,5.535,0
+Renewable energy sources in electricity,MD,Moldova,2023,9.209,0
+Renewable energy sources in electricity,MT,Malta,2019,7.485,10
+Renewable energy sources in electricity,MT,Malta,2020,9.489,10
+Renewable energy sources in electricity,MT,Malta,2021,9.649,10
+Renewable energy sources in electricity,MT,Malta,2022,10.122,10
+Renewable energy sources in electricity,MT,Malta,2023,10.74,10
+Renewable energy sources in electricity,NL,Netherlands,2019,18.23,14
+Renewable energy sources in electricity,NL,Netherlands,2020,26.407,14
+Renewable energy sources in electricity,NL,Netherlands,2021,33.251,14
+Renewable energy sources in electricity,NL,Netherlands,2022,39.65,14
+Renewable energy sources in electricity,NL,Netherlands,2023,46.4,14
+Renewable energy sources in electricity,NO,Norway,2019,110.445,67.5
+Renewable energy sources in electricity,NO,Norway,2020,113.802,67.5
+Renewable energy sources in electricity,NO,Norway,2021,113.642,67.5
+Renewable energy sources in electricity,NO,Norway,2022,120.01,67.5
+Renewable energy sources in electricity,NO,Norway,2023,116.538,67.5
+Renewable energy sources in electricity,PL,Poland,2019,14.356,15
+Renewable energy sources in electricity,PL,Poland,2020,16.237,15
+Renewable energy sources in electricity,PL,Poland,2021,17.167,15
+Renewable energy sources in electricity,PL,Poland,2022,21.009,15
+Renewable energy sources in electricity,PL,Poland,2023,25.793,15
+Renewable energy sources in electricity,PT,Portugal,2019,53.774,31
+Renewable energy sources in electricity,PT,Portugal,2020,58.032,31
+Renewable energy sources in electricity,PT,Portugal,2021,58.433,31
+Renewable energy sources in electricity,PT,Portugal,2022,60.991,31
+Renewable energy sources in electricity,PT,Portugal,2023,63.01,31
+Renewable energy sources in electricity,RO,Romania,2019,42.616,24
+Renewable energy sources in electricity,RO,Romania,2020,43.374,24
+Renewable energy sources in electricity,RO,Romania,2021,42.676,24
+Renewable energy sources in electricity,RO,Romania,2022,43.726,24
+Renewable energy sources in electricity,RO,Romania,2023,47.391,24
+Renewable energy sources in electricity,SE,Sweden,2019,71.234,49
+Renewable energy sources in electricity,SE,Sweden,2020,74.495,49
+Renewable energy sources in electricity,SE,Sweden,2021,75.76,49
+Renewable energy sources in electricity,SE,Sweden,2022,83.372,49
+Renewable energy sources in electricity,SE,Sweden,2023,87.547,49
+Renewable energy sources in electricity,SI,Slovenia,2019,32.632,25
+Renewable energy sources in electricity,SI,Slovenia,2020,35.095,25
+Renewable energy sources in electricity,SI,Slovenia,2021,34.976,25
+Renewable energy sources in electricity,SI,Slovenia,2022,37.005,25
+Renewable energy sources in electricity,SI,Slovenia,2023,41.887,25
+Renewable energy sources in electricity,SK,Slovakia,2019,22.103,14
+Renewable energy sources in electricity,SK,Slovakia,2020,23.066,14
+Renewable energy sources in electricity,SK,Slovakia,2021,22.402,14
+Renewable energy sources in electricity,SK,Slovakia,2022,22.901,14
+Renewable energy sources in electricity,SK,Slovakia,2023,24.201,14
+Renewable energy sources in heating and cooling,AT,Austria,2019,33.929,34
+Renewable energy sources in heating and cooling,AT,Austria,2020,34.995,34
+Renewable energy sources in heating and cooling,AT,Austria,2021,33.432,34
+Renewable energy sources in heating and cooling,AT,Austria,2022,31.293,34
+Renewable energy sources in heating and cooling,AT,Austria,2023,39.387,34
+Renewable energy sources in heating and cooling,BE,Belgium,2019,8.319,13
+Renewable energy sources in heating and cooling,BE,Belgium,2020,8.447,13
+Renewable energy sources in heating and cooling,BE,Belgium,2021,9.279,13
+Renewable energy sources in heating and cooling,BE,Belgium,2022,10.556,13
+Renewable energy sources in heating and cooling,BE,Belgium,2023,11.304,13
+Renewable energy sources in heating and cooling,BG,Bulgaria,2019,35.423,16
+Renewable energy sources in heating and cooling,BG,Bulgaria,2020,37.178,16
+Renewable energy sources in heating and cooling,BG,Bulgaria,2021,30.015,16
+Renewable energy sources in heating and cooling,BG,Bulgaria,2022,31.646,16
+Renewable energy sources in heating and cooling,BG,Bulgaria,2023,34.876,16
+Renewable energy sources in heating and cooling,CY,Cyprus,2019,35.051,13
+Renewable energy sources in heating and cooling,CY,Cyprus,2020,37.117,13
+Renewable energy sources in heating and cooling,CY,Cyprus,2021,42.595,13
+Renewable energy sources in heating and cooling,CY,Cyprus,2022,41.56,13
+Renewable energy sources in heating and cooling,CY,Cyprus,2023,42.75,13
+Renewable energy sources in heating and cooling,CZ,Czechia,2019,22.632,13
+Renewable energy sources in heating and cooling,CZ,Czechia,2020,23.535,13
+Renewable energy sources in heating and cooling,CZ,Czechia,2021,24.349,13
+Renewable energy sources in heating and cooling,CZ,Czechia,2022,25.821,13
+Renewable energy sources in heating and cooling,CZ,Czechia,2023,27.769,13
+Renewable energy sources in heating and cooling,DE,Germany,2019,14.504,18
+Renewable energy sources in heating and cooling,DE,Germany,2020,14.481,18
+Renewable energy sources in heating and cooling,DE,Germany,2021,15.529,18
+Renewable energy sources in heating and cooling,DE,Germany,2022,17.376,18
+Renewable energy sources in heating and cooling,DE,Germany,2023,17.101,18
+Renewable energy sources in heating and cooling,DK,Denmark,2019,47.302,30
+Renewable energy sources in heating and cooling,DK,Denmark,2020,51.073,30
+Renewable energy sources in heating and cooling,DK,Denmark,2021,51.292,30
+Renewable energy sources in heating and cooling,DK,Denmark,2022,52.323,30
+Renewable energy sources in heating and cooling,DK,Denmark,2023,54.898,30
+Renewable energy sources in heating and cooling,EE,Estonia,2019,52.193,25
+Renewable energy sources in heating and cooling,EE,Estonia,2020,58.834,25
+Renewable energy sources in heating and cooling,EE,Estonia,2021,61.347,25
+Renewable energy sources in heating and cooling,EE,Estonia,2022,65.442,25
+Renewable energy sources in heating and cooling,EE,Estonia,2023,66.668,25
+Renewable energy sources in heating and cooling,EL,Greece,2019,30.048,18
+Renewable energy sources in heating and cooling,EL,Greece,2020,31.941,18
+Renewable energy sources in heating and cooling,EL,Greece,2021,31.081,18
+Renewable energy sources in heating and cooling,EL,Greece,2022,30.622,18
+Renewable energy sources in heating and cooling,EL,Greece,2023,35.547,18
+Renewable energy sources in heating and cooling,ES,Spain,2019,17.203,20
+Renewable energy sources in heating and cooling,ES,Spain,2020,17.966,20
+Renewable energy sources in heating and cooling,ES,Spain,2021,16.957,20
+Renewable energy sources in heating and cooling,ES,Spain,2022,19.47,20
+Renewable energy sources in heating and cooling,ES,Spain,2023,21.449,20
+Renewable energy sources in heating and cooling,EU27_2020,EU27,2019,22.432,20
+Renewable energy sources in heating and cooling,EU27_2020,EU27,2020,22.983,20
+Renewable energy sources in heating and cooling,EU27_2020,EU27,2021,23.03,20
+Renewable energy sources in heating and cooling,EU27_2020,EU27,2022,24.917,20
+Renewable energy sources in heating and cooling,EU27_2020,EU27,2023,26.237,20
+Renewable energy sources in heating and cooling,FI,Finland,2019,56.884,38
+Renewable energy sources in heating and cooling,FI,Finland,2020,57.622,38
+Renewable energy sources in heating and cooling,FI,Finland,2021,52.085,38
+Renewable energy sources in heating and cooling,FI,Finland,2022,58.292,38
+Renewable energy sources in heating and cooling,FI,Finland,2023,61.264,38
+Renewable energy sources in heating and cooling,FR,France,2019,22.36,23
+Renewable energy sources in heating and cooling,FR,France,2020,23.368,23
+Renewable energy sources in heating and cooling,FR,France,2021,24.643,23
+Renewable energy sources in heating and cooling,FR,France,2022,27.272,23
+Renewable energy sources in heating and cooling,FR,France,2023,29.927,23
+Renewable energy sources in heating and cooling,HR,Croatia,2019,36.791,20
+Renewable energy sources in heating and cooling,HR,Croatia,2020,36.928,20
+Renewable energy sources in heating and cooling,HR,Croatia,2021,38.006,20
+Renewable energy sources in heating and cooling,HR,Croatia,2022,37.213,20
+Renewable energy sources in heating and cooling,HR,Croatia,2023,36.173,20
+Renewable energy sources in heating and cooling,HU,Hungary,2019,18.16,13
+Renewable energy sources in heating and cooling,HU,Hungary,2020,17.72,13
+Renewable energy sources in heating and cooling,HU,Hungary,2021,17.898,13
+Renewable energy sources in heating and cooling,HU,Hungary,2022,20.232,13
+Renewable energy sources in heating and cooling,HU,Hungary,2023,22.265,13
+Renewable energy sources in heating and cooling,IE,Ireland,2019,6.344,16
+Renewable energy sources in heating and cooling,IE,Ireland,2020,6.264,16
+Renewable energy sources in heating and cooling,IE,Ireland,2021,5.564,16
+Renewable energy sources in heating and cooling,IE,Ireland,2022,5.523,16
+Renewable energy sources in heating and cooling,IE,Ireland,2023,7.862,16
+Renewable energy sources in heating and cooling,IS,Iceland,2019,80.896,64
+Renewable energy sources in heating and cooling,IS,Iceland,2020,80.504,64
+Renewable energy sources in heating and cooling,IS,Iceland,2021,79.621,64
+Renewable energy sources in heating and cooling,IS,Iceland,2022,83.555,64
+Renewable energy sources in heating and cooling,IT,Italy,2019,19.699,17
+Renewable energy sources in heating and cooling,IT,Italy,2020,19.949,17
+Renewable energy sources in heating and cooling,IT,Italy,2021,19.335,17
+Renewable energy sources in heating and cooling,IT,Italy,2022,20.566,17
+Renewable energy sources in heating and cooling,IT,Italy,2023,21.715,17
+Renewable energy sources in heating and cooling,LT,Lithuania,2019,47.372,23
+Renewable energy sources in heating and cooling,LT,Lithuania,2020,50.35,23
+Renewable energy sources in heating and cooling,LT,Lithuania,2021,48.624,23
+Renewable energy sources in heating and cooling,LT,Lithuania,2022,51.54,23
+Renewable energy sources in heating and cooling,LT,Lithuania,2023,53.611,23
+Renewable energy sources in heating and cooling,LU,Luxembourg,2019,8.687,11
+Renewable energy sources in heating and cooling,LU,Luxembourg,2020,12.614,11
+Renewable energy sources in heating and cooling,LU,Luxembourg,2021,12.888,11
+Renewable energy sources in heating and cooling,LU,Luxembourg,2022,14.976,11
+Renewable energy sources in heating and cooling,LU,Luxembourg,2023,15.48,11
+Renewable energy sources in heating and cooling,LV,Latvia,2019,57.749,40
+Renewable energy sources in heating and cooling,LV,Latvia,2020,57.094,40
+Renewable energy sources in heating and cooling,LV,Latvia,2021,57.36,40
+Renewable energy sources in heating and cooling,LV,Latvia,2022,60.96,40
+Renewable energy sources in heating and cooling,LV,Latvia,2023,61.356,40
+Renewable energy sources in heating and cooling,MD,Moldova,2019,40.472,0
+Renewable energy sources in heating and cooling,MD,Moldova,2020,41.173,0
+Renewable energy sources in heating and cooling,MD,Moldova,2021,36.877,0
+Renewable energy sources in heating and cooling,MD,Moldova,2022,38.39,0
+Renewable energy sources in heating and cooling,MD,Moldova,2023,40.655,0
+Renewable energy sources in heating and cooling,MT,Malta,2019,23.602,10
+Renewable energy sources in heating and cooling,MT,Malta,2020,23.027,10
+Renewable energy sources in heating and cooling,MT,Malta,2021,32.606,10
+Renewable energy sources in heating and cooling,MT,Malta,2022,39.942,10
+Renewable energy sources in heating and cooling,MT,Malta,2023,47.474,10
+Renewable energy sources in heating and cooling,NL,Netherlands,2019,7.217,14
+Renewable energy sources in heating and cooling,NL,Netherlands,2020,8.053,14
+Renewable energy sources in heating and cooling,NL,Netherlands,2021,8.092,14
+Renewable energy sources in heating and cooling,NL,Netherlands,2022,9.081,14
+Renewable energy sources in heating and cooling,NL,Netherlands,2023,10.199,14
+Renewable energy sources in heating and cooling,NO,Norway,2019,35.384,67.5
+Renewable energy sources in heating and cooling,NO,Norway,2020,36.126,67.5
+Renewable energy sources in heating and cooling,NO,Norway,2021,32.305,67.5
+Renewable energy sources in heating and cooling,NO,Norway,2022,34.271,67.5
+Renewable energy sources in heating and cooling,NO,Norway,2023,33.637,67.5
+Renewable energy sources in heating and cooling,PL,Poland,2019,22.005,15
+Renewable energy sources in heating and cooling,PL,Poland,2020,22.143,15
+Renewable energy sources in heating and cooling,PL,Poland,2021,20.978,15
+Renewable energy sources in heating and cooling,PL,Poland,2022,22.065,15
+Renewable energy sources in heating and cooling,PL,Poland,2023,20.415,15
+Renewable energy sources in heating and cooling,PT,Portugal,2019,41.657,31
+Renewable energy sources in heating and cooling,PT,Portugal,2020,41.546,31
+Renewable energy sources in heating and cooling,PT,Portugal,2021,42.681,31
+Renewable energy sources in heating and cooling,PT,Portugal,2022,45.545,31
+Renewable energy sources in heating and cooling,PT,Portugal,2023,47.098,31
+Renewable energy sources in heating and cooling,RO,Romania,2019,25.739,24
+Renewable energy sources in heating and cooling,RO,Romania,2020,25.327,24
+Renewable energy sources in heating and cooling,RO,Romania,2021,24.573,24
+Renewable energy sources in heating and cooling,RO,Romania,2022,26.251,24
+Renewable energy sources in heating and cooling,RO,Romania,2023,29.126,24
+Renewable energy sources in heating and cooling,SE,Sweden,2019,64.394,49
+Renewable energy sources in heating and cooling,SE,Sweden,2020,66.381,49
+Renewable energy sources in heating and cooling,SE,Sweden,2021,68.53,49
+Renewable energy sources in heating and cooling,SE,Sweden,2022,69.81,49
+Renewable energy sources in heating and cooling,SE,Sweden,2023,67.068,49
+Renewable energy sources in heating and cooling,SI,Slovenia,2019,32.132,25
+Renewable energy sources in heating and cooling,SI,Slovenia,2020,32.141,25
+Renewable energy sources in heating and cooling,SI,Slovenia,2021,35.216,25
+Renewable energy sources in heating and cooling,SI,Slovenia,2022,33.989,25
+Renewable energy sources in heating and cooling,SI,Slovenia,2023,34.302,25
+Renewable energy sources in heating and cooling,SK,Slovakia,2019,19.696,14
+Renewable energy sources in heating and cooling,SK,Slovakia,2020,19.427,14
+Renewable energy sources in heating and cooling,SK,Slovakia,2021,19.521,14
+Renewable energy sources in heating and cooling,SK,Slovakia,2022,19.882,14
+Renewable energy sources in heating and cooling,SK,Slovakia,2023,18.794,14
+Renewable energy sources in heating and cooling - waste heat and cold,BE,Belgium,2021,9.525,13
+Renewable energy sources in heating and cooling - waste heat and cold,BE,Belgium,2022,10.764,13
+Renewable energy sources in heating and cooling - waste heat and cold,BE,Belgium,2023,11.554,13
+Renewable energy sources in heating and cooling - waste heat and cold,DK,Denmark,2021,53.071,30
+Renewable energy sources in heating and cooling - waste heat and cold,DK,Denmark,2022,54.075,30
+Renewable energy sources in heating and cooling - waste heat and cold,DK,Denmark,2023,56.536,30
+Renewable energy sources in heating and cooling - waste heat and cold,ES,Spain,2021,17.023,20
+Renewable energy sources in heating and cooling - waste heat and cold,ES,Spain,2022,19.542,20
+Renewable energy sources in heating and cooling - waste heat and cold,ES,Spain,2023,21.523,20
+Renewable energy sources in heating and cooling - waste heat and cold,EU27_2020,EU27,2021,23.091,20
+Renewable energy sources in heating and cooling - waste heat and cold,EU27_2020,EU27,2022,24.977,20
+Renewable energy sources in heating and cooling - waste heat and cold,EU27_2020,EU27,2023,26.302,20
+Renewable energy sources in heating and cooling - waste heat and cold,HU,Hungary,2021,17.908,13
+Renewable energy sources in heating and cooling - waste heat and cold,HU,Hungary,2022,20.242,13
+Renewable energy sources in heating and cooling - waste heat and cold,HU,Hungary,2023,22.277,13
+Renewable energy sources in heating and cooling - waste heat and cold,IT,Italy,2021,19.352,17
+Renewable energy sources in heating and cooling - waste heat and cold,IT,Italy,2022,20.586,17
+Renewable energy sources in heating and cooling - waste heat and cold,IT,Italy,2023,21.759,17
+Renewable energy sources in heating and cooling - waste heat and cold,LU,Luxembourg,2021,19.77,11
+Renewable energy sources in heating and cooling - waste heat and cold,LU,Luxembourg,2022,22.936,11
+Renewable energy sources in heating and cooling - waste heat and cold,LU,Luxembourg,2023,23.781,11
+Renewable energy sources in transport,AT,Austria,2019,10.051,34
+Renewable energy sources in transport,AT,Austria,2020,10.283,34
+Renewable energy sources in transport,AT,Austria,2021,9.568,34
+Renewable energy sources in transport,AT,Austria,2022,10.744,34
+Renewable energy sources in transport,AT,Austria,2023,13.207,34
+Renewable energy sources in transport,BE,Belgium,2019,6.817,13
+Renewable energy sources in transport,BE,Belgium,2020,11.035,13
+Renewable energy sources in transport,BE,Belgium,2021,10.315,13
+Renewable energy sources in transport,BE,Belgium,2022,10.443,13
+Renewable energy sources in transport,BE,Belgium,2023,12.095,13
+Renewable energy sources in transport,BG,Bulgaria,2019,7.893,16
+Renewable energy sources in transport,BG,Bulgaria,2020,9.101,16
+Renewable energy sources in transport,BG,Bulgaria,2021,7.613,16
+Renewable energy sources in transport,BG,Bulgaria,2022,7.662,16
+Renewable energy sources in transport,BG,Bulgaria,2023,8.088,16
+Renewable energy sources in transport,CY,Cyprus,2019,3.316,13
+Renewable energy sources in transport,CY,Cyprus,2020,7.401,13
+Renewable energy sources in transport,CY,Cyprus,2021,7.189,13
+Renewable energy sources in transport,CY,Cyprus,2022,7.228,13
+Renewable energy sources in transport,CY,Cyprus,2023,7.285,13
+Renewable energy sources in transport,CZ,Czechia,2019,7.841,13
+Renewable energy sources in transport,CZ,Czechia,2020,9.383,13
+Renewable energy sources in transport,CZ,Czechia,2021,6.74,13
+Renewable energy sources in transport,CZ,Czechia,2022,6.24,13
+Renewable energy sources in transport,CZ,Czechia,2023,5.653,13
+Renewable energy sources in transport,DE,Germany,2019,7.63,18
+Renewable energy sources in transport,DE,Germany,2020,10.008,18
+Renewable energy sources in transport,DE,Germany,2021,8.104,18
+Renewable energy sources in transport,DE,Germany,2022,10.075,18
+Renewable energy sources in transport,DE,Germany,2023,11.864,18
+Renewable energy sources in transport,DK,Denmark,2019,7.11,30
+Renewable energy sources in transport,DK,Denmark,2020,9.701,30
+Renewable energy sources in transport,DK,Denmark,2021,10.51,30
+Renewable energy sources in transport,DK,Denmark,2022,10.354,30
+Renewable energy sources in transport,DK,Denmark,2023,10.803,30
+Renewable energy sources in transport,EE,Estonia,2019,6.243,25
+Renewable energy sources in transport,EE,Estonia,2020,12.165,25
+Renewable energy sources in transport,EE,Estonia,2021,11.187,25
+Renewable energy sources in transport,EE,Estonia,2022,8.531,25
+Renewable energy sources in transport,EE,Estonia,2023,9.065,25
+Renewable energy sources in transport,EL,Greece,2019,4.049,18
+Renewable energy sources in transport,EL,Greece,2020,5.341,18
+Renewable energy sources in transport,EL,Greece,2021,4.414,18
+Renewable energy sources in transport,EL,Greece,2022,4.083,18
+Renewable energy sources in transport,EL,Greece,2023,3.942,18
+Renewable energy sources in transport,ES,Spain,2019,7.61,20
+Renewable energy sources in transport,ES,Spain,2020,9.528,20
+Renewable energy sources in transport,ES,Spain,2021,9.206,20
+Renewable energy sources in transport,ES,Spain,2022,9.683,20
+Renewable energy sources in transport,ES,Spain,2023,11.96,20
+Renewable energy sources in transport,EU27_2020,EU27,2019,8.804,20
+Renewable energy sources in transport,EU27_2020,EU27,2020,10.253,20
+Renewable energy sources in transport,EU27_2020,EU27,2021,9.052,20
+Renewable energy sources in transport,EU27_2020,EU27,2022,9.635,20
+Renewable energy sources in transport,EU27_2020,EU27,2023,10.831,20
+Renewable energy sources in transport,FI,Finland,2019,14.845,38
+Renewable energy sources in transport,FI,Finland,2020,14.31,38
+Renewable energy sources in transport,FI,Finland,2021,20.298,38
+Renewable energy sources in transport,FI,Finland,2022,18.766,38
+Renewable energy sources in transport,FI,Finland,2023,20.645,38
+Renewable energy sources in transport,FR,France,2019,9.248,23
+Renewable energy sources in transport,FR,France,2020,9.207,23
+Renewable energy sources in transport,FR,France,2021,8.116,23
+Renewable energy sources in transport,FR,France,2022,8.866,23
+Renewable energy sources in transport,FR,France,2023,10.028,23
+Renewable energy sources in transport,HR,Croatia,2019,5.855,20
+Renewable energy sources in transport,HR,Croatia,2020,6.593,20
+Renewable energy sources in transport,HR,Croatia,2021,6.985,20
+Renewable energy sources in transport,HR,Croatia,2022,2.395,20
+Renewable energy sources in transport,HR,Croatia,2023,0.919,20
+Renewable energy sources in transport,HU,Hungary,2019,8.057,13
+Renewable energy sources in transport,HU,Hungary,2020,11.571,13
+Renewable energy sources in transport,HU,Hungary,2021,6.165,13
+Renewable energy sources in transport,HU,Hungary,2022,7.77,13
+Renewable energy sources in transport,HU,Hungary,2023,7.575,13
+Renewable energy sources in transport,IE,Ireland,2019,8.917,16
+Renewable energy sources in transport,IE,Ireland,2020,10.187,16
+Renewable energy sources in transport,IE,Ireland,2021,4.645,16
+Renewable energy sources in transport,IE,Ireland,2022,5.823,16
+Renewable energy sources in transport,IE,Ireland,2023,7.578,16
+Renewable energy sources in transport,IS,Iceland,2019,9.292,64
+Renewable energy sources in transport,IS,Iceland,2020,11.959,64
+Renewable energy sources in transport,IS,Iceland,2021,12.562,64
+Renewable energy sources in transport,IS,Iceland,2022,13.666,64
+Renewable energy sources in transport,IT,Italy,2019,9.047,17
+Renewable energy sources in transport,IT,Italy,2020,10.736,17
+Renewable energy sources in transport,IT,Italy,2021,9.87,17
+Renewable energy sources in transport,IT,Italy,2022,10.048,17
+Renewable energy sources in transport,IT,Italy,2023,10.25,17
+Renewable energy sources in transport,LT,Lithuania,2019,4.049,23
+Renewable energy sources in transport,LT,Lithuania,2020,5.511,23
+Renewable energy sources in transport,LT,Lithuania,2021,6.467,23
+Renewable energy sources in transport,LT,Lithuania,2022,6.682,23
+Renewable energy sources in transport,LT,Lithuania,2023,7.231,23
+Renewable energy sources in transport,LU,Luxembourg,2019,7.707,11
+Renewable energy sources in transport,LU,Luxembourg,2020,12.581,11
+Renewable energy sources in transport,LU,Luxembourg,2021,7.968,11
+Renewable energy sources in transport,LU,Luxembourg,2022,8.71,11
+Renewable energy sources in transport,LU,Luxembourg,2023,9.151,11
+Renewable energy sources in transport,LV,Latvia,2019,4.554,40
+Renewable energy sources in transport,LV,Latvia,2020,6.733,40
+Renewable energy sources in transport,LV,Latvia,2021,6.436,40
+Renewable energy sources in transport,LV,Latvia,2022,3.123,40
+Renewable energy sources in transport,LV,Latvia,2023,1.358,40
+Renewable energy sources in transport,MD,Moldova,2019,0.174,0
+Renewable energy sources in transport,MD,Moldova,2020,0.179,0
+Renewable energy sources in transport,MD,Moldova,2021,0.017,0
+Renewable energy sources in transport,MD,Moldova,2022,0.017,0
+Renewable energy sources in transport,MD,Moldova,2023,0.022,0
+Renewable energy sources in transport,MT,Malta,2019,8.902,10
+Renewable energy sources in transport,MT,Malta,2020,10.586,10
+Renewable energy sources in transport,MT,Malta,2021,10.516,10
+Renewable energy sources in transport,MT,Malta,2022,10.473,10
+Renewable energy sources in transport,MT,Malta,2023,10.748,10
+Renewable energy sources in transport,NL,Netherlands,2019,12.326,14
+Renewable energy sources in transport,NL,Netherlands,2020,12.631,14
+Renewable energy sources in transport,NL,Netherlands,2021,9.222,14
+Renewable energy sources in transport,NL,Netherlands,2022,11.08,14
+Renewable energy sources in transport,NL,Netherlands,2023,13.435,14
+Renewable energy sources in transport,NO,Norway,2019,25.668,67.5
+Renewable energy sources in transport,NO,Norway,2020,28.69,67.5
+Renewable energy sources in transport,NO,Norway,2021,20.66,67.5
+Renewable energy sources in transport,NO,Norway,2022,23.734,67.5
+Renewable energy sources in transport,NO,Norway,2023,27.732,67.5
+Renewable energy sources in transport,PL,Poland,2019,6.2,15
+Renewable energy sources in transport,PL,Poland,2020,6.575,15
+Renewable energy sources in transport,PL,Poland,2021,5.677,15
+Renewable energy sources in transport,PL,Poland,2022,5.803,15
+Renewable energy sources in transport,PL,Poland,2023,5.986,15
+Renewable energy sources in transport,PT,Portugal,2019,9.089,31
+Renewable energy sources in transport,PT,Portugal,2020,9.701,31
+Renewable energy sources in transport,PT,Portugal,2021,8.611,31
+Renewable energy sources in transport,PT,Portugal,2022,8.706,31
+Renewable energy sources in transport,PT,Portugal,2023,11.162,31
+Renewable energy sources in transport,RO,Romania,2019,7.846,24
+Renewable energy sources in transport,RO,Romania,2020,8.54,24
+Renewable energy sources in transport,RO,Romania,2021,8.917,24
+Renewable energy sources in transport,RO,Romania,2022,8.924,24
+Renewable energy sources in transport,RO,Romania,2023,8.025,24
+Renewable energy sources in transport,SE,Sweden,2019,30.309,49
+Renewable energy sources in transport,SE,Sweden,2020,31.854,49
+Renewable energy sources in transport,SE,Sweden,2021,28.677,49
+Renewable energy sources in transport,SE,Sweden,2022,28.841,49
+Renewable energy sources in transport,SE,Sweden,2023,33.645,49
+Renewable energy sources in transport,SI,Slovenia,2019,7.983,25
+Renewable energy sources in transport,SI,Slovenia,2020,10.911,25
+Renewable energy sources in transport,SI,Slovenia,2021,10.642,25
+Renewable energy sources in transport,SI,Slovenia,2022,7.828,25
+Renewable energy sources in transport,SI,Slovenia,2023,10.021,25
+Renewable energy sources in transport,SK,Slovakia,2019,8.308,14
+Renewable energy sources in transport,SK,Slovakia,2020,9.259,14
+Renewable energy sources in transport,SK,Slovakia,2021,8.755,14
+Renewable energy sources in transport,SK,Slovakia,2022,8.931,14
+Renewable energy sources in transport,SK,Slovakia,2023,9.182,14
+Renewable energy sources and waste heat and cold - district heating and cooling,BE,Belgium,2021,73,13
+Renewable energy sources and waste heat and cold - district heating and cooling,BE,Belgium,2022,74,13
+Renewable energy sources and waste heat and cold - district heating and cooling,BE,Belgium,2023,74,13
+Renewable energy sources and waste heat and cold - district heating and cooling,DE,Germany,2021,18.568,18
+Renewable energy sources and waste heat and cold - district heating and cooling,DE,Germany,2022,20.115,18
+Renewable energy sources and waste heat and cold - district heating and cooling,DE,Germany,2023,20.925,18
+Renewable energy sources and waste heat and cold - district heating and cooling,DK,Denmark,2021,72,30
+Renewable energy sources and waste heat and cold - district heating and cooling,DK,Denmark,2022,72,30
+Renewable energy sources and waste heat and cold - district heating and cooling,DK,Denmark,2023,72,30
+Renewable energy sources and waste heat and cold - district heating and cooling,ES,Spain,2021,38,20
+Renewable energy sources and waste heat and cold - district heating and cooling,ES,Spain,2022,38,20
+Renewable energy sources and waste heat and cold - district heating and cooling,ES,Spain,2023,38,20
+Renewable energy sources and waste heat and cold - district heating and cooling,EU27_2020,EU27,2021,30.546,20
+Renewable energy sources and waste heat and cold - district heating and cooling,EU27_2020,EU27,2022,31.848,20
+Renewable energy sources and waste heat and cold - district heating and cooling,EU27_2020,EU27,2023,33.303,20
+Renewable energy sources and waste heat and cold - district heating and cooling,HU,Hungary,2021,16,13
+Renewable energy sources and waste heat and cold - district heating and cooling,HU,Hungary,2022,18,13
+Renewable energy sources and waste heat and cold - district heating and cooling,HU,Hungary,2023,20,13
+Renewable energy sources and waste heat and cold - district heating and cooling,IT,Italy,2021,25,17
+Renewable energy sources and waste heat and cold - district heating and cooling,IT,Italy,2022,27,17
+Renewable energy sources and waste heat and cold - district heating and cooling,IT,Italy,2023,28,17
+Renewable energy sources and waste heat and cold - district heating and cooling,LU,Luxembourg,2021,76,11
+Renewable energy sources and waste heat and cold - district heating and cooling,LU,Luxembourg,2022,79,11
+Renewable energy sources and waste heat and cold - district heating and cooling,LU,Luxembourg,2023,82,11
