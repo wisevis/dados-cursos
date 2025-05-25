@@ -1,0 +1,201 @@
+NUTS3,Espécie,Numero
+Alto Minho,Bovinos,2994
+Alto Minho,Suínos,1022
+Alto Minho,Ovinos,3393
+Alto Minho,Caprinos,1077
+Alto Minho,Equídeos,689
+Alto Minho,Aves,7963
+Alto Minho,Coelhos,2479
+Alto Minho,Colmeias,483
+Cávado,Bovinos,2595
+Cávado,Suínos,902
+Cávado,Ovinos,1057
+Cávado,Caprinos,397
+Cávado,Equídeos,272
+Cávado,Aves,5191
+Cávado,Coelhos,2191
+Cávado,Colmeias,337
+Ave,Bovinos,2116
+Ave,Suínos,1011
+Ave,Ovinos,951
+Ave,Caprinos,451
+Ave,Equídeos,531
+Ave,Aves,4126
+Ave,Coelhos,1648
+Ave,Colmeias,284
+AM Porto,Bovinos,2385
+AM Porto,Suínos,1501
+AM Porto,Ovinos,1152
+AM Porto,Caprinos,705
+AM Porto,Equídeos,288
+AM Porto,Aves,3989
+AM Porto,Coelhos,1385
+AM Porto,Colmeias,394
+Alto Tâmega,Bovinos,2362
+Alto Tâmega,Suínos,1616
+Alto Tâmega,Ovinos,1120
+Alto Tâmega,Caprinos,506
+Alto Tâmega,Equídeos,2716
+Alto Tâmega,Aves,5746
+Alto Tâmega,Coelhos,2017
+Alto Tâmega,Colmeias,446
+Tâmega e Sousa,Bovinos,1571
+Tâmega e Sousa,Suínos,1852
+Tâmega e Sousa,Ovinos,2477
+Tâmega e Sousa,Caprinos,699
+Tâmega e Sousa,Equídeos,324
+Tâmega e Sousa,Aves,5570
+Tâmega e Sousa,Coelhos,1588
+Tâmega e Sousa,Colmeias,487
+Douro,Bovinos,823
+Douro,Suínos,571
+Douro,Ovinos,1129
+Douro,Caprinos,454
+Douro,Equídeos,1246
+Douro,Aves,3663
+Douro,Coelhos,650
+Douro,Colmeias,477
+Terras de Trás-os-Montes,Bovinos,1104
+Terras de Trás-os-Montes,Suínos,1395
+Terras de Trás-os-Montes,Ovinos,1735
+Terras de Trás-os-Montes,Caprinos,479
+Terras de Trás-os-Montes,Equídeos,1670
+Terras de Trás-os-Montes,Aves,5703
+Terras de Trás-os-Montes,Coelhos,913
+Terras de Trás-os-Montes,Colmeias,869
+Oeste,Bovinos,512
+Oeste,Suínos,736
+Oeste,Ovinos,1623
+Oeste,Caprinos,677
+Oeste,Equídeos,382
+Oeste,Aves,2288
+Oeste,Coelhos,813
+Oeste,Colmeias,156
+Região de Aveiro,Bovinos,1282
+Região de Aveiro,Suínos,2700
+Região de Aveiro,Ovinos,839
+Região de Aveiro,Caprinos,726
+Região de Aveiro,Equídeos,270
+Região de Aveiro,Aves,4702
+Região de Aveiro,Coelhos,1044
+Região de Aveiro,Colmeias,199
+Região de Coimbra,Bovinos,1005
+Região de Coimbra,Suínos,2791
+Região de Coimbra,Ovinos,2567
+Região de Coimbra,Caprinos,2515
+Região de Coimbra,Equídeos,343
+Região de Coimbra,Aves,8338
+Região de Coimbra,Coelhos,1537
+Região de Coimbra,Colmeias,802
+Região de Leiria,Bovinos,703
+Região de Leiria,Suínos,1740
+Região de Leiria,Ovinos,2449
+Região de Leiria,Caprinos,1336
+Região de Leiria,Equídeos,164
+Região de Leiria,Aves,5526
+Região de Leiria,Coelhos,1509
+Região de Leiria,Colmeias,426
+Viseu Dão Lafões,Bovinos,1447
+Viseu Dão Lafões,Suínos,2981
+Viseu Dão Lafões,Ovinos,3072
+Viseu Dão Lafões,Caprinos,2328
+Viseu Dão Lafões,Equídeos,350
+Viseu Dão Lafões,Aves,7768
+Viseu Dão Lafões,Coelhos,2327
+Viseu Dão Lafões,Colmeias,801
+Beira Baixa,Bovinos,314
+Beira Baixa,Suínos,427
+Beira Baixa,Ovinos,1329
+Beira Baixa,Caprinos,1208
+Beira Baixa,Equídeos,187
+Beira Baixa,Aves,3286
+Beira Baixa,Coelhos,522
+Beira Baixa,Colmeias,545
+Médio Tejo,Bovinos,330
+Médio Tejo,Suínos,666
+Médio Tejo,Ovinos,2220
+Médio Tejo,Caprinos,1560
+Médio Tejo,Equídeos,232
+Médio Tejo,Aves,4474
+Médio Tejo,Coelhos,1086
+Médio Tejo,Colmeias,743
+Beiras e Serra da Estrela,Bovinos,1497
+Beiras e Serra da Estrela,Suínos,986
+Beiras e Serra da Estrela,Ovinos,3043
+Beiras e Serra da Estrela,Caprinos,1644
+Beiras e Serra da Estrela,Equídeos,1619
+Beiras e Serra da Estrela,Aves,6208
+Beiras e Serra da Estrela,Coelhos,1173
+Beiras e Serra da Estrela,Colmeias,699
+AM Lisboa,Bovinos,416
+AM Lisboa,Suínos,203
+AM Lisboa,Ovinos,1036
+AM Lisboa,Caprinos,483
+AM Lisboa,Equídeos,365
+AM Lisboa,Aves,1488
+AM Lisboa,Coelhos,333
+AM Lisboa,Colmeias,195
+Alentejo Litoral,Bovinos,831
+Alentejo Litoral,Suínos,368
+Alentejo Litoral,Ovinos,1010
+Alentejo Litoral,Caprinos,358
+Alentejo Litoral,Equídeos,218
+Alentejo Litoral,Aves,614
+Alentejo Litoral,Coelhos,62
+Alentejo Litoral,Colmeias,167
+Baixo Alentejo,Bovinos,1032
+Baixo Alentejo,Suínos,442
+Baixo Alentejo,Ovinos,2296
+Baixo Alentejo,Caprinos,578
+Baixo Alentejo,Equídeos,386
+Baixo Alentejo,Aves,660
+Baixo Alentejo,Coelhos,13
+Baixo Alentejo,Colmeias,314
+Lezíria do Tejo,Bovinos,471
+Lezíria do Tejo,Suínos,277
+Lezíria do Tejo,Ovinos,1204
+Lezíria do Tejo,Caprinos,387
+Lezíria do Tejo,Equídeos,359
+Lezíria do Tejo,Aves,1393
+Lezíria do Tejo,Coelhos,253
+Lezíria do Tejo,Colmeias,173
+Alto Alentejo,Bovinos,1149
+Alto Alentejo,Suínos,116
+Alto Alentejo,Ovinos,2170
+Alto Alentejo,Caprinos,544
+Alto Alentejo,Equídeos,263
+Alto Alentejo,Aves,723
+Alto Alentejo,Coelhos,106
+Alto Alentejo,Colmeias,299
+Alentejo Central,Bovinos,1310
+Alentejo Central,Suínos,337
+Alentejo Central,Ovinos,2577
+Alentejo Central,Caprinos,512
+Alentejo Central,Equídeos,389
+Alentejo Central,Aves,1023
+Alentejo Central,Coelhos,49
+Alentejo Central,Colmeias,271
+Algarve,Bovinos,282
+Algarve,Suínos,638
+Algarve,Ovinos,700
+Algarve,Caprinos,648
+Algarve,Equídeos,448
+Algarve,Aves,3014
+Algarve,Coelhos,222
+Algarve,Colmeias,662
+RA Açores,Bovinos,6873
+RA Açores,Suínos,1616
+RA Açores,Ovinos,610
+RA Açores,Caprinos,1057
+RA Açores,Equídeos,723
+RA Açores,Aves,2564
+RA Açores,Coelhos,346
+RA Açores,Colmeias,278
+RA Madeira,Bovinos,700
+RA Madeira,Suínos,1470
+RA Madeira,Ovinos,908
+RA Madeira,Caprinos,1551
+RA Madeira,Equídeos,10
+RA Madeira,Aves,4474
+RA Madeira,Coelhos,689
+RA Madeira,Colmeias,192
