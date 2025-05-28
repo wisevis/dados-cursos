@@ -1,0 +1,25 @@
+﻿coicop,COICOP_Desc,Geo_Cod,Geo_DescEN,Ano,Valor,Classificação,Peso,Geo_DescPT
+CP01,Food and non-alcoholic beverages,DE,Germany,2020,3608,Alimentação,11.23,Alemanha
+CP01,Food and non-alcoholic beverages,PT,Portugal,2020,3166,Alimentação,12.92,Portugal
+CP02,"Alcoholic beverages, tobacco and narcotics",DE,Germany,2020,499,Bebidas e Tabaco,1.55,Alemanha
+CP02,"Alcoholic beverages, tobacco and narcotics",PT,Portugal,2020,383,Bebidas e Tabaco,1.56,Portugal
+CP03,Clothing and footwear,DE,Germany,2020,1394,Vestuário e Calçado,4.34,Alemanha
+CP03,Clothing and footwear,PT,Portugal,2020,397,Vestuário e Calçado,1.62,Portugal
+CP04,"Housing, water, electricity, gas and other fuels",DE,Germany,2020,10087,Habitação,31.41,Alemanha
+CP04,"Housing, water, electricity, gas and other fuels",PT,Portugal,2020,9600,Habitação,39.19,Portugal
+CP05,"Furnishings, household equipment and routine household maintenance",DE,Germany,2020,1563,Equipamento do Lar,4.87,Alemanha
+CP05,"Furnishings, household equipment and routine household maintenance",PT,Portugal,2020,1129,Equipamento do Lar,4.61,Portugal
+CP06,Health,DE,Germany,2020,1318,Saúde,4.1,Alemanha
+CP06,Health,PT,Portugal,2020,958,Saúde,3.91,Portugal
+CP07,Transport,DE,Germany,2020,4330,Transportes,13.48,Alemanha
+CP07,Transport,PT,Portugal,2020,2959,Transportes,12.08,Portugal
+CP08,Communications,DE,Germany,2020,809,Comunicações,2.52,Alemanha
+CP08,Communications,PT,Portugal,2020,818,Comunicações,3.34,Portugal
+CP09,Recreation and culture,DE,Germany,2020,3467,Lazer e Cultura,10.8,Alemanha
+CP09,Recreation and culture,PT,Portugal,2020,930,Lazer e Cultura,3.8,Portugal
+CP10,Education,DE,Germany,2020,315,Educação,0.98,Alemanha
+CP10,Education,PT,Portugal,2020,345,Educação,1.41,Portugal
+CP11,Restaurants and hotels,DE,Germany,2020,1919,Restaurantes e Hotéis,5.98,Alemanha
+CP11,Restaurants and hotels,PT,Portugal,2020,2100,Restaurantes e Hotéis,8.57,Portugal
+CP12,Miscellaneous goods and services,DE,Germany,2020,2807,Outros,8.74,Alemanha
+CP12,Miscellaneous goods and services,PT,Portugal,2020,1714,Outros,7,Portugal
