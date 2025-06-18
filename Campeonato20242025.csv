@@ -1,0 +1,613 @@
+﻿Equipa,Jornada,Pontos
+Sporting CP,1,3
+Sporting CP,2,6
+Sporting CP,3,9
+Sporting CP,4,12
+Sporting CP,5,15
+Sporting CP,6,18
+Sporting CP,7,21
+Sporting CP,8,24
+Sporting CP,9,27
+Sporting CP,10,30
+Sporting CP,11,33
+Sporting CP,12,33
+Sporting CP,13,33
+Sporting CP,14,36
+Sporting CP,15,37
+Sporting CP,16,40
+Sporting CP,17,41
+Sporting CP,18,44
+Sporting CP,19,47
+Sporting CP,20,50
+Sporting CP,21,50
+Sporting CP,22,51
+Sporting CP,23,52
+Sporting CP,24,55
+Sporting CP,25,58
+Sporting CP,26,61
+Sporting CP,27,64
+Sporting CP,28,65
+Sporting CP,29,68
+Sporting CP,30,71
+Sporting CP,31,74
+Sporting CP,32,77
+Sporting CP,33,78
+Sporting CP,34,81
+Benfica,1,0
+Benfica,2,3
+Benfica,3,6
+Benfica,4,7
+Benfica,5,10
+Benfica,6,13
+Benfica,7,16
+Benfica,8,19
+Benfica,9,22
+Benfica,10,25
+Benfica,11,28
+Benfica,12,31
+Benfica,13,34
+Benfica,14,35
+Benfica,15,38
+Benfica,16,38
+Benfica,17,38
+Benfica,18,41
+Benfica,19,41
+Benfica,20,44
+Benfica,21,47
+Benfica,22,50
+Benfica,23,53
+Benfica,24,56
+Benfica,25,59
+Benfica,26,62
+Benfica,27,65
+Benfica,28,68
+Benfica,29,69
+Benfica,30,72
+Benfica,31,75
+Benfica,32,78
+Benfica,33,79
+Benfica,34,80
+FC Porto,1,3
+FC Porto,2,6
+FC Porto,3,9
+FC Porto,4,9
+FC Porto,5,12
+FC Porto,6,15
+FC Porto,7,18
+FC Porto,8,21
+FC Porto,9,24
+FC Porto,10,27
+FC Porto,11,27
+FC Porto,12,30
+FC Porto,13,31
+FC Porto,14,34
+FC Porto,15,37
+FC Porto,16,40
+FC Porto,17,40
+FC Porto,18,40
+FC Porto,19,41
+FC Porto,20,42
+FC Porto,21,45
+FC Porto,22,48
+FC Porto,23,49
+FC Porto,24,52
+FC Porto,25,52
+FC Porto,26,55
+FC Porto,27,58
+FC Porto,28,58
+FC Porto,29,61
+FC Porto,30,64
+FC Porto,31,64
+FC Porto,32,67
+FC Porto,33,70
+FC Porto,34,73
+Braga,1,1
+Braga,2,4
+Braga,3,7
+Braga,4,8
+Braga,5,8
+Braga,6,11
+Braga,7,14
+Braga,8,14
+Braga,9,17
+Braga,10,20
+Braga,11,20
+Braga,12,23
+Braga,13,24
+Braga,14,25
+Braga,15,28
+Braga,16,28
+Braga,17,31
+Braga,18,34
+Braga,19,37
+Braga,20,40
+Braga,21,43
+Braga,22,44
+Braga,23,47
+Braga,24,47
+Braga,25,50
+Braga,26,53
+Braga,27,56
+Braga,28,57
+Braga,29,60
+Braga,30,63
+Braga,31,64
+Braga,32,65
+Braga,33,65
+Braga,34,66
+Santa Clara,1,3
+Santa Clara,2,3
+Santa Clara,3,6
+Santa Clara,4,9
+Santa Clara,5,9
+Santa Clara,6,12
+Santa Clara,7,15
+Santa Clara,8,15
+Santa Clara,9,18
+Santa Clara,10,18
+Santa Clara,11,21
+Santa Clara,12,24
+Santa Clara,13,27
+Santa Clara,14,27
+Santa Clara,15,27
+Santa Clara,16,30
+Santa Clara,17,31
+Santa Clara,18,31
+Santa Clara,19,32
+Santa Clara,20,35
+Santa Clara,21,38
+Santa Clara,22,38
+Santa Clara,23,39
+Santa Clara,24,39
+Santa Clara,25,40
+Santa Clara,26,43
+Santa Clara,27,46
+Santa Clara,28,46
+Santa Clara,29,46
+Santa Clara,30,47
+Santa Clara,31,50
+Santa Clara,32,51
+Santa Clara,33,54
+Santa Clara,34,57
+Vitoria Guimaraes,1,3
+Vitoria Guimaraes,2,6
+Vitoria Guimaraes,3,6
+Vitoria Guimaraes,4,9
+Vitoria Guimaraes,5,12
+Vitoria Guimaraes,6,12
+Vitoria Guimaraes,7,13
+Vitoria Guimaraes,8,14
+Vitoria Guimaraes,9,15
+Vitoria Guimaraes,10,18
+Vitoria Guimaraes,11,18
+Vitoria Guimaraes,12,21
+Vitoria Guimaraes,13,21
+Vitoria Guimaraes,14,22
+Vitoria Guimaraes,15,23
+Vitoria Guimaraes,16,24
+Vitoria Guimaraes,17,25
+Vitoria Guimaraes,18,26
+Vitoria Guimaraes,19,26
+Vitoria Guimaraes,20,29
+Vitoria Guimaraes,21,30
+Vitoria Guimaraes,22,31
+Vitoria Guimaraes,23,32
+Vitoria Guimaraes,24,35
+Vitoria Guimaraes,25,38
+Vitoria Guimaraes,26,41
+Vitoria Guimaraes,27,42
+Vitoria Guimaraes,28,45
+Vitoria Guimaraes,29,48
+Vitoria Guimaraes,30,48
+Vitoria Guimaraes,31,51
+Vitoria Guimaraes,32,54
+Vitoria Guimaraes,33,54
+Vitoria Guimaraes,34,54
+Famalicao,1,3
+Famalicao,2,6
+Famalicao,3,9
+Famalicao,4,9
+Famalicao,5,10
+Famalicao,6,11
+Famalicao,7,12
+Famalicao,8,13
+Famalicao,9,13
+Famalicao,10,16
+Famalicao,11,17
+Famalicao,12,17
+Famalicao,13,18
+Famalicao,14,19
+Famalicao,15,19
+Famalicao,16,19
+Famalicao,17,20
+Famalicao,18,20
+Famalicao,19,21
+Famalicao,20,24
+Famalicao,21,25
+Famalicao,22,28
+Famalicao,23,31
+Famalicao,24,31
+Famalicao,25,34
+Famalicao,26,34
+Famalicao,27,37
+Famalicao,28,40
+Famalicao,29,43
+Famalicao,30,43
+Famalicao,31,44
+Famalicao,32,44
+Famalicao,33,44
+Famalicao,34,47
+Estoril,1,0
+Estoril,2,0
+Estoril,3,1
+Estoril,4,2
+Estoril,5,5
+Estoril,6,6
+Estoril,7,6
+Estoril,8,6
+Estoril,9,9
+Estoril,10,9
+Estoril,11,10
+Estoril,12,13
+Estoril,13,14
+Estoril,14,14
+Estoril,15,14
+Estoril,16,15
+Estoril,17,18
+Estoril,18,21
+Estoril,19,24
+Estoril,20,27
+Estoril,21,30
+Estoril,22,31
+Estoril,23,34
+Estoril,24,34
+Estoril,25,35
+Estoril,26,36
+Estoril,27,36
+Estoril,28,39
+Estoril,29,39
+Estoril,30,39
+Estoril,31,42
+Estoril,32,42
+Estoril,33,43
+Estoril,34,46
+Casa Pia,1,0
+Casa Pia,2,0
+Casa Pia,3,0
+Casa Pia,4,3
+Casa Pia,5,6
+Casa Pia,6,7
+Casa Pia,7,8
+Casa Pia,8,8
+Casa Pia,9,11
+Casa Pia,10,12
+Casa Pia,11,13
+Casa Pia,12,13
+Casa Pia,13,14
+Casa Pia,14,17
+Casa Pia,15,20
+Casa Pia,16,23
+Casa Pia,17,24
+Casa Pia,18,27
+Casa Pia,19,30
+Casa Pia,20,30
+Casa Pia,21,33
+Casa Pia,22,33
+Casa Pia,23,36
+Casa Pia,24,36
+Casa Pia,25,36
+Casa Pia,26,36
+Casa Pia,27,39
+Casa Pia,28,40
+Casa Pia,29,40
+Casa Pia,30,41
+Casa Pia,31,41
+Casa Pia,32,41
+Casa Pia,33,44
+Casa Pia,34,44
+Arouca,1,0
+Arouca,2,0
+Arouca,3,3
+Arouca,4,3
+Arouca,5,3
+Arouca,6,6
+Arouca,7,6
+Arouca,8,7
+Arouca,9,7
+Arouca,10,7
+Arouca,11,8
+Arouca,12,8
+Arouca,13,8
+Arouca,14,11
+Arouca,15,11
+Arouca,16,12
+Arouca,17,15
+Arouca,18,16
+Arouca,19,19
+Arouca,20,22
+Arouca,21,23
+Arouca,22,24
+Arouca,23,25
+Arouca,24,25
+Arouca,25,28
+Arouca,26,29
+Arouca,27,29
+Arouca,28,29
+Arouca,29,30
+Arouca,30,33
+Arouca,31,33
+Arouca,32,36
+Arouca,33,37
+Arouca,34,40
+Moreirense,1,3
+Moreirense,2,6
+Moreirense,3,6
+Moreirense,4,7
+Moreirense,5,7
+Moreirense,6,8
+Moreirense,7,8
+Moreirense,8,11
+Moreirense,9,14
+Moreirense,10,14
+Moreirense,11,17
+Moreirense,12,17
+Moreirense,13,20
+Moreirense,14,20
+Moreirense,15,20
+Moreirense,16,21
+Moreirense,17,22
+Moreirense,18,23
+Moreirense,19,23
+Moreirense,20,23
+Moreirense,21,23
+Moreirense,22,26
+Moreirense,23,26
+Moreirense,24,27
+Moreirense,25,28
+Moreirense,26,31
+Moreirense,27,32
+Moreirense,28,35
+Moreirense,29,35
+Moreirense,30,35
+Moreirense,31,36
+Moreirense,32,36
+Moreirense,33,37
+Moreirense,34,40
+Rio Ave,1,0
+Rio Ave,2,3
+Rio Ave,3,3
+Rio Ave,4,6
+Rio Ave,5,6
+Rio Ave,6,7
+Rio Ave,7,7
+Rio Ave,8,8
+Rio Ave,9,8
+Rio Ave,10,9
+Rio Ave,11,12
+Rio Ave,12,15
+Rio Ave,13,15
+Rio Ave,14,16
+Rio Ave,15,16
+Rio Ave,16,19
+Rio Ave,17,20
+Rio Ave,18,20
+Rio Ave,19,23
+Rio Ave,20,24
+Rio Ave,21,25
+Rio Ave,22,26
+Rio Ave,23,26
+Rio Ave,24,29
+Rio Ave,25,29
+Rio Ave,26,29
+Rio Ave,27,29
+Rio Ave,28,29
+Rio Ave,29,32
+Rio Ave,30,33
+Rio Ave,31,33
+Rio Ave,32,36
+Rio Ave,33,37
+Rio Ave,34,38
+Gil Vicente,1,0
+Gil Vicente,2,3
+Gil Vicente,3,4
+Gil Vicente,4,5
+Gil Vicente,5,6
+Gil Vicente,6,7
+Gil Vicente,7,7
+Gil Vicente,8,10
+Gil Vicente,9,10
+Gil Vicente,10,10
+Gil Vicente,11,10
+Gil Vicente,12,10
+Gil Vicente,13,13
+Gil Vicente,14,16
+Gil Vicente,15,17
+Gil Vicente,16,18
+Gil Vicente,17,19
+Gil Vicente,18,22
+Gil Vicente,19,22
+Gil Vicente,20,22
+Gil Vicente,21,22
+Gil Vicente,22,22
+Gil Vicente,23,22
+Gil Vicente,24,22
+Gil Vicente,25,23
+Gil Vicente,26,23
+Gil Vicente,27,26
+Gil Vicente,28,26
+Gil Vicente,29,26
+Gil Vicente,30,29
+Gil Vicente,31,32
+Gil Vicente,32,32
+Gil Vicente,33,33
+Gil Vicente,34,34
+Nacional,1,1
+Nacional,2,1
+Nacional,3,1
+Nacional,4,4
+Nacional,5,4
+Nacional,6,4
+Nacional,7,5
+Nacional,8,5
+Nacional,9,5
+Nacional,10,8
+Nacional,11,8
+Nacional,12,9
+Nacional,13,9
+Nacional,14,12
+Nacional,15,13
+Nacional,16,13
+Nacional,17,16
+Nacional,18,19
+Nacional,19,19
+Nacional,20,19
+Nacional,21,22
+Nacional,22,23
+Nacional,23,23
+Nacional,24,26
+Nacional,25,26
+Nacional,26,29
+Nacional,27,29
+Nacional,28,29
+Nacional,29,32
+Nacional,30,32
+Nacional,31,33
+Nacional,32,33
+Nacional,33,34
+Nacional,34,34
+Estrela,1,1
+Estrela,2,1
+Estrela,3,1
+Estrela,4,1
+Estrela,5,2
+Estrela,6,2
+Estrela,7,5
+Estrela,8,5
+Estrela,9,6
+Estrela,10,6
+Estrela,11,9
+Estrela,12,9
+Estrela,13,12
+Estrela,14,12
+Estrela,15,15
+Estrela,16,16
+Estrela,17,16
+Estrela,18,16
+Estrela,19,17
+Estrela,20,17
+Estrela,21,17
+Estrela,22,20
+Estrela,23,21
+Estrela,24,22
+Estrela,25,23
+Estrela,26,23
+Estrela,27,23
+Estrela,28,26
+Estrela,29,26
+Estrela,30,26
+Estrela,31,29
+Estrela,32,29
+Estrela,33,29
+Estrela,34,29
+AFS,1,1
+AFS,2,1
+AFS,3,4
+AFS,4,4
+AFS,5,7
+AFS,6,7
+AFS,7,8
+AFS,8,9
+AFS,9,9
+AFS,10,9
+AFS,11,10
+AFS,12,10
+AFS,13,11
+AFS,14,12
+AFS,15,13
+AFS,16,14
+AFS,17,15
+AFS,18,15
+AFS,19,18
+AFS,20,18
+AFS,21,18
+AFS,22,19
+AFS,23,20
+AFS,24,23
+AFS,25,23
+AFS,26,23
+AFS,27,23
+AFS,28,23
+AFS,29,23
+AFS,30,24
+AFS,31,24
+AFS,32,24
+AFS,33,27
+AFS,34,27
+SC Farense,1,0
+SC Farense,2,0
+SC Farense,3,0
+SC Farense,4,0
+SC Farense,5,0
+SC Farense,6,0
+SC Farense,7,1
+SC Farense,8,4
+SC Farense,9,4
+SC Farense,10,4
+SC Farense,11,5
+SC Farense,12,8
+SC Farense,13,9
+SC Farense,14,9
+SC Farense,15,12
+SC Farense,16,13
+SC Farense,17,14
+SC Farense,18,15
+SC Farense,19,15
+SC Farense,20,15
+SC Farense,21,15
+SC Farense,22,15
+SC Farense,23,16
+SC Farense,24,16
+SC Farense,25,17
+SC Farense,26,17
+SC Farense,27,17
+SC Farense,28,18
+SC Farense,29,21
+SC Farense,30,21
+SC Farense,31,21
+SC Farense,32,24
+SC Farense,33,27
+SC Farense,34,27
+Boavista,1,3
+Boavista,2,3
+Boavista,3,3
+Boavista,4,4
+Boavista,5,5
+Boavista,6,5
+Boavista,7,5
+Boavista,8,6
+Boavista,9,6
+Boavista,10,9
+Boavista,11,9
+Boavista,12,10
+Boavista,13,11
+Boavista,14,11
+Boavista,15,12
+Boavista,16,12
+Boavista,17,12
+Boavista,18,12
+Boavista,19,12
+Boavista,20,12
+Boavista,21,12
+Boavista,22,12
+Boavista,23,12
+Boavista,24,15
+Boavista,25,15
+Boavista,26,15
+Boavista,27,15
+Boavista,28,18
+Boavista,29,18
+Boavista,30,21
+Boavista,31,21
+Boavista,32,24
+Boavista,33,24
+Boavista,34,24
