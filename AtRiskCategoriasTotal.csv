@@ -96,16 +96,10 @@ Alojamento,"Tenant, rent at market price",AT,Austria,2024,29.2,8,3,Fim,16.9,897,
 Alojamento,"Tenant, rent at reduced price or free",AT,Austria,2024,22.3,8,4,Inicio,16.9,896,16.9
 Alojamento,"Tenant, rent at reduced price or free",AT,Austria,2024,22.3,8,4,Fim,16.9,895,22.3
 Urbanização,Cities,AT,Austria,2024,24.7,9,1,Inicio,16.9,894,16.9
-Urbanização,Cities,AT,Austria,2024,708,9,1,Inicio,16.9,894,16.9
 Urbanização,Cities,AT,Austria,2024,24.7,9,1,Fim,16.9,893,24.7
-Urbanização,Cities,AT,Austria,2024,708,9,1,Fim,16.9,893,708
 Urbanização,Towns and suburbs,AT,Austria,2024,14.7,9,2,Inicio,16.9,892,16.9
-Urbanização,Towns and suburbs,AT,Austria,2024,405,9,2,Inicio,16.9,892,16.9
 Urbanização,Towns and suburbs,AT,Austria,2024,14.7,9,2,Fim,16.9,891,14.7
-Urbanização,Towns and suburbs,AT,Austria,2024,405,9,2,Fim,16.9,891,405
 Urbanização,Rural areas,AT,Austria,2024,12.2,9,3,Inicio,16.9,890,16.9
-Urbanização,Rural areas,AT,Austria,2024,416,9,3,Inicio,16.9,890,16.9
-Urbanização,Rural areas,AT,Austria,2024,416,9,3,Fim,16.9,889,416
 Urbanização,Rural areas,AT,Austria,2024,12.2,9,3,Fim,16.9,889,12.2
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",AT,Austria,2024,66.5,10,1,Inicio,16.9,888,16.9
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",AT,Austria,2024,66.5,10,1,Fim,16.9,887,66.5
@@ -230,16 +224,10 @@ Alojamento,"Tenant, rent at market price",BE,Belgium,2024,33.4,8,3,Fim,18.2,897,
 Alojamento,"Tenant, rent at reduced price or free",BE,Belgium,2024,47.9,8,4,Inicio,18.2,896,18.2
 Alojamento,"Tenant, rent at reduced price or free",BE,Belgium,2024,47.9,8,4,Fim,18.2,895,47.9
 Urbanização,Cities,BE,Belgium,2024,27.5,9,1,Inicio,18.2,894,18.2
-Urbanização,Cities,BE,Belgium,2024,953,9,1,Inicio,18.2,894,18.2
 Urbanização,Cities,BE,Belgium,2024,27.5,9,1,Fim,18.2,893,27.5
-Urbanização,Cities,BE,Belgium,2024,953,9,1,Fim,18.2,893,953
-Urbanização,Towns and suburbs,BE,Belgium,2024,940,9,2,Inicio,18.2,892,18.2
 Urbanização,Towns and suburbs,BE,Belgium,2024,14.5,9,2,Inicio,18.2,892,18.2
-Urbanização,Towns and suburbs,BE,Belgium,2024,940,9,2,Fim,18.2,891,940
 Urbanização,Towns and suburbs,BE,Belgium,2024,14.5,9,2,Fim,18.2,891,14.5
-Urbanização,Rural areas,BE,Belgium,2024,228,9,3,Inicio,18.2,890,18.2
 Urbanização,Rural areas,BE,Belgium,2024,13.4,9,3,Inicio,18.2,890,18.2
-Urbanização,Rural areas,BE,Belgium,2024,228,9,3,Fim,18.2,889,228
 Urbanização,Rural areas,BE,Belgium,2024,13.4,9,3,Fim,18.2,889,13.4
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",BE,Belgium,2024,70,10,1,Inicio,18.2,888,18.2
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",BE,Belgium,2024,70,10,1,Fim,18.2,887,70
@@ -363,17 +351,11 @@ Alojamento,"Tenant, rent at market price",BG,Bulgaria,2024,24.6,8,3,Inicio,30.3,
 Alojamento,"Tenant, rent at market price",BG,Bulgaria,2024,24.6,8,3,Fim,30.3,897,24.6
 Alojamento,"Tenant, rent at reduced price or free",BG,Bulgaria,2024,40.1,8,4,Inicio,30.3,896,30.3
 Alojamento,"Tenant, rent at reduced price or free",BG,Bulgaria,2024,40.1,8,4,Fim,30.3,895,40.1
-Urbanização,Cities,BG,Bulgaria,2024,640,9,1,Inicio,30.3,894,30.3
 Urbanização,Cities,BG,Bulgaria,2024,22.1,9,1,Inicio,30.3,894,30.3
-Urbanização,Cities,BG,Bulgaria,2024,640,9,1,Fim,30.3,893,640
 Urbanização,Cities,BG,Bulgaria,2024,22.1,9,1,Fim,30.3,893,22.1
-Urbanização,Towns and suburbs,BG,Bulgaria,2024,494,9,2,Inicio,30.3,892,30.3
 Urbanização,Towns and suburbs,BG,Bulgaria,2024,32,9,2,Inicio,30.3,892,30.3
 Urbanização,Towns and suburbs,BG,Bulgaria,2024,32,9,2,Fim,30.3,891,32
-Urbanização,Towns and suburbs,BG,Bulgaria,2024,494,9,2,Fim,30.3,891,494
 Urbanização,Rural areas,BG,Bulgaria,2024,40.8,9,3,Inicio,30.3,890,30.3
-Urbanização,Rural areas,BG,Bulgaria,2024,819,9,3,Inicio,30.3,890,30.3
-Urbanização,Rural areas,BG,Bulgaria,2024,819,9,3,Fim,30.3,889,819
 Urbanização,Rural areas,BG,Bulgaria,2024,40.8,9,3,Fim,30.3,889,40.8
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",BG,Bulgaria,2024,83.5,10,1,Inicio,30.3,888,30.3
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",BG,Bulgaria,2024,83.5,10,1,Fim,30.3,887,83.5
@@ -497,18 +479,12 @@ Alojamento,"Tenant, rent at market price",HR,Croatia,2024,29,8,3,Inicio,21.7,898
 Alojamento,"Tenant, rent at market price",HR,Croatia,2024,29,8,3,Fim,21.7,897,29
 Alojamento,"Tenant, rent at reduced price or free",HR,Croatia,2024,32.7,8,4,Inicio,21.7,896,21.7
 Alojamento,"Tenant, rent at reduced price or free",HR,Croatia,2024,32.7,8,4,Fim,21.7,895,32.7
-Urbanização,Cities,HR,Croatia,2024,173,9,1,Inicio,21.7,894,21.7
 Urbanização,Cities,HR,Croatia,2024,14.5,9,1,Inicio,21.7,894,21.7
-Urbanização,Cities,HR,Croatia,2024,173,9,1,Fim,21.7,893,173
 Urbanização,Cities,HR,Croatia,2024,14.5,9,1,Fim,21.7,893,14.5
 Urbanização,Towns and suburbs,HR,Croatia,2024,22.5,9,2,Inicio,21.7,892,21.7
-Urbanização,Towns and suburbs,HR,Croatia,2024,267,9,2,Inicio,21.7,892,21.7
 Urbanização,Towns and suburbs,HR,Croatia,2024,22.5,9,2,Fim,21.7,891,22.5
-Urbanização,Towns and suburbs,HR,Croatia,2024,267,9,2,Fim,21.7,891,267
-Urbanização,Rural areas,HR,Croatia,2024,370,9,3,Inicio,21.7,890,21.7
 Urbanização,Rural areas,HR,Croatia,2024,27.2,9,3,Inicio,21.7,890,21.7
 Urbanização,Rural areas,HR,Croatia,2024,27.2,9,3,Fim,21.7,889,27.2
-Urbanização,Rural areas,HR,Croatia,2024,370,9,3,Fim,21.7,889,370
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",HR,Croatia,2024,57.3,10,1,Inicio,21.7,888,21.7
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",HR,Croatia,2024,57.3,10,1,Fim,21.7,887,57.3
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),HR,Croatia,2024,28.9,10,2,Inicio,21.7,886,21.7
@@ -631,17 +607,11 @@ Alojamento,"Tenant, rent at market price",CY,Cyprus,2024,29.8,8,3,Inicio,17.1,89
 Alojamento,"Tenant, rent at market price",CY,Cyprus,2024,29.8,8,3,Fim,17.1,897,29.8
 Alojamento,"Tenant, rent at reduced price or free",CY,Cyprus,2024,31.2,8,4,Inicio,17.1,896,17.1
 Alojamento,"Tenant, rent at reduced price or free",CY,Cyprus,2024,31.2,8,4,Fim,17.1,895,31.2
-Urbanização,Cities,CY,Cyprus,2024,91,9,1,Inicio,17.1,894,17.1
 Urbanização,Cities,CY,Cyprus,2024,15.8,9,1,Inicio,17.1,894,17.1
-Urbanização,Cities,CY,Cyprus,2024,91,9,1,Fim,17.1,893,91
 Urbanização,Cities,CY,Cyprus,2024,15.8,9,1,Fim,17.1,893,15.8
-Urbanização,Towns and suburbs,CY,Cyprus,2024,31,9,2,Inicio,17.1,892,17.1
 Urbanização,Towns and suburbs,CY,Cyprus,2024,16.9,9,2,Inicio,17.1,892,17.1
-Urbanização,Towns and suburbs,CY,Cyprus,2024,31,9,2,Fim,17.1,891,31
 Urbanização,Towns and suburbs,CY,Cyprus,2024,16.9,9,2,Fim,17.1,891,16.9
-Urbanização,Rural areas,CY,Cyprus,2024,43,9,3,Inicio,17.1,890,17.1
 Urbanização,Rural areas,CY,Cyprus,2024,21.1,9,3,Inicio,17.1,890,17.1
-Urbanização,Rural areas,CY,Cyprus,2024,43,9,3,Fim,17.1,889,43
 Urbanização,Rural areas,CY,Cyprus,2024,21.1,9,3,Fim,17.1,889,21.1
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",CY,Cyprus,2024,55.7,10,1,Inicio,17.1,888,17.1
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",CY,Cyprus,2024,55.7,10,1,Fim,17.1,887,55.7
@@ -765,18 +735,12 @@ Alojamento,"Tenant, rent at market price",CZ,Czechia,2024,27.9,8,3,Inicio,11.3,8
 Alojamento,"Tenant, rent at market price",CZ,Czechia,2024,27.9,8,3,Fim,11.3,897,27.9
 Alojamento,"Tenant, rent at reduced price or free",CZ,Czechia,2024,14.6,8,4,Inicio,11.3,896,11.3
 Alojamento,"Tenant, rent at reduced price or free",CZ,Czechia,2024,14.6,8,4,Fim,11.3,895,14.6
-Urbanização,Cities,CZ,Czechia,2024,393,9,1,Inicio,11.3,894,11.3
 Urbanização,Cities,CZ,Czechia,2024,12.4,9,1,Inicio,11.3,894,11.3
 Urbanização,Cities,CZ,Czechia,2024,12.4,9,1,Fim,11.3,893,12.4
-Urbanização,Cities,CZ,Czechia,2024,393,9,1,Fim,11.3,893,393
-Urbanização,Towns and suburbs,CZ,Czechia,2024,417,9,2,Inicio,11.3,892,11.3
 Urbanização,Towns and suburbs,CZ,Czechia,2024,11.7,9,2,Inicio,11.3,892,11.3
-Urbanização,Towns and suburbs,CZ,Czechia,2024,417,9,2,Fim,11.3,891,417
 Urbanização,Towns and suburbs,CZ,Czechia,2024,11.7,9,2,Fim,11.3,891,11.7
-Urbanização,Rural areas,CZ,Czechia,2024,373,9,3,Inicio,11.3,890,11.3
 Urbanização,Rural areas,CZ,Czechia,2024,9.9,9,3,Inicio,11.3,890,11.3
 Urbanização,Rural areas,CZ,Czechia,2024,9.9,9,3,Fim,11.3,889,9.9
-Urbanização,Rural areas,CZ,Czechia,2024,373,9,3,Fim,11.3,889,373
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",CZ,Czechia,2024,76.3,10,1,Inicio,11.3,888,11.3
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",CZ,Czechia,2024,76.3,10,1,Fim,11.3,887,76.3
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),CZ,Czechia,2024,18.3,10,2,Inicio,11.3,886,11.3
@@ -900,17 +864,11 @@ Alojamento,"Tenant, rent at market price",DK,Denmark,2024,31.8,8,3,Fim,18,897,31
 Alojamento,"Tenant, rent at reduced price or free",DK,Denmark,2024,,8,4,Inicio,18,896,18
 Alojamento,"Tenant, rent at reduced price or free",DK,Denmark,2024,,8,4,Fim,18,895,
 Urbanização,Cities,DK,Denmark,2024,22.7,9,1,Inicio,18,894,18
-Urbanização,Cities,DK,Denmark,2024,463,9,1,Inicio,18,894,18
-Urbanização,Cities,DK,Denmark,2024,463,9,1,Fim,18,893,463
 Urbanização,Cities,DK,Denmark,2024,22.7,9,1,Fim,18,893,22.7
-Urbanização,Towns and suburbs,DK,Denmark,2024,279,9,2,Inicio,18,892,18
 Urbanização,Towns and suburbs,DK,Denmark,2024,14.7,9,2,Inicio,18,892,18
-Urbanização,Towns and suburbs,DK,Denmark,2024,279,9,2,Fim,18,891,279
 Urbanização,Towns and suburbs,DK,Denmark,2024,14.7,9,2,Fim,18,891,14.7
-Urbanização,Rural areas,DK,Denmark,2024,323,9,3,Inicio,18,890,18
 Urbanização,Rural areas,DK,Denmark,2024,16.3,9,3,Inicio,18,890,18
 Urbanização,Rural areas,DK,Denmark,2024,16.3,9,3,Fim,18,889,16.3
-Urbanização,Rural areas,DK,Denmark,2024,323,9,3,Fim,18,889,323
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",DK,Denmark,2024,40.6,10,1,Inicio,18,888,18
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",DK,Denmark,2024,40.6,10,1,Fim,18,887,40.6
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),DK,Denmark,2024,20.9,10,2,Inicio,18,886,18
@@ -1034,16 +992,10 @@ Alojamento,"Tenant, rent at market price",EE,Estonia,2024,31.2,8,3,Fim,22.2,897,
 Alojamento,"Tenant, rent at reduced price or free",EE,Estonia,2024,41.2,8,4,Inicio,22.2,896,22.2
 Alojamento,"Tenant, rent at reduced price or free",EE,Estonia,2024,41.2,8,4,Fim,22.2,895,41.2
 Urbanização,Cities,EE,Estonia,2024,20.9,9,1,Inicio,22.2,894,22.2
-Urbanização,Cities,EE,Estonia,2024,128,9,1,Inicio,22.2,894,22.2
 Urbanização,Cities,EE,Estonia,2024,20.9,9,1,Fim,22.2,893,20.9
-Urbanização,Cities,EE,Estonia,2024,128,9,1,Fim,22.2,893,128
-Urbanização,Towns and suburbs,EE,Estonia,2024,67,9,2,Inicio,22.2,892,22.2
 Urbanização,Towns and suburbs,EE,Estonia,2024,24.7,9,2,Inicio,22.2,892,22.2
-Urbanização,Towns and suburbs,EE,Estonia,2024,67,9,2,Fim,22.2,891,67
 Urbanização,Towns and suburbs,EE,Estonia,2024,24.7,9,2,Fim,22.2,891,24.7
 Urbanização,Rural areas,EE,Estonia,2024,22.6,9,3,Inicio,22.2,890,22.2
-Urbanização,Rural areas,EE,Estonia,2024,108,9,3,Inicio,22.2,890,22.2
-Urbanização,Rural areas,EE,Estonia,2024,108,9,3,Fim,22.2,889,108
 Urbanização,Rural areas,EE,Estonia,2024,22.6,9,3,Fim,22.2,889,22.6
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",EE,Estonia,2024,45.6,10,1,Inicio,22.2,888,22.2
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",EE,Estonia,2024,45.6,10,1,Fim,22.2,887,45.6
@@ -1167,18 +1119,12 @@ Alojamento,"Tenant, rent at market price",FI,Finland,2024,35.3,8,3,Inicio,16.8,8
 Alojamento,"Tenant, rent at market price",FI,Finland,2024,35.3,8,3,Fim,16.8,897,35.3
 Alojamento,"Tenant, rent at reduced price or free",FI,Finland,2024,36.6,8,4,Inicio,16.8,896,16.8
 Alojamento,"Tenant, rent at reduced price or free",FI,Finland,2024,36.6,8,4,Fim,16.8,895,36.6
-Urbanização,Cities,FI,Finland,2024,429,9,1,Inicio,16.8,894,16.8
 Urbanização,Cities,FI,Finland,2024,19.2,9,1,Inicio,16.8,894,16.8
-Urbanização,Cities,FI,Finland,2024,429,9,1,Fim,16.8,893,429
 Urbanização,Cities,FI,Finland,2024,19.2,9,1,Fim,16.8,893,19.2
-Urbanização,Towns and suburbs,FI,Finland,2024,271,9,2,Inicio,16.8,892,16.8
 Urbanização,Towns and suburbs,FI,Finland,2024,14.9,9,2,Inicio,16.8,892,16.8
-Urbanização,Towns and suburbs,FI,Finland,2024,271,9,2,Fim,16.8,891,271
 Urbanização,Towns and suburbs,FI,Finland,2024,14.9,9,2,Fim,16.8,891,14.9
-Urbanização,Rural areas,FI,Finland,2024,227,9,3,Inicio,16.8,890,16.8
 Urbanização,Rural areas,FI,Finland,2024,15.5,9,3,Inicio,16.8,890,16.8
 Urbanização,Rural areas,FI,Finland,2024,15.5,9,3,Fim,16.8,889,15.5
-Urbanização,Rural areas,FI,Finland,2024,227,9,3,Fim,16.8,889,227
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",FI,Finland,2024,49.4,10,1,Inicio,16.8,888,16.8
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",FI,Finland,2024,49.4,10,1,Fim,16.8,887,49.4
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),FI,Finland,2024,28.1,10,2,Inicio,16.8,886,16.8
@@ -1302,17 +1248,11 @@ Alojamento,"Tenant, rent at market price",FR,France,2024,29.8,8,3,Fim,20.5,897,2
 Alojamento,"Tenant, rent at reduced price or free",FR,France,2024,42.5,8,4,Inicio,20.5,896,20.5
 Alojamento,"Tenant, rent at reduced price or free",FR,France,2024,42.5,8,4,Fim,20.5,895,42.5
 Urbanização,Cities,FR,France,2024,24,9,1,Inicio,20.5,894,20.5
-Urbanização,Cities,FR,France,2024,5928,9,1,Inicio,20.5,894,20.5
 Urbanização,Cities,FR,France,2024,24,9,1,Fim,20.5,893,24
-Urbanização,Cities,FR,France,2024,5928,9,1,Fim,20.5,893,5928
 Urbanização,Towns and suburbs,FR,France,2024,21.2,9,2,Inicio,20.5,892,20.5
-Urbanização,Towns and suburbs,FR,France,2024,4260,9,2,Inicio,20.5,892,20.5
 Urbanização,Towns and suburbs,FR,France,2024,21.2,9,2,Fim,20.5,891,21.2
-Urbanização,Towns and suburbs,FR,France,2024,4260,9,2,Fim,20.5,891,4260
 Urbanização,Rural areas,FR,France,2024,15.8,9,3,Inicio,20.5,890,20.5
-Urbanização,Rural areas,FR,France,2024,3396,9,3,Inicio,20.5,890,20.5
 Urbanização,Rural areas,FR,France,2024,15.8,9,3,Fim,20.5,889,15.8
-Urbanização,Rural areas,FR,France,2024,3396,9,3,Fim,20.5,889,3396
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",FR,France,2024,67.9,10,1,Inicio,20.5,888,20.5
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",FR,France,2024,67.9,10,1,Fim,20.5,887,67.9
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),FR,France,2024,35.5,10,2,Inicio,20.5,886,20.5
@@ -1436,16 +1376,10 @@ Alojamento,"Tenant, rent at market price",DE,Germany,2024,28.3,8,3,Fim,21.1,897,
 Alojamento,"Tenant, rent at reduced price or free",DE,Germany,2024,43.5,8,4,Inicio,21.1,896,21.1
 Alojamento,"Tenant, rent at reduced price or free",DE,Germany,2024,43.5,8,4,Fim,21.1,895,43.5
 Urbanização,Cities,DE,Germany,2024,24.6,9,1,Inicio,21.1,894,21.1
-Urbanização,Cities,DE,Germany,2024,8042,9,1,Inicio,21.1,894,21.1
-Urbanização,Cities,DE,Germany,2024,8042,9,1,Fim,21.1,893,8042
 Urbanização,Cities,DE,Germany,2024,24.6,9,1,Fim,21.1,893,24.6
-Urbanização,Towns and suburbs,DE,Germany,2024,7004,9,2,Inicio,21.1,892,21.1
 Urbanização,Towns and suburbs,DE,Germany,2024,19.7,9,2,Inicio,21.1,892,21.1
 Urbanização,Towns and suburbs,DE,Germany,2024,19.7,9,2,Fim,21.1,891,19.7
-Urbanização,Towns and suburbs,DE,Germany,2024,7004,9,2,Fim,21.1,891,7004
 Urbanização,Rural areas,DE,Germany,2024,16.9,9,3,Inicio,21.1,890,21.1
-Urbanização,Rural areas,DE,Germany,2024,2641,9,3,Inicio,21.1,890,21.1
-Urbanização,Rural areas,DE,Germany,2024,2641,9,3,Fim,21.1,889,2641
 Urbanização,Rural areas,DE,Germany,2024,16.9,9,3,Fim,21.1,889,16.9
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",DE,Germany,2024,59.5,10,1,Inicio,21.1,888,21.1
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",DE,Germany,2024,59.5,10,1,Fim,21.1,887,59.5
@@ -1569,17 +1503,11 @@ Alojamento,"Tenant, rent at market price",EL,Greece,2024,32.2,8,3,Inicio,26.9,89
 Alojamento,"Tenant, rent at market price",EL,Greece,2024,32.2,8,3,Fim,26.9,897,32.2
 Alojamento,"Tenant, rent at reduced price or free",EL,Greece,2024,35.8,8,4,Inicio,26.9,896,26.9
 Alojamento,"Tenant, rent at reduced price or free",EL,Greece,2024,35.8,8,4,Fim,26.9,895,35.8
-Urbanização,Cities,EL,Greece,2024,997,9,1,Inicio,26.9,894,26.9
 Urbanização,Cities,EL,Greece,2024,23.8,9,1,Inicio,26.9,894,26.9
 Urbanização,Cities,EL,Greece,2024,23.8,9,1,Fim,26.9,893,23.8
-Urbanização,Cities,EL,Greece,2024,997,9,1,Fim,26.9,893,997
-Urbanização,Towns and suburbs,EL,Greece,2024,801,9,2,Inicio,26.9,892,26.9
 Urbanização,Towns and suburbs,EL,Greece,2024,25.5,9,2,Inicio,26.9,892,26.9
 Urbanização,Towns and suburbs,EL,Greece,2024,25.5,9,2,Fim,26.9,891,25.5
-Urbanização,Towns and suburbs,EL,Greece,2024,801,9,2,Fim,26.9,891,801
 Urbanização,Rural areas,EL,Greece,2024,33.1,9,3,Inicio,26.9,890,26.9
-Urbanização,Rural areas,EL,Greece,2024,946,9,3,Inicio,26.9,890,26.9
-Urbanização,Rural areas,EL,Greece,2024,946,9,3,Fim,26.9,889,946
 Urbanização,Rural areas,EL,Greece,2024,33.1,9,3,Fim,26.9,889,33.1
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",EL,Greece,2024,66.5,10,1,Inicio,26.9,888,26.9
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",EL,Greece,2024,66.5,10,1,Fim,26.9,887,66.5
@@ -1704,17 +1632,11 @@ Alojamento,"Tenant, rent at market price",HU,Hungary,2024,26.9,8,3,Fim,20.2,897,
 Alojamento,"Tenant, rent at reduced price or free",HU,Hungary,2024,29.8,8,4,Inicio,20.2,896,20.2
 Alojamento,"Tenant, rent at reduced price or free",HU,Hungary,2024,29.8,8,4,Fim,20.2,895,29.8
 Urbanização,Cities,HU,Hungary,2024,14.1,9,1,Inicio,20.2,894,20.2
-Urbanização,Cities,HU,Hungary,2024,426,9,1,Inicio,20.2,894,20.2
-Urbanização,Cities,HU,Hungary,2024,426,9,1,Fim,20.2,893,426
 Urbanização,Cities,HU,Hungary,2024,14.1,9,1,Fim,20.2,893,14.1
 Urbanização,Towns and suburbs,HU,Hungary,2024,20.6,9,2,Inicio,20.2,892,20.2
-Urbanização,Towns and suburbs,HU,Hungary,2024,711,9,2,Inicio,20.2,892,20.2
 Urbanização,Towns and suburbs,HU,Hungary,2024,20.6,9,2,Fim,20.2,891,20.6
-Urbanização,Towns and suburbs,HU,Hungary,2024,711,9,2,Fim,20.2,891,711
-Urbanização,Rural areas,HU,Hungary,2024,777,9,3,Inicio,20.2,890,20.2
 Urbanização,Rural areas,HU,Hungary,2024,25.8,9,3,Inicio,20.2,890,20.2
 Urbanização,Rural areas,HU,Hungary,2024,25.8,9,3,Fim,20.2,889,25.8
-Urbanização,Rural areas,HU,Hungary,2024,777,9,3,Fim,20.2,889,777
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",HU,Hungary,2024,69.5,10,1,Inicio,20.2,888,20.2
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",HU,Hungary,2024,69.5,10,1,Fim,20.2,887,69.5
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),HU,Hungary,2024,22,10,2,Inicio,20.2,886,20.2
@@ -1838,16 +1760,10 @@ Alojamento,"Tenant, rent at market price",IE,Ireland,2024,29.3,8,3,Fim,16.7,897,
 Alojamento,"Tenant, rent at reduced price or free",IE,Ireland,2024,32.9,8,4,Inicio,16.7,896,16.7
 Alojamento,"Tenant, rent at reduced price or free",IE,Ireland,2024,32.9,8,4,Fim,16.7,895,32.9
 Urbanização,Cities,IE,Ireland,2024,13,9,1,Inicio,16.7,894,16.7
-Urbanização,Cities,IE,Ireland,2024,204,9,1,Inicio,16.7,894,16.7
 Urbanização,Cities,IE,Ireland,2024,13,9,1,Fim,16.7,893,13
-Urbanização,Cities,IE,Ireland,2024,204,9,1,Fim,16.7,893,204
-Urbanização,Towns and suburbs,IE,Ireland,2024,226,9,2,Inicio,16.7,892,16.7
 Urbanização,Towns and suburbs,IE,Ireland,2024,16.7,9,2,Inicio,16.7,892,16.7
-Urbanização,Towns and suburbs,IE,Ireland,2024,226,9,2,Fim,16.7,891,226
 Urbanização,Towns and suburbs,IE,Ireland,2024,16.7,9,2,Fim,16.7,891,16.7
-Urbanização,Rural areas,IE,Ireland,2024,450,9,3,Inicio,16.7,890,16.7
 Urbanização,Rural areas,IE,Ireland,2024,19.3,9,3,Inicio,16.7,890,16.7
-Urbanização,Rural areas,IE,Ireland,2024,450,9,3,Fim,16.7,889,450
 Urbanização,Rural areas,IE,Ireland,2024,19.3,9,3,Fim,16.7,889,19.3
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",IE,Ireland,2024,68.6,10,1,Inicio,16.7,888,16.7
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",IE,Ireland,2024,68.6,10,1,Fim,16.7,887,68.6
@@ -1971,18 +1887,12 @@ Alojamento,"Tenant, rent at market price",IT,Italy,2024,34.9,8,3,Inicio,23.1,898
 Alojamento,"Tenant, rent at market price",IT,Italy,2024,34.9,8,3,Fim,23.1,897,34.9
 Alojamento,"Tenant, rent at reduced price or free",IT,Italy,2024,36.6,8,4,Inicio,23.1,896,23.1
 Alojamento,"Tenant, rent at reduced price or free",IT,Italy,2024,36.6,8,4,Fim,23.1,895,36.6
-Urbanização,Cities,IT,Italy,2024,5007,9,1,Inicio,23.1,894,23.1
 Urbanização,Cities,IT,Italy,2024,23.7,9,1,Inicio,23.1,894,23.1
 Urbanização,Cities,IT,Italy,2024,23.7,9,1,Fim,23.1,893,23.7
-Urbanização,Cities,IT,Italy,2024,5007,9,1,Fim,23.1,893,5007
 Urbanização,Towns and suburbs,IT,Italy,2024,22.8,9,2,Inicio,23.1,892,23.1
-Urbanização,Towns and suburbs,IT,Italy,2024,6134,9,2,Inicio,23.1,892,23.1
 Urbanização,Towns and suburbs,IT,Italy,2024,22.8,9,2,Fim,23.1,891,22.8
-Urbanização,Towns and suburbs,IT,Italy,2024,6134,9,2,Fim,23.1,891,6134
-Urbanização,Rural areas,IT,Italy,2024,2384,9,3,Inicio,23.1,890,23.1
 Urbanização,Rural areas,IT,Italy,2024,22.3,9,3,Inicio,23.1,890,23.1
 Urbanização,Rural areas,IT,Italy,2024,22.3,9,3,Fim,23.1,889,22.3
-Urbanização,Rural areas,IT,Italy,2024,2384,9,3,Fim,23.1,889,2384
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",IT,Italy,2024,52.9,10,1,Inicio,23.1,888,23.1
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",IT,Italy,2024,52.9,10,1,Fim,23.1,887,52.9
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),IT,Italy,2024,27.3,10,2,Inicio,23.1,886,23.1
@@ -2106,16 +2016,10 @@ Alojamento,"Tenant, rent at market price",LV,Latvia,2024,25.9,8,3,Fim,24.3,897,2
 Alojamento,"Tenant, rent at reduced price or free",LV,Latvia,2024,45.4,8,4,Inicio,24.3,896,24.3
 Alojamento,"Tenant, rent at reduced price or free",LV,Latvia,2024,45.4,8,4,Fim,24.3,895,45.4
 Urbanização,Cities,LV,Latvia,2024,19.3,9,1,Inicio,24.3,894,24.3
-Urbanização,Cities,LV,Latvia,2024,130,9,1,Inicio,24.3,894,24.3
 Urbanização,Cities,LV,Latvia,2024,19.3,9,1,Fim,24.3,893,19.3
-Urbanização,Cities,LV,Latvia,2024,130,9,1,Fim,24.3,893,130
-Urbanização,Towns and suburbs,LV,Latvia,2024,93,9,2,Inicio,24.3,892,24.3
 Urbanização,Towns and suburbs,LV,Latvia,2024,23.3,9,2,Inicio,24.3,892,24.3
-Urbanização,Towns and suburbs,LV,Latvia,2024,93,9,2,Fim,24.3,891,93
 Urbanização,Towns and suburbs,LV,Latvia,2024,23.3,9,2,Fim,24.3,891,23.3
-Urbanização,Rural areas,LV,Latvia,2024,222,9,3,Inicio,24.3,890,24.3
 Urbanização,Rural areas,LV,Latvia,2024,29.4,9,3,Inicio,24.3,890,24.3
-Urbanização,Rural areas,LV,Latvia,2024,222,9,3,Fim,24.3,889,222
 Urbanização,Rural areas,LV,Latvia,2024,29.4,9,3,Fim,24.3,889,29.4
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",LV,Latvia,2024,62.6,10,1,Inicio,24.3,888,24.3
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",LV,Latvia,2024,62.6,10,1,Fim,24.3,887,62.6
@@ -2239,17 +2143,11 @@ Alojamento,"Tenant, rent at market price",LT,Lithuania,2024,15.7,8,3,Inicio,25.8
 Alojamento,"Tenant, rent at market price",LT,Lithuania,2024,15.7,8,3,Fim,25.8,897,15.7
 Alojamento,"Tenant, rent at reduced price or free",LT,Lithuania,2024,50.9,8,4,Inicio,25.8,896,25.8
 Alojamento,"Tenant, rent at reduced price or free",LT,Lithuania,2024,50.9,8,4,Fim,25.8,895,50.9
-Urbanização,Cities,LT,Lithuania,2024,224,9,1,Inicio,25.8,894,25.8
 Urbanização,Cities,LT,Lithuania,2024,17.9,9,1,Inicio,25.8,894,25.8
-Urbanização,Cities,LT,Lithuania,2024,224,9,1,Fim,25.8,893,224
 Urbanização,Cities,LT,Lithuania,2024,17.9,9,1,Fim,25.8,893,17.9
-Urbanização,Towns and suburbs,LT,Lithuania,2024,115,9,2,Inicio,25.8,892,25.8
 Urbanização,Towns and suburbs,LT,Lithuania,2024,26.9,9,2,Inicio,25.8,892,25.8
-Urbanização,Towns and suburbs,LT,Lithuania,2024,115,9,2,Fim,25.8,891,115
 Urbanização,Towns and suburbs,LT,Lithuania,2024,26.9,9,2,Fim,25.8,891,26.9
 Urbanização,Rural areas,LT,Lithuania,2024,33.6,9,3,Inicio,25.8,890,25.8
-Urbanização,Rural areas,LT,Lithuania,2024,405,9,3,Inicio,25.8,890,25.8
-Urbanização,Rural areas,LT,Lithuania,2024,405,9,3,Fim,25.8,889,405
 Urbanização,Rural areas,LT,Lithuania,2024,33.6,9,3,Fim,25.8,889,33.6
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",LT,Lithuania,2024,59.2,10,1,Inicio,25.8,888,25.8
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",LT,Lithuania,2024,59.2,10,1,Fim,25.8,887,59.2
@@ -2374,17 +2272,11 @@ Alojamento,"Tenant, rent at market price",LU,Luxembourg,2024,30.7,8,3,Fim,20,897
 Alojamento,"Tenant, rent at reduced price or free",LU,Luxembourg,2024,34.9,8,4,Inicio,20,896,20
 Alojamento,"Tenant, rent at reduced price or free",LU,Luxembourg,2024,34.9,8,4,Fim,20,895,34.9
 Urbanização,Cities,LU,Luxembourg,2024,12.9,9,1,Inicio,20,894,20
-Urbanização,Cities,LU,Luxembourg,2024,16,9,1,Inicio,20,894,20
-Urbanização,Cities,LU,Luxembourg,2024,16,9,1,Fim,20,893,16
 Urbanização,Cities,LU,Luxembourg,2024,12.9,9,1,Fim,20,893,12.9
 Urbanização,Towns and suburbs,LU,Luxembourg,2024,20.3,9,2,Inicio,20,892,20
-Urbanização,Towns and suburbs,LU,Luxembourg,2024,65,9,2,Inicio,20,892,20
 Urbanização,Towns and suburbs,LU,Luxembourg,2024,20.3,9,2,Fim,20,891,20.3
-Urbanização,Towns and suburbs,LU,Luxembourg,2024,65,9,2,Fim,20,891,65
 Urbanização,Rural areas,LU,Luxembourg,2024,23.7,9,3,Inicio,20,890,20
-Urbanização,Rural areas,LU,Luxembourg,2024,51,9,3,Inicio,20,890,20
 Urbanização,Rural areas,LU,Luxembourg,2024,23.7,9,3,Fim,20,889,23.7
-Urbanização,Rural areas,LU,Luxembourg,2024,51,9,3,Fim,20,889,51
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",LU,Luxembourg,2024,71.5,10,1,Inicio,20,888,20
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",LU,Luxembourg,2024,71.5,10,1,Fim,20,887,71.5
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),LU,Luxembourg,2024,36,10,2,Inicio,20,886,20
@@ -2507,18 +2399,12 @@ Alojamento,"Tenant, rent at market price",MT,Malta,2024,22.6,8,3,Inicio,19.7,898
 Alojamento,"Tenant, rent at market price",MT,Malta,2024,22.6,8,3,Fim,19.7,897,22.6
 Alojamento,"Tenant, rent at reduced price or free",MT,Malta,2024,39.1,8,4,Inicio,19.7,896,19.7
 Alojamento,"Tenant, rent at reduced price or free",MT,Malta,2024,39.1,8,4,Fim,19.7,895,39.1
-Urbanização,Cities,MT,Malta,2024,68,9,1,Inicio,19.7,894,19.7
 Urbanização,Cities,MT,Malta,2024,20.2,9,1,Inicio,19.7,894,19.7
 Urbanização,Cities,MT,Malta,2024,20.2,9,1,Fim,19.7,893,20.2
-Urbanização,Cities,MT,Malta,2024,68,9,1,Fim,19.7,893,68
 Urbanização,Towns and suburbs,MT,Malta,2024,19.6,9,2,Inicio,19.7,892,19.7
-Urbanização,Towns and suburbs,MT,Malta,2024,39,9,2,Inicio,19.7,892,19.7
 Urbanização,Towns and suburbs,MT,Malta,2024,19.6,9,2,Fim,19.7,891,19.6
-Urbanização,Towns and suburbs,MT,Malta,2024,39,9,2,Fim,19.7,891,39
-Urbanização,Rural areas,MT,Malta,2024,1,9,3,Inicio,19.7,890,19.7
 Urbanização,Rural areas,MT,Malta,2024,8.6,9,3,Inicio,19.7,890,19.7
 Urbanização,Rural areas,MT,Malta,2024,8.6,9,3,Fim,19.7,889,8.6
-Urbanização,Rural areas,MT,Malta,2024,1,9,3,Fim,19.7,889,1
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",MT,Malta,2024,58.3,10,1,Inicio,19.7,888,19.7
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",MT,Malta,2024,58.3,10,1,Fim,19.7,887,58.3
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),MT,Malta,2024,25.1,10,2,Inicio,19.7,886,19.7
@@ -2641,17 +2527,11 @@ Alojamento,"Tenant, rent at market price",NL,Netherlands,2024,16.9,8,3,Inicio,15
 Alojamento,"Tenant, rent at market price",NL,Netherlands,2024,16.9,8,3,Fim,15.4,897,16.9
 Alojamento,"Tenant, rent at reduced price or free",NL,Netherlands,2024,37.6,8,4,Inicio,15.4,896,15.4
 Alojamento,"Tenant, rent at reduced price or free",NL,Netherlands,2024,37.6,8,4,Fim,15.4,895,37.6
-Urbanização,Cities,NL,Netherlands,2024,1750,9,1,Inicio,15.4,894,15.4
 Urbanização,Cities,NL,Netherlands,2024,18.2,9,1,Inicio,15.4,894,15.4
-Urbanização,Cities,NL,Netherlands,2024,1750,9,1,Fim,15.4,893,1750
 Urbanização,Cities,NL,Netherlands,2024,18.2,9,1,Fim,15.4,893,18.2
 Urbanização,Towns and suburbs,NL,Netherlands,2024,12,9,2,Inicio,15.4,892,15.4
-Urbanização,Towns and suburbs,NL,Netherlands,2024,816,9,2,Inicio,15.4,892,15.4
 Urbanização,Towns and suburbs,NL,Netherlands,2024,12,9,2,Fim,15.4,891,12
-Urbanização,Towns and suburbs,NL,Netherlands,2024,816,9,2,Fim,15.4,891,816
 Urbanização,Rural areas,NL,Netherlands,2024,11.6,9,3,Inicio,15.4,890,15.4
-Urbanização,Rural areas,NL,Netherlands,2024,139,9,3,Inicio,15.4,890,15.4
-Urbanização,Rural areas,NL,Netherlands,2024,139,9,3,Fim,15.4,889,139
 Urbanização,Rural areas,NL,Netherlands,2024,11.6,9,3,Fim,15.4,889,11.6
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",NL,Netherlands,2024,57.9,10,1,Inicio,15.4,888,15.4
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",NL,Netherlands,2024,57.9,10,1,Fim,15.4,887,57.9
@@ -2775,18 +2655,12 @@ Alojamento,"Tenant, rent at market price",NO,Norway,2024,44.8,8,3,Inicio,15.7,89
 Alojamento,"Tenant, rent at market price",NO,Norway,2024,44.8,8,3,Fim,15.7,897,44.8
 Alojamento,"Tenant, rent at reduced price or free",NO,Norway,2024,40.9,8,4,Inicio,15.7,896,15.7
 Alojamento,"Tenant, rent at reduced price or free",NO,Norway,2024,40.9,8,4,Fim,15.7,895,40.9
-Urbanização,Cities,NO,Norway,2024,322,9,1,Inicio,15.7,894,15.7
 Urbanização,Cities,NO,Norway,2024,18.6,9,1,Inicio,15.7,894,15.7
-Urbanização,Cities,NO,Norway,2024,322,9,1,Fim,15.7,893,322
 Urbanização,Cities,NO,Norway,2024,18.6,9,1,Fim,15.7,893,18.6
 Urbanização,Towns and suburbs,NO,Norway,2024,13.6,9,2,Inicio,15.7,892,15.7
-Urbanização,Towns and suburbs,NO,Norway,2024,313,9,2,Inicio,15.7,892,15.7
 Urbanização,Towns and suburbs,NO,Norway,2024,13.6,9,2,Fim,15.7,891,13.6
-Urbanização,Towns and suburbs,NO,Norway,2024,313,9,2,Fim,15.7,891,313
-Urbanização,Rural areas,NO,Norway,2024,227,9,3,Inicio,15.7,890,15.7
 Urbanização,Rural areas,NO,Norway,2024,15.5,9,3,Inicio,15.7,890,15.7
 Urbanização,Rural areas,NO,Norway,2024,15.5,9,3,Fim,15.7,889,15.5
-Urbanização,Rural areas,NO,Norway,2024,227,9,3,Fim,15.7,889,227
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",NO,Norway,2024,58.4,10,1,Inicio,15.7,888,15.7
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",NO,Norway,2024,58.4,10,1,Fim,15.7,887,58.4
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),NO,Norway,2024,17.4,10,2,Inicio,15.7,886,15.7
@@ -2910,17 +2784,11 @@ Alojamento,"Tenant, rent at market price",PL,Poland,2024,21.2,8,3,Fim,16,897,21.
 Alojamento,"Tenant, rent at reduced price or free",PL,Poland,2024,25.2,8,4,Inicio,16,896,16
 Alojamento,"Tenant, rent at reduced price or free",PL,Poland,2024,25.2,8,4,Fim,16,895,25.2
 Urbanização,Cities,PL,Poland,2024,12.2,9,1,Inicio,16,894,16
-Urbanização,Cities,PL,Poland,2024,1550,9,1,Inicio,16,894,16
-Urbanização,Cities,PL,Poland,2024,1550,9,1,Fim,16,893,1550
 Urbanização,Cities,PL,Poland,2024,12.2,9,1,Fim,16,893,12.2
 Urbanização,Towns and suburbs,PL,Poland,2024,14.1,9,2,Inicio,16,892,16
-Urbanização,Towns and suburbs,PL,Poland,2024,1437,9,2,Inicio,16,892,16
 Urbanização,Towns and suburbs,PL,Poland,2024,14.1,9,2,Fim,16,891,14.1
-Urbanização,Towns and suburbs,PL,Poland,2024,1437,9,2,Fim,16,891,1437
-Urbanização,Rural areas,PL,Poland,2024,2827,9,3,Inicio,16,890,16
 Urbanização,Rural areas,PL,Poland,2024,20.9,9,3,Inicio,16,890,16
 Urbanização,Rural areas,PL,Poland,2024,20.9,9,3,Fim,16,889,20.9
-Urbanização,Rural areas,PL,Poland,2024,2827,9,3,Fim,16,889,2827
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",PL,Poland,2024,61.8,10,1,Inicio,16,888,16
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",PL,Poland,2024,61.8,10,1,Fim,16,887,61.8
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),PL,Poland,2024,23.3,10,2,Inicio,16,886,16
@@ -3044,16 +2912,10 @@ Alojamento,"Tenant, rent at market price",PT,Portugal,2024,27.7,8,3,Fim,19.7,897
 Alojamento,"Tenant, rent at reduced price or free",PT,Portugal,2024,31,8,4,Inicio,19.7,896,19.7
 Alojamento,"Tenant, rent at reduced price or free",PT,Portugal,2024,31,8,4,Fim,19.7,895,31
 Urbanização,Cities,PT,Portugal,2024,17.5,9,1,Inicio,19.7,894,19.7
-Urbanização,Cities,PT,Portugal,2024,879,9,1,Inicio,19.7,894,19.7
-Urbanização,Cities,PT,Portugal,2024,879,9,1,Fim,19.7,893,879
 Urbanização,Cities,PT,Portugal,2024,17.5,9,1,Fim,19.7,893,17.5
 Urbanização,Towns and suburbs,PT,Portugal,2024,20,9,2,Inicio,19.7,892,19.7
-Urbanização,Towns and suburbs,PT,Portugal,2024,621,9,2,Inicio,19.7,892,19.7
 Urbanização,Towns and suburbs,PT,Portugal,2024,20,9,2,Fim,19.7,891,20
-Urbanização,Towns and suburbs,PT,Portugal,2024,621,9,2,Fim,19.7,891,621
-Urbanização,Rural areas,PT,Portugal,2024,595,9,3,Inicio,19.7,890,19.7
 Urbanização,Rural areas,PT,Portugal,2024,23.5,9,3,Inicio,19.7,890,19.7
-Urbanização,Rural areas,PT,Portugal,2024,595,9,3,Fim,19.7,889,595
 Urbanização,Rural areas,PT,Portugal,2024,23.5,9,3,Fim,19.7,889,23.5
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",PT,Portugal,2024,39.8,10,1,Inicio,19.7,888,19.7
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",PT,Portugal,2024,39.8,10,1,Fim,19.7,887,39.8
@@ -3177,17 +3039,11 @@ Alojamento,"Tenant, rent at market price",RO,Romania,2024,23.3,8,3,Inicio,27.9,8
 Alojamento,"Tenant, rent at market price",RO,Romania,2024,23.3,8,3,Fim,27.9,897,23.3
 Alojamento,"Tenant, rent at reduced price or free",RO,Romania,2024,37.8,8,4,Inicio,27.9,896,27.9
 Alojamento,"Tenant, rent at reduced price or free",RO,Romania,2024,37.8,8,4,Fim,27.9,895,37.8
-Urbanização,Cities,RO,Romania,2024,878,9,1,Inicio,27.9,894,27.9
 Urbanização,Cities,RO,Romania,2024,14.3,9,1,Inicio,27.9,894,27.9
-Urbanização,Cities,RO,Romania,2024,878,9,1,Fim,27.9,893,878
 Urbanização,Cities,RO,Romania,2024,14.3,9,1,Fim,27.9,893,14.3
-Urbanização,Towns and suburbs,RO,Romania,2024,1256,9,2,Inicio,27.9,892,27.9
 Urbanização,Towns and suburbs,RO,Romania,2024,24,9,2,Inicio,27.9,892,27.9
 Urbanização,Towns and suburbs,RO,Romania,2024,24,9,2,Fim,27.9,891,24
-Urbanização,Towns and suburbs,RO,Romania,2024,1256,9,2,Fim,27.9,891,1256
 Urbanização,Rural areas,RO,Romania,2024,41.7,9,3,Inicio,27.9,890,27.9
-Urbanização,Rural areas,RO,Romania,2024,3161,9,3,Inicio,27.9,890,27.9
-Urbanização,Rural areas,RO,Romania,2024,3161,9,3,Fim,27.9,889,3161
 Urbanização,Rural areas,RO,Romania,2024,41.7,9,3,Fim,27.9,889,41.7
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",RO,Romania,2024,75.8,10,1,Inicio,27.9,888,27.9
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",RO,Romania,2024,75.8,10,1,Fim,27.9,887,75.8
@@ -3311,17 +3167,11 @@ Alojamento,"Tenant, rent at market price",SK,Slovakia,2024,35.1,8,3,Inicio,18.3,
 Alojamento,"Tenant, rent at market price",SK,Slovakia,2024,35.1,8,3,Fim,18.3,897,35.1
 Alojamento,"Tenant, rent at reduced price or free",SK,Slovakia,2024,43.5,8,4,Inicio,18.3,896,18.3
 Alojamento,"Tenant, rent at reduced price or free",SK,Slovakia,2024,43.5,8,4,Fim,18.3,895,43.5
-Urbanização,Cities,SK,Slovakia,2024,145,9,1,Inicio,18.3,894,18.3
 Urbanização,Cities,SK,Slovakia,2024,12.4,9,1,Inicio,18.3,894,18.3
 Urbanização,Cities,SK,Slovakia,2024,12.4,9,1,Fim,18.3,893,12.4
-Urbanização,Cities,SK,Slovakia,2024,145,9,1,Fim,18.3,893,145
-Urbanização,Towns and suburbs,SK,Slovakia,2024,351,9,2,Inicio,18.3,892,18.3
 Urbanização,Towns and suburbs,SK,Slovakia,2024,16.9,9,2,Inicio,18.3,892,18.3
-Urbanização,Towns and suburbs,SK,Slovakia,2024,351,9,2,Fim,18.3,891,351
 Urbanização,Towns and suburbs,SK,Slovakia,2024,16.9,9,2,Fim,18.3,891,16.9
-Urbanização,Rural areas,SK,Slovakia,2024,484,9,3,Inicio,18.3,890,18.3
 Urbanização,Rural areas,SK,Slovakia,2024,22.9,9,3,Inicio,18.3,890,18.3
-Urbanização,Rural areas,SK,Slovakia,2024,484,9,3,Fim,18.3,889,484
 Urbanização,Rural areas,SK,Slovakia,2024,22.9,9,3,Fim,18.3,889,22.9
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",SK,Slovakia,2024,79.2,10,1,Inicio,18.3,888,18.3
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",SK,Slovakia,2024,79.2,10,1,Fim,18.3,887,79.2
@@ -3446,16 +3296,10 @@ Alojamento,"Tenant, rent at market price",SI,Slovenia,2024,26.9,8,3,Fim,14.4,897
 Alojamento,"Tenant, rent at reduced price or free",SI,Slovenia,2024,19.4,8,4,Inicio,14.4,896,14.4
 Alojamento,"Tenant, rent at reduced price or free",SI,Slovenia,2024,19.4,8,4,Fim,14.4,895,19.4
 Urbanização,Cities,SI,Slovenia,2024,13.7,9,1,Inicio,14.4,894,14.4
-Urbanização,Cities,SI,Slovenia,2024,55,9,1,Inicio,14.4,894,14.4
 Urbanização,Cities,SI,Slovenia,2024,13.7,9,1,Fim,14.4,893,13.7
-Urbanização,Cities,SI,Slovenia,2024,55,9,1,Fim,14.4,893,55
-Urbanização,Towns and suburbs,SI,Slovenia,2024,112,9,2,Inicio,14.4,892,14.4
 Urbanização,Towns and suburbs,SI,Slovenia,2024,14.8,9,2,Inicio,14.4,892,14.4
-Urbanização,Towns and suburbs,SI,Slovenia,2024,112,9,2,Fim,14.4,891,112
 Urbanização,Towns and suburbs,SI,Slovenia,2024,14.8,9,2,Fim,14.4,891,14.8
-Urbanização,Rural areas,SI,Slovenia,2024,135,9,3,Inicio,14.4,890,14.4
 Urbanização,Rural areas,SI,Slovenia,2024,14.4,9,3,Inicio,14.4,890,14.4
-Urbanização,Rural areas,SI,Slovenia,2024,135,9,3,Fim,14.4,889,135
 Urbanização,Rural areas,SI,Slovenia,2024,14.4,9,3,Fim,14.4,889,14.4
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",SI,Slovenia,2024,62.6,10,1,Inicio,14.4,888,14.4
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",SI,Slovenia,2024,62.6,10,1,Fim,14.4,887,62.6
@@ -3580,17 +3424,11 @@ Alojamento,"Tenant, rent at market price",ES,Spain,2024,42.4,8,3,Fim,25.8,897,42
 Alojamento,"Tenant, rent at reduced price or free",ES,Spain,2024,42.3,8,4,Inicio,25.8,896,25.8
 Alojamento,"Tenant, rent at reduced price or free",ES,Spain,2024,42.3,8,4,Fim,25.8,895,42.3
 Urbanização,Cities,ES,Spain,2024,23.5,9,1,Inicio,25.8,894,25.8
-Urbanização,Cities,ES,Spain,2024,6131,9,1,Inicio,25.8,894,25.8
 Urbanização,Cities,ES,Spain,2024,23.5,9,1,Fim,25.8,893,23.5
-Urbanização,Cities,ES,Spain,2024,6131,9,1,Fim,25.8,893,6131
 Urbanização,Towns and suburbs,ES,Spain,2024,28.7,9,2,Inicio,25.8,892,25.8
-Urbanização,Towns and suburbs,ES,Spain,2024,4509,9,2,Inicio,25.8,892,25.8
-Urbanização,Towns and suburbs,ES,Spain,2024,4509,9,2,Fim,25.8,891,4509
 Urbanização,Towns and suburbs,ES,Spain,2024,28.7,9,2,Fim,25.8,891,28.7
 Urbanização,Rural areas,ES,Spain,2024,28.1,9,3,Inicio,25.8,890,25.8
-Urbanização,Rural areas,ES,Spain,2024,1817,9,3,Inicio,25.8,890,25.8
 Urbanização,Rural areas,ES,Spain,2024,28.1,9,3,Fim,25.8,889,28.1
-Urbanização,Rural areas,ES,Spain,2024,1817,9,3,Fim,25.8,889,1817
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",ES,Spain,2024,58.9,10,1,Inicio,25.8,888,25.8
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",ES,Spain,2024,58.9,10,1,Fim,25.8,887,58.9
 Escolaridade Pais,Upper secondary and post-secondary non-tertiary education (levels 3 and 4),ES,Spain,2024,47.7,10,2,Inicio,25.8,886,25.8
@@ -3714,16 +3552,10 @@ Alojamento,"Tenant, rent at market price",SE,Sweden,2024,33.8,8,3,Fim,17.5,897,3
 Alojamento,"Tenant, rent at reduced price or free",SE,Sweden,2024,52.1,8,4,Inicio,17.5,896,17.5
 Alojamento,"Tenant, rent at reduced price or free",SE,Sweden,2024,52.1,8,4,Fim,17.5,895,52.1
 Urbanização,Cities,SE,Sweden,2024,18.3,9,1,Inicio,17.5,894,17.5
-Urbanização,Cities,SE,Sweden,2024,765,9,1,Inicio,17.5,894,17.5
 Urbanização,Cities,SE,Sweden,2024,18.3,9,1,Fim,17.5,893,18.3
-Urbanização,Cities,SE,Sweden,2024,765,9,1,Fim,17.5,893,765
-Urbanização,Towns and suburbs,SE,Sweden,2024,714,9,2,Inicio,17.5,892,17.5
 Urbanização,Towns and suburbs,SE,Sweden,2024,16.8,9,2,Inicio,17.5,892,17.5
-Urbanização,Towns and suburbs,SE,Sweden,2024,714,9,2,Fim,17.5,891,714
 Urbanização,Towns and suburbs,SE,Sweden,2024,16.8,9,2,Fim,17.5,891,16.8
 Urbanização,Rural areas,SE,Sweden,2024,16.8,9,3,Inicio,17.5,890,17.5
-Urbanização,Rural areas,SE,Sweden,2024,331,9,3,Inicio,17.5,890,17.5
-Urbanização,Rural areas,SE,Sweden,2024,331,9,3,Fim,17.5,889,331
 Urbanização,Rural areas,SE,Sweden,2024,16.8,9,3,Fim,17.5,889,16.8
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",SE,Sweden,2024,61.6,10,1,Inicio,17.5,888,17.5
 Escolaridade Pais,"Less than primary, primary and lower secondary education (levels 0-2)",SE,Sweden,2024,61.6,10,1,Fim,17.5,887,61.6
