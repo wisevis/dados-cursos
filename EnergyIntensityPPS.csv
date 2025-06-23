@@ -1,4 +1,4 @@
-﻿Energy balance,unit,Unit of measure,geo,Geopolitical entity (reporting),TIME_PERIOD,OBS_VALUE
+﻿Energy_balance,unit,Unit_measure,Geo,Geo_desc,TIME_PERIOD,OBS_VALUE
 Energy intensity of GDP in purchasing power standards (PPS),KGOE_TEUR_PPS,Kilograms of oil equivalent (KGOE) per thousand euro in purchasing power standards (PPS),AL,Albania,1997,169.28
 Energy intensity of GDP in purchasing power standards (PPS),KGOE_TEUR_PPS,Kilograms of oil equivalent (KGOE) per thousand euro in purchasing power standards (PPS),AL,Albania,1998,169.93
 Energy intensity of GDP in purchasing power standards (PPS),KGOE_TEUR_PPS,Kilograms of oil equivalent (KGOE) per thousand euro in purchasing power standards (PPS),AL,Albania,1999,204.42
