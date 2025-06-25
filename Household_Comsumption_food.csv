@@ -1,0 +1,62 @@
+﻿coicop,coicop_desc,unit,unit_desc,geo,geo_desc,Ano,ValorFood,ValorTotal,FoodPercent,Pais
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,AT,Austria,2005,3933,30167,13.0374,Austria
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,AT,Austria,2020,4177,34730,12.0271,Austria
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,BE,Belgium,2005,4043,30049,13.4547,Bélgica
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,BE,Belgium,2020,4913,30908,15.8956,Bélgica
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,BG,Bulgaria,2005,2238,7097,31.5345,Bulgária
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,BG,Bulgaria,2020,3237,13182,24.5562,Bulgária
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,HR,Croatia,2005,4564,16841,27.1005,Croácia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,HR,Croatia,2020,4598,21903,20.9926,Croácia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,CY,Cyprus,2005,5158,34208,15.0783,Chipre
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,CY,Cyprus,2020,5236,34177,15.3202,Chipre
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,CZ,Czechia,2005,2503,12141,20.6161,Chequia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,CZ,Czechia,2020,3546,17132,20.6981,Chequia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,DK,Denmark,2005,2872,24062,11.9358,Dinamarca
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,DK,Denmark,2020,3737,30284,12.3398,Dinamarca
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,EE,Estonia,2005,2440,10848,22.4926,Estónia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,EE,Estonia,2020,3284,17683,18.5715,Estónia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,DE,Germany,2005,3185,28501,11.175,Alemanha
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,DE,Germany,2020,3608,32116,11.2343,Alemanha
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,FI,Finland,2005,3086,24359,12.6688,Finlândia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,FI,Finland,2020,4161,28811,14.4424,Finlândia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,FR,France,2005,3733,27886,13.3866,França
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,FR,France,2020,4136,28961,14.2813,França
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,EL,Greece,2005,4801,30976,15.4991,Grécia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,EL,Greece,2020,4494,22529,19.9476,Grécia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,HU,Hungary,2005,2413,10693,22.5662,Hungria
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,HU,Hungary,2020,3575,21937,16.2967,Hungria
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,IE,Ireland,2005,4491,36372,12.3474,Irlanda
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,IE,Ireland,2020,4057,33496,12.1119,Irlanda
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,ES,Spain,2005,4685,26027,18.0005,Espanha
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,ES,Spain,2020,4695,27683,16.9599,Espanha
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,IT,Italy,2005,5359,28785,18.6173,Itália
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,IT,Italy,2020,5538,27282,20.2991,Itália
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,LV,Latvia,2005,3091,10590,29.1879,Letónia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,LV,Latvia,2020,3395,16576,20.4814,Letónia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,LT,Lithuania,2005,3166,9377,33.7635,Lituânia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,LT,Lithuania,2020,4104,17449,23.52,Lituânia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,LU,Luxembourg,2005,4851,51933,9.3409,Luxemburgo
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,LU,Luxembourg,2020,4667,49523,9.4239,Luxemburgo
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,ME,Montenegro,2020,4586,14930,30.7167,Montenegro
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,MK,North Macedonia,2005,5545,12620,43.9382,Macedónia do Norte
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,MT,Malta,2005,6082,28606,21.2613,Malta
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,MT,Malta,2020,5244,26526,19.7693,Malta
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,NL,Netherlands,2005,3089,29370,10.5175,Países Baixos
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,NL,Netherlands,2020,3835,33132,11.5749,Países Baixos
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,NO,Norway,2005,3402,29105,11.6887,Noruega
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,NO,Norway,2020,4079,34401,11.8572,Noruega
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,PL,Poland,2005,2704,10684,25.3089,Polónia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,PL,Poland,2020,4234,17179,24.6464,Polónia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,PT,Portugal,2005,3243,20868,15.5405,Portugal
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,PT,Portugal,2020,3166,24499,12.923,Portugal
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,RO,Romania,2005,2355,5325,44.2254,Roménia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,RO,Romania,2020,4044,14625,27.6513,Roménia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,RS,Serbia,2020,4111,14287,28.7744,Sérvia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,SE,Sweden,2005,2913,25612,11.3736,Suécia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,SI,Slovenia,2005,3966,23805,16.6604,Eslovénia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,SI,Slovenia,2020,3585,26154,13.7073,Eslovénia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,SK,Slovakia,2005,2910,11857,24.5425,Eslováquia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,SK,Slovakia,2020,3171,15691,20.209,Eslováquia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,TR,Türkiye,2005,2687,10291,26.1102,Turquia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,TR,Türkiye,2020,3866,18952,20.3989,Turquia
+CP01,Food and non-alcoholic beverages,PPS_HH,Purchasing power standard (PPS) per household,UK,United Kingdom,2005,3159,31960,9.8842,Reino Unido
