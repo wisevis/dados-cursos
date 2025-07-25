@@ -1,0 +1,52 @@
+﻿States,Codigo,Regiao,População,Adultos_Obesidade_pct,Adultos_Excesso_Peso_Obesidade_pct,Adultos_Diabetes_pct,Adultos_Fisicamente_Inativos_pct,Adultos_Hipertensao_pct
+Alabama,AL,South,5157699,39.2,72,16.1,28.4,45.5
+Alaska,AK,West,740133,35.2,68.4,8.9,20.5,34.4
+Arizona,AZ,West,7582384,31.9,66.4,11.4,20.5,33.8
+Arkansas,AR,South,3088354,40,71.9,14.8,32.1,43.2
+California,CA,West,39431263,27.7,64,11.8,21.1,31.1
+Colorado,CO,West,5957493,24.9,59.8,8.4,16.4,27.5
+Connecticut,CT,Northern,3675069,29.4,65.8,9.7,23.9,33.1
+Delaware,DE,South,1051917,35.7,71.4,13.6,25,38.5
+District of Columbia,DC,South,702250,23.5,57.1,7.3,14.5,29.2
+Florida,FL,South,23372215,30.1,65.7,13,24,37
+Georgia,GA,South,11180878,35,68.7,12.9,24.2,35.9
+Hawaii,HI,West,1446146,26.1,60.5,11.1,21.1,32.8
+Idaho,ID,West,2001619,31,66.7,9.8,19.9,31.8
+Illinois,IL,Midwest,12710158,36,71,12.2,20.5,33.9
+Indiana,IN,Midwest,6924275,37.8,71.2,13.4,23.8,38.4
+Iowa,IA,Midwest,3241488,37.8,72.1,11.2,23.5,34.6
+Kansas,KS,Midwest,2970606,35.9,69.2,11.5,24.5,34.5
+Kentucky,KY,South,4588372,,,,,
+Louisiana,LA,South,4597740,39.9,72,16.2,29.8,43.9
+Maine,ME,Northern,1405012,32.6,67.9,11.4,21.9,36.2
+Maryland,MD,South,6263220,34.1,68.8,12.4,21.9,36.2
+Massachusetts,MA,Northern,7136171,27.4,62.6,10.2,21.4,31.5
+Michigan,MI,Midwest,10140459,35.4,68.8,12.4,25,37.3
+Minnesota,MN,Midwest,5793151,33.3,67.5,10.7,21.7,31.2
+Mississippi,MS,South,2943045,40.1,71.7,17.2,33.5,46.8
+Missouri,MO,Midwest,6245466,35.3,69.6,12.6,27.3,37
+Montana,MT,West,1137233,30.5,65.7,9.4,19.3,32.5
+Nebraska,NE,Midwest,2005465,36.6,71.4,10.8,23,33.4
+Nevada,NV,West,3267467,30.8,66.4,11.8,24.9,34.9
+New Hampshire,NH,Northern,1409032,32.8,68.4,9.3,20.4,33.7
+New Jersey,NJ,Northern,9500851,28.9,64.8,10.7,22.8,34.4
+New Mexico,NM,West,2130256,35.3,69.2,12.4,23.1,34.5
+New York,NY,Northern,19867248,28,64.1,10.7,25.2,32.6
+North Carolina,NC,South,11046024,34,68.9,12.5,21.1,38.4
+North Dakota,ND,Midwest,796568,35.6,71.3,9.6,20.4,31.9
+Ohio,OH,Midwest,11883304,36.4,69.6,13.1,25.6,37.3
+Oklahoma,OK,South,4095393,38.7,70.6,12.6,29.8,39.2
+Oregon,OR,West,4272371,33.6,67,10.8,18.6,33.7
+Pennsylvania,PA,Northern,13078751,,,,,
+Rhode Island,RI,Northern,1112308,31.6,66.3,11.9,25.7,33.9
+South Carolina,SC,South,5478831,36,69.8,15.1,25.5,39.4
+South Dakota,SD,Midwest,924669,36,70.3,11.9,25.3,35.4
+Tennessee,TN,South,7227750,37.6,70.7,14.8,25.1,41.1
+Texas,TX,South,31290831,34.4,69.4,13,26.4,32.9
+Utah,UT,West,3503613,30.2,64.5,7.7,15,27.7
+Vermont,VT,Northern,648493,28.8,63.5,9.4,19.6,32.4
+Virginia,VA,South,8811195,34.3,68.6,12,21,36.1
+Washington,WA,West,7958180,30.6,65.8,9.6,17.5,31.2
+West Virginia,WV,South,1769979,41.2,73.2,18.3,31.6,45.4
+Wisconsin,WI,Midwest,5960975,35.9,70.1,11.6,25.8,33.5
+Wyoming,WY,West,587618,33.3,69.1,10.7,25.7,31.7
