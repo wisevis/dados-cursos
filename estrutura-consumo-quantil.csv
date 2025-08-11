@@ -1,61 +1,61 @@
 ﻿quantile,coicop,Pais,Ano,OBS_VALUE,Classificação
 Q1,CP01,Portugal,2020,171,Alimentação
 Q2,CP01,Portugal,2020,146,Alimentação
-Q1,CP02,Portugal,2020,22,Bebidas e Tabaco
-Q1,CP03,Portugal,2020,14,Vestuário e Calçado
+Q1,CP02,Portugal,2020,22,Bebidas Tabaco
+Q1,CP03,Portugal,2020,14,Vestuário Calçado
 Q1,CP04,Portugal,2020,414,Habitação
-Q1,CP05,Portugal,2020,34,Equipamento do Lar
+Q1,CP05,Portugal,2020,34,Equipamento Lar
 Q1,CP06,Portugal,2020,46,Saúde
 Q1,CP07,Portugal,2020,97,Transportes
 Q1,CP08,Portugal,2020,43,Comunicações
-Q1,CP09,Portugal,2020,22,Lazer e Cultura
+Q1,CP09,Portugal,2020,22,Lazer Cultura
 Q1,CP10,Portugal,2020,3,Educação
-Q1,CP11,Portugal,2020,75,Restaurantes e Hotéis
+Q1,CP11,Portugal,2020,75,Restaurantes Hotéis
 Q1,CP12,Portugal,2020,59,Outros
-Q2,CP02,Portugal,2020,17,Bebidas e Tabaco
-Q2,CP03,Portugal,2020,15,Vestuário e Calçado
+Q2,CP02,Portugal,2020,17,Bebidas Tabaco
+Q2,CP03,Portugal,2020,15,Vestuário Calçado
 Q2,CP04,Portugal,2020,424,Habitação
-Q2,CP05,Portugal,2020,37,Equipamento do Lar
+Q2,CP05,Portugal,2020,37,Equipamento Lar
 Q2,CP06,Portugal,2020,46,Saúde
 Q2,CP07,Portugal,2020,109,Transportes
 Q2,CP08,Portugal,2020,40,Comunicações
-Q2,CP09,Portugal,2020,26,Lazer e Cultura
+Q2,CP09,Portugal,2020,26,Lazer Cultura
 Q2,CP10,Portugal,2020,7,Educação
-Q2,CP11,Portugal,2020,74,Restaurantes e Hotéis
+Q2,CP11,Portugal,2020,74,Restaurantes Hotéis
 Q2,CP12,Portugal,2020,60,Outros
 Q3,CP01,Portugal,2020,145,Alimentação
-Q3,CP02,Portugal,2020,18,Bebidas e Tabaco
-Q3,CP03,Portugal,2020,14,Vestuário e Calçado
+Q3,CP02,Portugal,2020,18,Bebidas Tabaco
+Q3,CP03,Portugal,2020,14,Vestuário Calçado
 Q3,CP04,Portugal,2020,390,Habitação
-Q3,CP05,Portugal,2020,40,Equipamento do Lar
+Q3,CP05,Portugal,2020,40,Equipamento Lar
 Q3,CP06,Portugal,2020,42,Saúde
 Q3,CP07,Portugal,2020,132,Transportes
 Q3,CP08,Portugal,2020,38,Comunicações
-Q3,CP09,Portugal,2020,31,Lazer e Cultura
+Q3,CP09,Portugal,2020,31,Lazer Cultura
 Q3,CP10,Portugal,2020,8,Educação
-Q3,CP11,Portugal,2020,71,Restaurantes e Hotéis
+Q3,CP11,Portugal,2020,71,Restaurantes Hotéis
 Q3,CP12,Portugal,2020,71,Outros
 Q4,CP01,Portugal,2020,131,Alimentação
-Q4,CP02,Portugal,2020,15,Bebidas e Tabaco
-Q4,CP03,Portugal,2020,17,Vestuário e Calçado
+Q4,CP02,Portugal,2020,15,Bebidas Tabaco
+Q4,CP03,Portugal,2020,17,Vestuário Calçado
 Q4,CP04,Portugal,2020,379,Habitação
-Q4,CP05,Portugal,2020,41,Equipamento do Lar
+Q4,CP05,Portugal,2020,41,Equipamento Lar
 Q4,CP06,Portugal,2020,39,Saúde
 Q4,CP07,Portugal,2020,127,Transportes
 Q4,CP08,Portugal,2020,33,Comunicações
-Q4,CP09,Portugal,2020,39,Lazer e Cultura
+Q4,CP09,Portugal,2020,39,Lazer Cultura
 Q4,CP10,Portugal,2020,12,Educação
-Q4,CP11,Portugal,2020,90,Restaurantes e Hotéis
+Q4,CP11,Portugal,2020,90,Restaurantes Hotéis
 Q4,CP12,Portugal,2020,77,Outros
 Q5,CP01,Portugal,2020,100,Alimentação
-Q5,CP02,Portugal,2020,12,Bebidas e Tabaco
-Q5,CP03,Portugal,2020,18,Vestuário e Calçado
+Q5,CP02,Portugal,2020,12,Bebidas Tabaco
+Q5,CP03,Portugal,2020,18,Vestuário Calçado
 Q5,CP04,Portugal,2020,382,Habitação
-Q5,CP05,Portugal,2020,60,Equipamento do Lar
+Q5,CP05,Portugal,2020,60,Equipamento Lar
 Q5,CP06,Portugal,2020,33,Saúde
 Q5,CP07,Portugal,2020,123,Transportes
 Q5,CP08,Portugal,2020,25,Comunicações
-Q5,CP09,Portugal,2020,50,Lazer e Cultura
+Q5,CP09,Portugal,2020,50,Lazer Cultura
 Q5,CP10,Portugal,2020,25,Educação
-Q5,CP11,Portugal,2020,99,Restaurantes e Hotéis
+Q5,CP11,Portugal,2020,99,Restaurantes Hotéis
 Q5,CP12,Portugal,2020,72,Outros
