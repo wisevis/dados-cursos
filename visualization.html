@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@6.1.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.0.2"></script>
+</head>
+<body>
+  <div id="vis"/>
+  <script>
+    const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#F9F6E7",
+  "padding": {"top": 50, "bottom": 25, "left": 50, "right": 50},
+  "width": 800,
+  "height": 380,
+  "params": [
+    {
+      "name": "ymin",
+      "value": -12,
+      "bind": {"input": "number", "step": 0.5, "name": "Mín Y: "}
+    },
+    {
+      "name": "ymax",
+      "value": 12,
+      "bind": {"input": "number", "step": 0.5, "name": "Máx Y: "}
+    }
+  ],
+  "title": {
+    "text": "Produto Interno Bruto: variação trimestral na União Europeia",
+    "subtitle": [
+      "Variação percentual de dados ajustados sazonalmente",
+      "Fonte: Eurostat"
+    ],
+    "font": "Roboto Slab",
+    "fontSize": 20,
+    "subtitleFont": "Roboto Slab",
+    "subtitleFontSize": 14,
+    "anchor": "start",
+    "offset": 30
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/wisevis/dados-cursos/refs/heads/main/pive-variacao.csv",
+    "format": {"type": "csv"}
+  },
+  "layer": [
+    {
+      "mark": {"type": "bar", "clip": true},
+      "encoding": {
+        "x": {
+          "field": "Trimestre",
+          "type": "ordinal",
+          "sort": null,
+          "axis": {
+            "title": "Trimestre / Ano",
+            "labelAngle": 0,
+            "labelExpr": "(indexof(datum.value,'Q1')>=0 && (toNumber(substring(datum.value,0,4)) % 5)==0) ? substring(datum.value,0,4) : ''",
+            "tickSize": 5
+          }
+        },
+        "y": {
+          "field": "Variacao",
+          "type": "quantitative",
+          "scale": {
+            "nice": false,
+            "domainMin": {"expr": "min(ymin, ymax)"},
+            "domainMax": {"expr": "max(ymin, ymax)"}
+          },
+          "axis": {"title": null, "grid": true, "tickCount": 5}
+        },
+        "color": {
+          "condition": [{"test": "datum.Variacao >= 0", "value": "#1696d2"}],
+          "value": "#d73027"
+        },
+        "tooltip": [
+          {"field": "Trimestre", "title": "Trimestre"},
+          {"field": "Variacao", "title": "Variação (%)"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "rule", "size": 1, "color": "#777"},
+      "encoding": {"y": {"datum": 0}}
+    }
+  ],
+  "config": {
+    "background": "#F9F6E7",
+    "padding": {"top": 50, "bottom": 25, "left": 50, "right": 50},
+    "title": {
+      "font": "Roboto Slab",
+      "fontSize": 20,
+      "subtitleFont": "Roboto Slab",
+      "subtitleFontSize": 14,
+      "anchor": "start",
+      "offset": 30
+    },
+    "axisX": {
+      "domain": true,
+      "domainColor": "#969696",
+      "domainWidth": 1,
+      "grid": false,
+      "labelFontSize": 12,
+      "labelFont": "Roboto Slab",
+      "labelAngle": 0,
+      "tickColor": "#969696",
+      "tickSize": 5,
+      "titleFontSize": 12,
+      "titlePadding": 12,
+      "titleFont": "Roboto Slab"
+    },
+    "axisY": {
+      "domain": false,
+      "grid": false,
+      "labelFontSize": 12,
+      "labelFont": "Roboto Slab",
+      "labelPadding": 8,
+      "ticks": false,
+      "titleFontSize": 12,
+      "titlePadding": 10,
+      "titleFont": "Roboto Slab"
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "labelFont": "Roboto Slab",
+      "symbolSize": 100,
+      "titleFontSize": 12,
+      "titlePadding": 10,
+      "titleFont": "Roboto Slab",
+      "orient": "top"
+    },
+    "range": {
+      "category": [
+        "#1696d2",
+        "#ec008b",
+        "#fdbf11",
+        "#000000",
+        "#d2d2d2",
+        "#55b748"
+      ]
+    },
+    "bar": {"fill": "#1696d2"},
+    "text": {
+      "font": "Roboto Slab",
+      "color": "#1696d2",
+      "fontSize": 11,
+      "align": "left",
+      "fontWeight": 400
+    },
+    "view": {"stroke": null}
+  }
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+</body>
+</html>
