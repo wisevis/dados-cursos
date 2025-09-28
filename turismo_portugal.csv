@@ -1,841 +1,627 @@
-Ano,Mes,Origem,Dormidas
-1990,1,Residente,450679
-1990,2,Residente,538348
-1990,3,Residente,637925
-1990,4,Residente,824990
-1990,5,Residente,782161
-1990,6,Residente,1193102
-1990,7,Residente,2228598
-1990,8,Residente,3159614
-1990,9,Residente,1583421
-1990,10,Residente,753330
-1990,11,Residente,538596
-1990,12,Residente,515708
-1991,1,Residente,456977
-1991,2,Residente,548448
-1991,3,Residente,747259
-1991,4,Residente,804181
-1991,5,Residente,858333
-1991,6,Residente,1273719
-1991,7,Residente,2205111
-1991,8,Residente,3179157
-1991,9,Residente,1530512
-1991,10,Residente,712170
-1991,11,Residente,586848
-1991,12,Residente,501371
-1992,1,Residente,491137
-1992,2,Residente,555061
-1992,3,Residente,694233
-1992,4,Residente,915055
-1992,5,Residente,969949
-1992,6,Residente,1191822
-1992,7,Residente,2114412
-1992,8,Residente,3233428
-1992,9,Residente,1563366
-1992,10,Residente,822827
-1992,11,Residente,585991
-1992,12,Residente,522308
-1993,1,Residente,489793
-1993,2,Residente,563503
-1993,3,Residente,614000
-1993,4,Residente,894331
-1993,5,Residente,809461
-1993,6,Residente,1093667
-1993,7,Residente,2253018
-1993,8,Residente,3573849
-1993,9,Residente,1388056
-1993,10,Residente,768618
-1993,11,Residente,533716
-1993,12,Residente,475270
-1994,1,Residente,452877
-1994,2,Residente,510706
-1994,3,Residente,700156
-1994,4,Residente,842499
-1994,5,Residente,758446
-1994,6,Residente,1101526
-1994,7,Residente,2090618
-1994,8,Residente,3556610
-1994,9,Residente,1447899
-1994,10,Residente,704800
-1994,11,Residente,524890
-1994,12,Residente,546867
-1995,1,Residente,458180
-1995,2,Residente,549909
-1995,3,Residente,627975
-1995,4,Residente,984357
-1995,5,Residente,842581
-1995,6,Residente,1137504
-1995,7,Residente,2196727
-1995,8,Residente,3664485
-1995,9,Residente,1527889
-1995,10,Residente,783278
-1995,11,Residente,591578
-1995,12,Residente,600919
-1996,1,Residente,456724
-1996,2,Residente,582495
-1996,3,Residente,670388
-1996,4,Residente,1003978
-1996,5,Residente,900815
-1996,6,Residente,1319896
-1996,7,Residente,2315199
-1996,8,Residente,3802056
-1996,9,Residente,1517203
-1996,10,Residente,766107
-1996,11,Residente,638694
-1996,12,Residente,554836
-1997,1,Residente,477577
-1997,2,Residente,535332
-1997,3,Residente,850065
-1997,4,Residente,902243
-1997,5,Residente,969056
-1997,6,Residente,1114796
-1997,7,Residente,2301133
-1997,8,Residente,4014198
-1997,9,Residente,1563253
-1997,10,Residente,807443
-1997,11,Residente,608443
-1997,12,Residente,563556
-1998,1,Residente,566100
-1998,2,Residente,635687
-1998,3,Residente,738681
-1998,4,Residente,980461
-1998,5,Residente,1009702
-1998,6,Residente,1389641
-1998,7,Residente,2404814
-1998,8,Residente,3979508
-1998,9,Residente,1520687
-1998,10,Residente,858716
-1998,11,Residente,642519
-1998,12,Residente,599544
-1999,1,Residente,577250
-1999,2,Residente,658737
-1999,3,Residente,807236
-1999,4,Residente,993307
-1999,5,Residente,907165
-1999,6,Residente,1291035
-1999,7,Residente,2315844
-1999,8,Residente,3927809
-1999,9,Residente,1606811
-1999,10,Residente,927983
-1999,11,Residente,724246
-1999,12,Residente,631380
-2000,1,Residente,585104
-2000,2,Residente,629917
-2000,3,Residente,859423
-2000,4,Residente,1117302
-2000,5,Residente,964313
-2000,6,Residente,1308342
-2000,7,Residente,2386260
-2000,8,Residente,3934025
-2000,9,Residente,1675400
-2000,10,Residente,918337
-2000,11,Residente,750804
-2000,12,Residente,687191
-2001,1,Residente,614157
-2001,2,Residente,730655
-2001,3,Residente,855033
-2001,4,Residente,1187718
-2001,5,Residente,1036697
-2001,6,Residente,1425206
-2001,7,Residente,2329153
-2001,8,Residente,3858997
-2001,9,Residente,1652792
-2001,10,Residente,960101
-2001,11,Residente,790370
-2001,12,Residente,670446
-2002,1,Residente,634064
-2002,2,Residente,778877
-2002,3,Residente,1052376
-2002,4,Residente,1159145
-2002,5,Residente,1161347
-2002,6,Residente,1450682
-2002,7,Residente,2283491
-2002,8,Residente,4114992
-2002,9,Residente,1619953
-2002,10,Residente,929689
-2002,11,Residente,826001
-2002,12,Residente,681841
-2003,1,Residente,597653
-2003,2,Residente,657909
-2003,3,Residente,925458
-2003,4,Residente,1191302
-2003,5,Residente,1178572
-2003,6,Residente,1503442
-2003,7,Residente,2333650
-2003,8,Residente,4162671
-2003,9,Residente,1640195
-2003,10,Residente,980589
-2003,11,Residente,825303
-2003,12,Residente,716542
-2004,1,Residente,700036
-2004,2,Residente,815566
-2004,3,Residente,918685
-2004,4,Residente,1271904
-2004,5,Residente,1190600
-2004,6,Residente,1347354
-2004,7,Residente,2463363
-2004,8,Residente,4044916
-2004,9,Residente,1673239
-2004,10,Residente,1148966
-2004,11,Residente,811362
-2004,12,Residente,719505
-2005,1,Residente,650513
-2005,2,Residente,723827
-2005,3,Residente,1066994
-2005,4,Residente,1147639
-2005,5,Residente,1268568
-2005,6,Residente,1581932
-2005,7,Residente,2364629
-2005,8,Residente,4103328
-2005,9,Residente,1712466
-2005,10,Residente,1070712
-2005,11,Residente,860924
-2005,12,Residente,824882
-2006,1,Residente,681388
-2006,2,Residente,768530
-2006,3,Residente,952514
-2006,4,Residente,1455061
-2006,5,Residente,1275765
-2006,6,Residente,1460768
-2006,7,Residente,2537382
-2006,8,Residente,4080436
-2006,9,Residente,1798053
-2006,10,Residente,1107727
-2006,11,Residente,876964
-2006,12,Residente,911889
-2007,1,Residente,675950
-2007,2,Residente,783396
-2007,3,Residente,1124204
-2007,4,Residente,1379825
-2007,5,Residente,1302286
-2007,6,Residente,1627925
-2007,7,Residente,2630118
-2007,8,Residente,4041831
-2007,9,Residente,1947258
-2007,10,Residente,1217053
-2007,11,Residente,1006118
-2007,12,Residente,857197
-2008,1,Residente,709394
-2008,2,Residente,831168
-2008,3,Residente,1194876
-2008,4,Residente,1122465
-2008,5,Residente,1361325
-2008,6,Residente,1590648
-2008,7,Residente,2589315
-2008,8,Residente,4290597
-2008,9,Residente,1856946
-2008,10,Residente,1202999
-2008,11,Residente,1017256
-2008,12,Residente,887597
-2009,1,Residente,717461
-2009,2,Residente,833268
-2009,3,Residente,951135
-2009,4,Residente,1260638
-2009,5,Residente,1324323
-2009,6,Residente,1862134
-2009,7,Residente,2488187
-2009,8,Residente,4240823
-2009,9,Residente,1762856
-2009,10,Residente,1227461
-2009,11,Residente,967238
-2009,12,Residente,878354
-2010,1,Residente,773429
-2010,2,Residente,914908
-2010,3,Residente,1146653
-2010,4,Residente,1290124
-2010,5,Residente,1355809
-2010,6,Residente,1771053
-2010,7,Residente,2749222
-2010,8,Residente,4329903
-2010,9,Residente,1884132
-2010,10,Residente,1232290
-2010,11,Residente,864241
-2010,12,Residente,859987
-2011,1,Residente,781579
-2011,2,Residente,775715
-2011,3,Residente,1045316
-2011,4,Residente,1386612
-2011,5,Residente,1222084
-2011,6,Residente,1924853
-2011,7,Residente,2700157
-2011,8,Residente,4084307
-2011,9,Residente,1835673
-2011,10,Residente,1215088
-2011,11,Residente,780608
-2011,12,Residente,826677
-2012,1,Residente,675581
-2012,2,Residente,768563
-2012,3,Residente,1016486
-2012,4,Residente,1095311
-2012,5,Residente,1114408
-2012,6,Residente,1752652
-2012,7,Residente,2582060
-2012,8,Residente,4078370
-2012,9,Residente,2055835
-2012,10,Residente,1059414
-2012,11,Residente,763335
-2012,12,Residente,785106
-2013,1,Residente,619336
-2013,2,Residente,710066
-2013,3,Residente,1008538
-2013,4,Residente,974817
-2013,5,Residente,1143393
-2013,6,Residente,1765743
-2013,7,Residente,2566185
-2013,8,Residente,4271223
-2013,9,Residente,1949179
-2013,10,Residente,1082466
-2013,11,Residente,856432
-2013,12,Residente,862108
-2014,1,Residente,699582
-2014,2,Residente,729216
-2014,3,Residente,990175
-2014,4,Residente,1367999
-2014,5,Residente,1340859
-2014,6,Residente,1832259
-2014,7,Residente,2776362
-2014,8,Residente,4475918
-2014,9,Residente,2077383
-2014,10,Residente,1244966
-2014,11,Residente,900124
-2014,12,Residente,1013429
-2015,1,Residente,812792
-2015,2,Residente,885447
-2015,3,Residente,1152478
-2015,4,Residente,1302379
-2015,5,Residente,1526476
-2015,6,Residente,1974120
-2015,7,Residente,2977914
-2015,8,Residente,4463398
-2015,9,Residente,2181343
-2015,10,Residente,1279433
-2015,11,Residente,970573
-2015,12,Residente,1061786
-2016,1,Residente,884359
-2016,2,Residente,989011
-2016,3,Residente,1342461
-2016,4,Residente,1339876
-2016,5,Residente,1463488
-2016,6,Residente,2200904
-2016,7,Residente,3252310
-2016,8,Residente,4577922
-2016,9,Residente,2383676
-2016,10,Residente,1454222
-2016,11,Residente,1034037
-2016,12,Residente,1132665
-2017,1,Residente,909237
-2017,2,Residente,1047182
-2017,3,Residente,1195591
-2017,4,Residente,1787073
-2017,5,Residente,1543821
-2017,6,Residente,2225236
-2017,7,Residente,3295713
-2017,8,Residente,4682603
-2017,9,Residente,2432851
-2017,10,Residente,1591806
-2017,11,Residente,1129071
-2017,12,Residente,1310977
-2018,1,Residente,984747
-2018,2,Residente,1156862
-2018,3,Residente,1409587
-2018,4,Residente,1582151
-2018,5,Residente,1678697
-2018,6,Residente,2299917
-2018,7,Residente,3397121
-2018,8,Residente,4981314
-2018,9,Residente,2672328
-2018,10,Residente,1791739
-2018,11,Residente,1261013
-2018,12,Residente,1339796
-2019,1,Residente,1061538
-2019,2,Residente,1146773
-2019,3,Residente,1524581
-2019,4,Residente,1892163
-2019,5,Residente,1835743
-2019,6,Residente,2622552
-2019,7,Residente,3447807
-2019,8,Residente,5108620
-2019,9,Residente,2779430
-2019,10,Residente,1724304
-2019,11,Residente,1452909
-2019,12,Residente,1405580
-2020,1,Residente,1201342
-2020,2,Residente,1445733
-2020,3,Residente,633261
-2020,4,Residente,101048
-2020,5,Residente,258907
-2020,6,Residente,1176544
-2020,7,Residente,2368947
-2020,8,Residente,4460040
-2020,9,Residente,2467261
-2020,10,Residente,1367111
-2020,11,Residente,624019
-2020,12,Residente,671693
-2021,1,Residente,480031
-2021,2,Residente,378352
-2021,3,Residente,525384
-2021,4,Residente,762479
-2021,5,Residente,1411509
-2021,6,Residente,2329135
-2021,7,Residente,3351734
-2021,8,Residente,5463111
-2021,9,Residente,2993874
-2021,10,Residente,2120060
-2021,11,Residente,1365611
-2021,12,Residente,1203441
-2022,1,Residente,947559
-2022,2,Residente,1250500
-2022,3,Residente,1395925
-2022,4,Residente,2092076
-2022,5,Residente,2001340
-2022,6,Residente,2751344
-2022,7,Residente,3767489
-2022,8,Residente,5206438
-2022,9,Residente,2924137
-2022,10,Residente,2036528
-2022,11,Residente,1447321
-2022,12,Residente,1542669
-2023,1,Residente,1251257
-2023,2,Residente,1460787
-2023,3,Residente,1610693
-2023,4,Residente,2301419
-2023,5,Residente,1992279
-2023,6,Residente,2559641
-2023,7,Residente,3716187
-2023,8,Residente,4962844
-2023,9,Residente,2843775
-2023,10,Residente,2064054
-2023,11,Residente,1478595
-2023,12,Residente,1698096
-2024,1,Residente,1238515
-2024,2,Residente,1504984
-2024,3,Residente,1784704
-2024,4,Residente,1973070
-2024,5,Residente,2150279
-2024,6,Residente,2654235
-2024,7,Residente,3601033
-2024,8,Residente,5177957
-2024,9,Residente,2823313
-2024,10,Residente,2045998
-2024,11,Residente,1794551
-2024,12,Residente,1701804
-1990,1,Não Residente,723083
-1990,2,Não Residente,828888
-1990,3,Não Residente,1205992
-1990,4,Não Residente,1495049
-1990,5,Não Residente,1612329
-1990,6,Não Residente,1813041
-1990,7,Não Residente,2718944
-1990,8,Não Residente,3325639
-1990,9,Não Residente,2252501
-1990,10,Não Residente,1653163
-1990,11,Não Residente,962530
-1990,12,Não Residente,758227
-1991,1,Não Residente,786013
-1991,2,Não Residente,918751
-1991,3,Não Residente,1461952
-1991,4,Não Residente,1516407
-1991,5,Não Residente,2067613
-1991,6,Não Residente,2214686
-1991,7,Não Residente,3097754
-1991,8,Não Residente,3680728
-1991,9,Não Residente,2538133
-1991,10,Não Residente,1843758
-1991,11,Não Residente,1032283
-1991,12,Não Residente,799261
-1992,1,Não Residente,830538
-1992,2,Não Residente,1019570
-1992,3,Não Residente,1333100
-1992,4,Não Residente,1729316
-1992,5,Não Residente,1998206
-1992,6,Não Residente,2041230
-1992,7,Não Residente,2588825
-1992,8,Não Residente,3134971
-1992,9,Não Residente,2234098
-1992,10,Não Residente,1594088
-1992,11,Não Residente,838172
-1992,12,Não Residente,722351
-1993,1,Não Residente,753938
-1993,2,Não Residente,896089
-1993,3,Não Residente,1199394
-1993,4,Não Residente,1458811
-1993,5,Não Residente,1601052
-1993,6,Não Residente,1655045
-1993,7,Não Residente,2238960
-1993,8,Não Residente,2810150
-1993,9,Não Residente,2044963
-1993,10,Não Residente,1567543
-1993,11,Não Residente,885628
-1993,12,Não Residente,719787
-1994,1,Não Residente,760052
-1994,2,Não Residente,911520
-1994,3,Não Residente,1349029
-1994,4,Não Residente,1484668
-1994,5,Não Residente,1871920
-1994,6,Não Residente,2011663
-1994,7,Não Residente,2677205
-1994,8,Não Residente,2956458
-1994,9,Não Residente,2284849
-1994,10,Não Residente,1656792
-1994,11,Não Residente,1071135
-1994,12,Não Residente,823444
-1995,1,Não Residente,891886
-1995,2,Não Residente,1047327
-1995,3,Não Residente,1467365
-1995,4,Não Residente,1907558
-1995,5,Não Residente,2226333
-1995,6,Não Residente,2302092
-1995,7,Não Residente,2846445
-1995,8,Não Residente,3224637
-1995,9,Não Residente,2434972
-1995,10,Não Residente,1864972
-1995,11,Não Residente,1151080
-1995,12,Não Residente,876025
-1996,1,Não Residente,941021
-1996,2,Não Residente,1158067
-1996,3,Não Residente,1570878
-1996,4,Não Residente,1819993
-1996,5,Não Residente,2099757
-1996,6,Não Residente,2127592
-1996,7,Não Residente,2684986
-1996,8,Não Residente,3054631
-1996,9,Não Residente,2424769
-1996,10,Não Residente,1906537
-1996,11,Não Residente,1054890
-1996,12,Não Residente,864756
-1997,1,Não Residente,859595
-1997,2,Não Residente,1073314
-1997,3,Não Residente,1710765
-1997,4,Não Residente,1816752
-1997,5,Não Residente,2263884
-1997,6,Não Residente,2207367
-1997,7,Não Residente,2797594
-1997,8,Não Residente,3308388
-1997,9,Não Residente,2476985
-1997,10,Não Residente,2015170
-1997,11,Não Residente,1173226
-1997,12,Não Residente,897962
-1998,1,Não Residente,1004519
-1998,2,Não Residente,1209816
-1998,3,Não Residente,1705250
-1998,4,Não Residente,2035257
-1998,5,Não Residente,2368434
-1998,6,Não Residente,2613242
-1998,7,Não Residente,3248508
-1998,8,Não Residente,3731983
-1998,9,Não Residente,2942406
-1998,10,Não Residente,2177693
-1998,11,Não Residente,1249089
-1998,12,Não Residente,986316
-1999,1,Não Residente,1026965
-1999,2,Não Residente,1269162
-1999,3,Não Residente,1788985
-1999,4,Não Residente,2000099
-1999,5,Não Residente,2374635
-1999,6,Não Residente,2469450
-1999,7,Não Residente,2942358
-1999,8,Não Residente,3393695
-1999,9,Não Residente,2745907
-1999,10,Não Residente,2302735
-1999,11,Não Residente,1337750
-1999,12,Não Residente,945416
-2000,1,Não Residente,1041726
-2000,2,Não Residente,1341115
-2000,3,Não Residente,1854396
-2000,4,Não Residente,2174787
-2000,5,Não Residente,2452277
-2000,6,Não Residente,2507460
-2000,7,Não Residente,3055717
-2000,8,Não Residente,3440955
-2000,9,Não Residente,2763823
-2000,10,Não Residente,2330601
-2000,11,Não Residente,1398670
-2000,12,Não Residente,1042406
-2001,1,Não Residente,1142462
-2001,2,Não Residente,1449919
-2001,3,Não Residente,1857447
-2001,4,Não Residente,2194404
-2001,5,Não Residente,2401870
-2001,6,Não Residente,2564863
-2001,7,Não Residente,3077796
-2001,8,Não Residente,3360513
-2001,9,Não Residente,2711506
-2001,10,Não Residente,2217187
-2001,11,Não Residente,1294219
-2001,12,Não Residente,956426
-2002,1,Não Residente,1047209
-2002,2,Não Residente,1365457
-2002,3,Não Residente,2018092
-2002,4,Não Residente,1921332
-2002,5,Não Residente,2383150
-2002,6,Não Residente,2525732
-2002,7,Não Residente,3045175
-2002,8,Não Residente,3556579
-2002,9,Não Residente,2826786
-2002,10,Não Residente,2196545
-2002,11,Não Residente,1272397
-2002,12,Não Residente,960286
-2003,1,Não Residente,1102406
-2003,2,Não Residente,1391253
-2003,3,Não Residente,1795720
-2003,4,Não Residente,2096397
-2003,5,Não Residente,2416993
-2003,6,Não Residente,2528651
-2003,7,Não Residente,3076135
-2003,8,Não Residente,3485419
-2003,9,Não Residente,2630623
-2003,10,Não Residente,2139426
-2003,11,Não Residente,1223749
-2003,12,Não Residente,983174
-2004,1,Não Residente,1068806
-2004,2,Não Residente,1387343
-2004,3,Não Residente,1728668
-2004,4,Não Residente,2030535
-2004,5,Não Residente,2312588
-2004,6,Não Residente,2646627
-2004,7,Não Residente,2811913
-2004,8,Não Residente,3346241
-2004,9,Não Residente,2674960
-2004,10,Não Residente,2229435
-2004,11,Não Residente,1276647
-2004,12,Não Residente,1103688
-2005,1,Não Residente,1152300
-2005,2,Não Residente,1383156
-2005,3,Não Residente,1935977
-2005,4,Não Residente,1956542
-2005,5,Não Residente,2442286
-2005,6,Não Residente,2507965
-2005,7,Não Residente,2994135
-2005,8,Não Residente,3429607
-2005,9,Não Residente,2808814
-2005,10,Não Residente,2351629
-2005,11,Não Residente,1350530
-2005,12,Não Residente,1108473
-2006,1,Não Residente,1159992
-2006,2,Não Residente,1399922
-2006,3,Não Residente,1845038
-2006,4,Não Residente,2359393
-2006,5,Não Residente,2580284
-2006,6,Não Residente,2688421
-2006,7,Não Residente,3189502
-2006,8,Não Residente,3850871
-2006,9,Não Residente,2989798
-2006,10,Não Residente,2486465
-2006,11,Não Residente,1451805
-2006,12,Não Residente,1215547
-2007,1,Não Residente,1239824
-2007,2,Não Residente,1452523
-2007,3,Não Residente,1995417
-2007,4,Não Residente,2346759
-2007,5,Não Residente,2710869
-2007,6,Não Residente,2824304
-2007,7,Não Residente,3477729
-2007,8,Não Residente,4080527
-2007,9,Não Residente,3199915
-2007,10,Não Residente,2543662
-2007,11,Não Residente,1557676
-2007,12,Não Residente,1239982
-2008,1,Não Residente,1292170
-2008,2,Não Residente,1643594
-2008,3,Não Residente,2236394
-2008,4,Não Residente,2261346
-2008,5,Não Residente,2819417
-2008,6,Não Residente,2747822
-2008,7,Não Residente,3403651
-2008,8,Não Residente,3854972
-2008,9,Não Residente,3068071
-2008,10,Não Residente,2449704
-2008,11,Não Residente,1360414
-2008,12,Não Residente,1071758
-2009,1,Não Residente,1125997
-2009,2,Não Residente,1292624
-2009,3,Não Residente,1726554
-2009,4,Não Residente,2220318
-2009,5,Não Residente,2314090
-2009,6,Não Residente,2443046
-2009,7,Não Residente,3048182
-2009,8,Não Residente,3488263
-2009,9,Não Residente,2823369
-2009,10,Não Residente,2244813
-2009,11,Não Residente,1278949
-2009,12,Não Residente,1022206
-2010,1,Não Residente,1013931
-2010,2,Não Residente,1252882
-2010,3,Não Residente,1713222
-2010,4,Não Residente,1954057
-2010,5,Não Residente,2342737
-2010,6,Não Residente,2384887
-2010,7,Não Residente,3230109
-2010,8,Não Residente,3750899
-2010,9,Não Residente,2978368
-2010,10,Não Residente,2461664
-2010,11,Não Residente,1265981
-2010,12,Não Residente,1037347
-2011,1,Não Residente,1055161
-2011,2,Não Residente,1250706
-2011,3,Não Residente,1804183
-2011,4,Não Residente,2415044
-2011,5,Não Residente,2712440
-2011,6,Não Residente,2768315
-2011,7,Não Residente,3605035
-2011,8,Não Residente,4018913
-2011,9,Não Residente,3205888
-2011,10,Não Residente,2600557
-2011,11,Não Residente,1280894
-2011,12,Não Residente,985928
-2012,1,Não Residente,1091167
-2012,2,Não Residente,1339011
-2012,3,Não Residente,1788098
-2012,4,Não Residente,2429974
-2012,5,Não Residente,2774197
-2012,6,Não Residente,2941944
-2012,7,Não Residente,3840398
-2012,8,Não Residente,4214172
-2012,9,Não Residente,3374729
-2012,10,Não Residente,2749857
-2012,11,Não Residente,1428022
-2012,12,Não Residente,1062401
-2013,1,Não Residente,1141967
-2013,2,Não Residente,1410380
-2013,3,Não Residente,2067707
-2013,4,Não Residente,2408987
-2013,5,Não Residente,3259220
-2013,6,Não Residente,3310810
-2013,7,Não Residente,4162717
-2013,8,Não Residente,4701582
-2013,9,Não Residente,3763524
-2013,10,Não Residente,3068534
-2013,11,Não Residente,1550114
-2013,12,Não Residente,1233231
-2014,1,Não Residente,1289089
-2014,2,Não Residente,1544197
-2014,3,Não Residente,2125880
-2014,4,Não Residente,3021650
-2014,5,Não Residente,3591808
-2014,6,Não Residente,3623811
-2014,7,Não Residente,4491196
-2014,8,Não Residente,5193507
-2014,9,Não Residente,4166893
-2014,10,Não Residente,3544597
-2014,11,Não Residente,1811583
-2014,12,Não Residente,1457275
-2015,1,Não Residente,1489417
-2015,2,Não Residente,1731884
-2015,3,Não Residente,2390577
-2015,4,Não Residente,3184806
-2015,5,Não Residente,3903471
-2015,6,Não Residente,4010082
-2015,7,Não Residente,4890694
-2015,8,Não Residente,5502532
-2015,9,Não Residente,4519376
-2015,10,Não Residente,3816192
-2015,11,Não Residente,1945593
-2015,12,Não Residente,1577587
-2016,1,Não Residente,1637211
-2016,2,Não Residente,2026309
-2016,3,Não Residente,2939749
-2016,4,Não Residente,3371302
-2016,5,Não Residente,4382852
-2016,6,Não Residente,4501857
-2016,7,Não Residente,5448132
-2016,8,Não Residente,6097393
-2016,9,Não Residente,4993485
-2016,10,Não Residente,4394191
-2016,11,Não Residente,2352154
-2016,12,Não Residente,1814660
-2017,1,Não Residente,1948302
-2017,2,Não Residente,2256639
-2017,3,Não Residente,3073801
-2017,4,Não Residente,4294585
-2017,5,Não Residente,4821112
-2017,6,Não Residente,5096755
-2017,7,Não Residente,5864160
-2017,8,Não Residente,6510685
-2017,9,Não Residente,5495400
-2017,10,Não Residente,4846897
-2017,11,Não Residente,2638687
-2017,12,Não Residente,2037940
-2018,1,Não Residente,2085357
-2018,2,Não Residente,2430260
-2018,3,Não Residente,3447701
-2018,4,Não Residente,4085235
-2018,5,Não Residente,5024647
-2018,6,Não Residente,5019663
-2018,7,Não Residente,5939316
-2018,8,Não Residente,6548318
-2018,9,Não Residente,5468232
-2018,10,Não Residente,4878176
-2018,11,Não Residente,2769278
-2018,12,Não Residente,2156141
-2019,1,Não Residente,2206645
-2019,2,Não Residente,2473749
-2019,3,Não Residente,3405793
-2019,4,Não Residente,4474457
-2019,5,Não Residente,5139742
-2019,6,Não Residente,5216934
-2019,7,Não Residente,6067752
-2019,8,Não Residente,6706219
-2019,9,Não Residente,5646606
-2019,10,Não Residente,5021387
-2019,11,Não Residente,2872603
-2019,12,Não Residente,2360367
-2020,1,Não Residente,2336978
-2020,2,Não Residente,2687040
-2020,3,Não Residente,1450609
-2020,4,Não Residente,50645
-2020,5,Não Residente,69593
-2020,6,Não Residente,177642
-2020,7,Não Residente,975310
-2020,8,Não Residente,1886131
-2020,9,Não Residente,1621803
-2020,10,Não Residente,1218975
-2020,11,Não Residente,468373
-2020,12,Não Residente,438795
-2021,1,Não Residente,343298
-2021,2,Não Residente,188168
-2021,3,Não Residente,219120
-2021,4,Não Residente,307645
-2021,5,Não Residente,853491
-2021,6,Não Residente,1507387
-2021,7,Não Residente,2042433
-2021,8,Não Residente,3583710
-2021,9,Não Residente,3244328
-2021,10,Não Residente,3754561
-2021,11,Não Residente,2449664
-2021,12,Não Residente,1573392
-2022,1,Não Residente,1269440
-2022,2,Não Residente,1915926
-2022,3,Não Residente,2893674
-2022,4,Não Residente,4298642
-2022,5,Não Residente,4961864
-2022,6,Não Residente,5082128
-2022,7,Não Residente,6188372
-2022,8,Não Residente,6768570
-2022,9,Não Residente,5525658
-2022,10,Não Residente,5162638
-2022,11,Não Residente,3082891
-2022,12,Não Residente,2434856
-2023,1,Não Residente,2455304
-2023,2,Não Residente,2868352
-2023,3,Não Residente,3799203
-2023,4,Não Residente,5065974
-2023,5,Não Residente,5666811
-2023,6,Não Residente,5533485
-2023,7,Não Residente,6423496
-2023,8,Não Residente,7216929
-2023,9,Não Residente,6165007
-2023,10,Não Residente,5771979
-2023,11,Não Residente,3363604
-2023,12,Não Residente,2617059
-2024,1,Não Residente,2479848
-2024,2,Não Residente,3078217
-2024,3,Não Residente,4322137
-2024,4,Não Residente,5000079
-2024,5,Não Residente,6094615
-2024,6,Não Residente,5840091
-2024,7,Não Residente,6729111
-2024,8,Não Residente,7435386
-2024,9,Não Residente,6390164
-2024,10,Não Residente,5941969
-2024,11,Não Residente,3522740
-2024,12,Não Residente,2745069
+﻿Ano,Mes,Origem,Dormidas
+1990,1,Residente,381502
+1990,2,Residente,428472
+1990,3,Residente,479313
+1990,4,Residente,593453
+1990,5,Residente,512566
+1990,6,Residente,607454
+1990,7,Residente,779926
+1990,8,Residente,1131131
+1990,9,Residente,790332
+1990,10,Residente,533189
+1990,11,Residente,427201
+1990,12,Residente,438663
+2001,1,Residente,528144
+2001,2,Residente,596065
+2001,3,Residente,691523
+2001,4,Residente,912373
+2001,5,Residente,743887
+2001,6,Residente,893768
+2001,7,Residente,1142780
+2001,8,Residente,1542711
+2001,9,Residente,983342
+2001,10,Residente,739457
+2001,11,Residente,642188
+2001,12,Residente,568782
+2011,1,Residente,686301
+2011,2,Residente,687102
+2011,3,Residente,883656
+2011,4,Residente,1156774
+2011,5,Residente,999459
+2011,6,Residente,1368271
+2011,7,Residente,1718951
+2011,8,Residente,2423342
+2011,9,Residente,1372004
+2011,10,Residente,971046
+2011,11,Residente,651096
+2011,12,Residente,721663
+2012,1,Residente,562793
+2012,2,Residente,645546
+2012,3,Residente,812975
+2012,4,Residente,896513
+2012,5,Residente,895479
+2012,6,Residente,1238276
+2012,7,Residente,1584827
+2012,8,Residente,2282809
+2012,9,Residente,1345466
+2012,10,Residente,858992
+2012,11,Residente,626632
+2012,12,Residente,674152
+2013,1,Residente,530611
+2013,2,Residente,602401
+2013,3,Residente,849114
+2013,4,Residente,810435
+2013,5,Residente,933831
+2013,6,Residente,1323496
+2013,7,Residente,1587800
+2013,8,Residente,2346556
+2013,9,Residente,1376757
+2013,10,Residente,885256
+2013,11,Residente,703354
+2013,12,Residente,732918
+2014,1,Residente,594421
+2014,2,Residente,627053
+2014,3,Residente,833703
+2014,4,Residente,1138171
+2014,5,Residente,1112685
+2014,6,Residente,1410623
+2014,7,Residente,1844372
+2014,8,Residente,2704080
+2014,9,Residente,1532698
+2014,10,Residente,1024709
+2014,11,Residente,758513
+2014,12,Residente,861149
+2015,1,Residente,677302
+2015,2,Residente,736957
+2015,3,Residente,946440
+2015,4,Residente,1059724
+2015,5,Residente,1213174
+2015,6,Residente,1485908
+2015,7,Residente,1951044
+2015,8,Residente,2717025
+2015,9,Residente,1599613
+2015,10,Residente,1050047
+2015,11,Residente,812172
+2015,12,Residente,903209
+2016,1,Residente,739008
+2016,2,Residente,823503
+2016,3,Residente,1115133
+2016,4,Residente,1105251
+2016,5,Residente,1191327
+2016,6,Residente,1629901
+2016,7,Residente,2004395
+2016,8,Residente,2655423
+2016,9,Residente,1692573
+2016,10,Residente,1180211
+2016,11,Residente,850744
+2016,12,Residente,944305
+2017,1,Residente,757962
+2017,2,Residente,868479
+2017,3,Residente,993816
+2017,4,Residente,1419917
+2017,5,Residente,1239930
+2017,6,Residente,1636378
+2017,7,Residente,2089028
+2017,8,Residente,2716331
+2017,9,Residente,1727208
+2017,10,Residente,1251139
+2017,11,Residente,912924
+2017,12,Residente,1068577
+2018,1,Residente,780279
+2018,2,Residente,913644
+2018,3,Residente,1124458
+2018,4,Residente,1249684
+2018,5,Residente,1284251
+2018,6,Residente,1664424
+2018,7,Residente,2101655
+2018,8,Residente,2834279
+2018,9,Residente,1832273
+2018,10,Residente,1344500
+2018,11,Residente,995674
+2018,12,Residente,1058067
+2019,1,Residente,828305
+2019,2,Residente,885534
+2019,3,Residente,1158454
+2019,4,Residente,1432269
+2019,5,Residente,1375844
+2019,6,Residente,1834977
+2019,7,Residente,2122055
+2019,8,Residente,2897105
+2019,9,Residente,1882614
+2019,10,Residente,1283630
+2019,11,Residente,1116985
+2019,12,Residente,1085857
+2020,1,Residente,922328
+2020,2,Residente,1105220
+2020,3,Residente,461543
+2020,4,Residente,75192
+2020,5,Residente,161644
+2020,6,Residente,678633
+2020,7,Residente,1423797
+2020,8,Residente,2790695
+2020,9,Residente,1684929
+2020,10,Residente,972265
+2020,11,Residente,426395
+2020,12,Residente,469656
+2021,1,Residente,312358
+2021,2,Residente,235259
+2021,3,Residente,325941
+2021,4,Residente,484736
+2021,5,Residente,954390
+2021,6,Residente,1590358
+2021,7,Residente,2144282
+2021,8,Residente,3495944
+2021,9,Residente,2075989
+2021,10,Residente,1546890
+2021,11,Residente,1008543
+2021,12,Residente,880237
+2022,1,Residente,669231
+2022,2,Residente,918637
+2022,3,Residente,1029842
+2022,4,Residente,1530949
+2022,5,Residente,1428366
+2022,6,Residente,1880401
+2022,7,Residente,2326342
+2022,8,Residente,2980989
+2022,9,Residente,1964355
+2022,10,Residente,1486282
+2022,11,Residente,1064168
+2022,12,Residente,1146380
+2023,1,Residente,930678
+2023,2,Residente,1074665
+2023,3,Residente,1192073
+2023,4,Residente,1621816
+2023,5,Residente,1404517
+2023,6,Residente,1707916
+2023,7,Residente,2184695
+2023,8,Residente,2726381
+2023,9,Residente,1863545
+2023,10,Residente,1456108
+2023,11,Residente,1082629
+2023,12,Residente,1250498
+2024,1,Residente,911227
+2024,2,Residente,1106312
+2024,3,Residente,1300725
+2024,4,Residente,1410432
+2024,5,Residente,1493697
+2024,6,Residente,1769223
+2024,7,Residente,2145459
+2024,8,Residente,2847673
+2024,9,Residente,1845594
+2024,10,Residente,1479050
+2024,11,Residente,1318236
+2024,12,Residente,1249259
+2025,1,Residente,1029642
+2025,2,Residente,1114880
+2025,3,Residente,1359073
+2025,4,Residente,1609715
+2025,5,Residente,1610325
+2025,6,Residente,1910797
+2025,7,Residente,2348053
+1990,1,Não Residente,683192
+1990,2,Não Residente,787567
+1990,3,Não Residente,1148777
+1990,4,Não Residente,1405033
+1990,5,Não Residente,1512603
+1990,6,Não Residente,1639332
+1990,7,Não Residente,1968978
+1990,8,Não Residente,2348175
+1990,9,Não Residente,1991341
+1990,10,Não Residente,1584957
+1990,11,Não Residente,924564
+1990,12,Não Residente,715813
+1991,1,Não Residente,741763
+1991,2,Não Residente,868301
+1991,3,Não Residente,1379218
+1991,4,Não Residente,1436986
+1991,5,Não Residente,1935042
+1991,6,Não Residente,2022816
+1991,7,Não Residente,2318200
+1991,8,Não Residente,2636944
+1991,9,Não Residente,2236212
+1991,10,Não Residente,1773891
+1991,11,Não Residente,987215
+1991,12,Não Residente,752340
+1992,1,Não Residente,781648
+1992,2,Não Residente,986012
+1992,3,Não Residente,1264221
+1992,4,Não Residente,1623777
+1992,5,Não Residente,1891556
+1992,6,Não Residente,1882321
+1992,7,Não Residente,2051517
+1992,8,Não Residente,2338728
+1992,9,Não Residente,2013683
+1992,10,Não Residente,1532666
+1992,11,Não Residente,813412
+1992,12,Não Residente,697490
+1993,1,Não Residente,722725
+1993,2,Não Residente,857343
+1993,3,Não Residente,1155517
+1993,4,Não Residente,1375478
+1993,5,Não Residente,1528647
+1993,6,Não Residente,1547485
+1993,7,Não Residente,1750511
+1993,8,Não Residente,2077369
+1993,9,Não Residente,1877368
+1993,10,Não Residente,1518349
+1993,11,Não Residente,856668
+1993,12,Não Residente,697763
+1994,1,Não Residente,734171
+1994,2,Não Residente,873489
+1994,3,Não Residente,1293541
+1994,4,Não Residente,1422015
+1994,5,Não Residente,1806663
+1994,6,Não Residente,1902426
+1994,7,Não Residente,2214326
+1994,8,Não Residente,2366060
+1994,9,Não Residente,2131079
+1994,10,Não Residente,1610693
+1994,11,Não Residente,1031697
+1994,12,Não Residente,792411
+1995,1,Não Residente,853417
+1995,2,Não Residente,1002781
+1995,3,Não Residente,1409892
+1995,4,Não Residente,1811557
+1995,5,Não Residente,2147825
+1995,6,Não Residente,2187679
+1995,7,Não Residente,2381813
+1995,8,Não Residente,2541904
+1995,9,Não Residente,2266746
+1995,10,Não Residente,1801788
+1995,11,Não Residente,1112446
+1995,12,Não Residente,839357
+1996,1,Não Residente,888314
+1996,2,Não Residente,1096378
+1996,3,Não Residente,1495246
+1996,4,Não Residente,1728981
+1996,5,Não Residente,2016312
+1996,6,Não Residente,2013739
+1996,7,Não Residente,2283885
+1996,8,Não Residente,2455662
+1996,9,Não Residente,2272966
+1996,10,Não Residente,1852416
+1996,11,Não Residente,1024401
+1996,12,Não Residente,834076
+1997,1,Não Residente,823202
+1997,2,Não Residente,1027683
+1997,3,Não Residente,1641862
+1997,4,Não Residente,1731551
+1997,5,Não Residente,2166281
+1997,6,Não Residente,2101593
+1997,7,Não Residente,2387696
+1997,8,Não Residente,2682028
+1997,9,Não Residente,2324003
+1997,10,Não Residente,1958507
+1997,11,Não Residente,1143259
+1997,12,Não Residente,863530
+1998,1,Não Residente,938695
+1998,2,Não Residente,1141393
+1998,3,Não Residente,1620037
+1998,4,Não Residente,1936306
+1998,5,Não Residente,2266810
+1998,6,Não Residente,2476851
+1998,7,Não Residente,2765784
+1998,8,Não Residente,3065731
+1998,9,Não Residente,2750788
+1998,10,Não Residente,2110350
+1998,11,Não Residente,1209799
+1998,12,Não Residente,957972
+1999,1,Não Residente,989264
+1999,2,Não Residente,1221071
+1999,3,Não Residente,1714036
+1999,4,Não Residente,1925055
+1999,5,Não Residente,2292141
+1999,6,Não Residente,2357676
+1999,7,Não Residente,2558307
+1999,8,Não Residente,2932847
+1999,9,Não Residente,2605331
+1999,10,Não Residente,2226150
+1999,11,Não Residente,1298126
+1999,12,Não Residente,900803
+2000,1,Não Residente,981915
+2000,2,Não Residente,1274164
+2000,3,Não Residente,1780949
+2000,4,Não Residente,2083035
+2000,5,Não Residente,2374783
+2000,6,Não Residente,2412746
+2000,7,Não Residente,2713869
+2000,8,Não Residente,2948603
+2000,9,Não Residente,2626477
+2000,10,Não Residente,2268131
+2000,11,Não Residente,1359847
+2000,12,Não Residente,991929
+2001,1,Não Residente,1080412
+2001,2,Não Residente,1368100
+2001,3,Não Residente,1766449
+2001,4,Não Residente,2099181
+2001,5,Não Residente,2320249
+2001,6,Não Residente,2455357
+2001,7,Não Residente,2723348
+2001,8,Não Residente,2884070
+2001,9,Não Residente,2576595
+2001,10,Não Residente,2148106
+2001,11,Não Residente,1244157
+2001,12,Não Residente,911547
+2002,1,Não Residente,1002957
+2002,2,Não Residente,1300835
+2002,3,Não Residente,1923985
+2002,4,Não Residente,1845448
+2002,5,Não Residente,2289541
+2002,6,Não Residente,2422722
+2002,7,Não Residente,2710392
+2002,8,Não Residente,3076168
+2002,9,Não Residente,2696015
+2002,10,Não Residente,2139092
+2002,11,Não Residente,1232280
+2002,12,Não Residente,923259
+2003,1,Não Residente,1034067
+2003,2,Não Residente,1312053
+2003,3,Não Residente,1695452
+2003,4,Não Residente,1998299
+2003,5,Não Residente,2318482
+2003,6,Não Residente,2418076
+2003,7,Não Residente,2734802
+2003,8,Não Residente,3020543
+2003,9,Não Residente,2499935
+2003,10,Não Residente,2074081
+2003,11,Não Residente,1172811
+2003,12,Não Residente,936097
+2004,1,Não Residente,1003222
+2004,2,Não Residente,1299371
+2004,3,Não Residente,1630248
+2004,4,Não Residente,1939833
+2004,5,Não Residente,2225431
+2004,6,Não Residente,2490007
+2004,7,Não Residente,2513022
+2004,8,Não Residente,2928462
+2004,9,Não Residente,2547277
+2004,10,Não Residente,2151144
+2004,11,Não Residente,1225417
+2004,12,Não Residente,1048559
+2005,1,Não Residente,1080678
+2005,2,Não Residente,1290298
+2005,3,Não Residente,1823054
+2005,4,Não Residente,1873179
+2005,5,Não Residente,2353894
+2005,6,Não Residente,2413605
+2005,7,Não Residente,2747197
+2005,8,Não Residente,3053538
+2005,9,Não Residente,2712632
+2005,10,Não Residente,2283295
+2005,11,Não Residente,1299710
+2005,12,Não Residente,1050856
+2006,1,Não Residente,1105144
+2006,2,Não Residente,1316533
+2006,3,Não Residente,1734812
+2006,4,Não Residente,2243200
+2006,5,Não Residente,2478299
+2006,6,Não Residente,2594714
+2006,7,Não Residente,2941988
+2006,8,Não Residente,3466491
+2006,9,Não Residente,2870373
+2006,10,Não Residente,2403288
+2006,11,Não Residente,1396880
+2006,12,Não Residente,1164024
+2007,1,Não Residente,1164467
+2007,2,Não Residente,1352075
+2007,3,Não Residente,1889119
+2007,4,Não Residente,2229360
+2007,5,Não Residente,2590273
+2007,6,Não Residente,2690211
+2007,7,Não Residente,3159374
+2007,8,Não Residente,3611660
+2007,9,Não Residente,3034950
+2007,10,Não Residente,2466751
+2007,11,Não Residente,1498495
+2007,12,Não Residente,1180999
+2008,1,Não Residente,1206860
+2008,2,Não Residente,1531880
+2008,3,Não Residente,2101025
+2008,4,Não Residente,2155748
+2008,5,Não Residente,2691600
+2008,6,Não Residente,2632079
+2008,7,Não Residente,3094544
+2008,8,Não Residente,3427764
+2008,9,Não Residente,2918855
+2008,10,Não Residente,2369410
+2008,11,Não Residente,1293408
+2008,12,Não Residente,1005577
+2009,1,Não Residente,1043785
+2009,2,Não Residente,1191626
+2009,3,Não Residente,1608605
+2009,4,Não Residente,2108389
+2009,5,Não Residente,2204959
+2009,6,Não Residente,2328109
+2009,7,Não Residente,2792061
+2009,8,Não Residente,3067945
+2009,9,Não Residente,2699733
+2009,10,Não Residente,2162818
+2009,11,Não Residente,1215859
+2009,12,Não Residente,961764
+2010,1,Não Residente,939320
+2010,2,Não Residente,1163234
+2010,3,Não Residente,1597141
+2010,4,Não Residente,1837604
+2010,5,Não Residente,2210491
+2010,6,Não Residente,2253771
+2010,7,Não Residente,2911250
+2010,8,Não Residente,3301422
+2010,9,Não Residente,2830454
+2010,10,Não Residente,2373349
+2010,11,Não Residente,1206419
+2010,12,Não Residente,983752
+2011,1,Não Residente,1007316
+2011,2,Não Residente,1182476
+2011,3,Não Residente,1721654
+2011,4,Não Residente,2325564
+2011,5,Não Residente,2604623
+2011,6,Não Residente,2655851
+2011,7,Não Residente,3338708
+2011,8,Não Residente,3624017
+2011,9,Não Residente,3082297
+2011,10,Não Residente,2516071
+2011,11,Não Residente,1230440
+2011,12,Não Residente,943980
+2012,1,Não Residente,1001561
+2012,2,Não Residente,1232518
+2012,3,Não Residente,1673721
+2012,4,Não Residente,2321764
+2012,5,Não Residente,2653748
+2012,6,Não Residente,2818150
+2012,7,Não Residente,3515161
+2012,8,Não Residente,3781935
+2012,9,Não Residente,3231876
+2012,10,Não Residente,2663561
+2012,11,Não Residente,1364027
+2012,12,Não Residente,998558
+2013,1,Não Residente,1046830
+2013,2,Não Residente,1301270
+2013,3,Não Residente,1944320
+2013,4,Não Residente,2285131
+2013,5,Não Residente,3080022
+2013,6,Não Residente,3125228
+2013,7,Não Residente,3802481
+2013,8,Não Residente,4171273
+2013,9,Não Residente,3542753
+2013,10,Não Residente,2927708
+2013,11,Não Residente,1462439
+2013,12,Não Residente,1135114
+2014,1,Não Residente,1174566
+2014,2,Não Residente,1419341
+2014,3,Não Residente,1984014
+2014,4,Não Residente,2856751
+2014,5,Não Residente,3391625
+2014,6,Não Residente,3415214
+2014,7,Não Residente,4085172
+2014,8,Não Residente,4592800
+2014,9,Não Residente,3917850
+2014,10,Não Residente,3361166
+2014,11,Não Residente,1692403
+2014,12,Não Residente,1339416
+2015,1,Não Residente,1341730
+2015,2,Não Residente,1567222
+2015,3,Não Residente,2198182
+2015,4,Não Residente,2951297
+2015,5,Não Residente,3613881
+2015,6,Não Residente,3716949
+2015,7,Não Residente,4354905
+2015,8,Não Residente,4769205
+2015,9,Não Residente,4161126
+2015,10,Não Residente,3563596
+2015,11,Não Residente,1801523
+2015,12,Não Residente,1434898
+2016,1,Não Residente,1460237
+2016,2,Não Residente,1827828
+2016,3,Não Residente,2682982
+2016,4,Não Residente,3111209
+2016,5,Não Residente,4004683
+2016,6,Não Residente,4084027
+2016,7,Não Residente,4766063
+2016,8,Não Residente,5148641
+2016,9,Não Residente,4484177
+2016,10,Não Residente,4007148
+2016,11,Não Residente,2130852
+2016,12,Não Residente,1618606
+2017,1,Não Residente,1726890
+2017,2,Não Residente,2001413
+2017,3,Não Residente,2767756
+2017,4,Não Residente,3854113
+2017,5,Não Residente,4325134
+2017,6,Não Residente,4523040
+2017,7,Não Residente,5029691
+2017,8,Não Residente,5409965
+2017,9,Não Residente,4811980
+2017,10,Não Residente,4308990
+2017,11,Não Residente,2332207
+2017,12,Não Residente,1761518
+2018,1,Não Residente,1755425
+2018,2,Não Residente,2052313
+2018,3,Não Residente,2949566
+2018,4,Não Residente,3505504
+2018,5,Não Residente,4262438
+2018,6,Não Residente,4239466
+2018,7,Não Residente,4782714
+2018,8,Não Residente,5132862
+2018,9,Não Residente,4548328
+2018,10,Não Residente,4138294
+2018,11,Não Residente,2354457
+2018,12,Não Residente,1795958
+2019,1,Não Residente,1806170
+2019,2,Não Residente,2038464
+2019,3,Não Residente,2850942
+2019,4,Não Residente,3706602
+2019,5,Não Residente,4257167
+2019,6,Não Residente,4278330
+2019,7,Não Residente,4823818
+2019,8,Não Residente,5151724
+2019,9,Não Residente,4600056
+2019,10,Não Residente,4199590
+2019,11,Não Residente,2401968
+2019,12,Não Residente,1928359
+2020,1,Não Residente,1916393
+2020,2,Não Residente,2216186
+2020,3,Não Residente,1161103
+2020,4,Não Residente,25018
+2020,5,Não Residente,34350
+2020,6,Não Residente,108091
+2020,7,Não Residente,683235
+2020,8,Não Residente,1349413
+2020,9,Não Residente,1257808
+2020,10,Não Residente,946248
+2020,11,Não Residente,321197
+2020,12,Não Residente,305514
+2021,1,Não Residente,215547
+2021,2,Não Residente,98700
+2021,3,Não Residente,126484
+2021,4,Não Residente,206271
+2021,5,Não Residente,658342
+2021,6,Não Residente,1166372
+2021,7,Não Residente,1505624
+2021,8,Não Residente,2697701
+2021,9,Não Residente,2546593
+2021,10,Não Residente,3051760
+2021,11,Não Residente,1953113
+2021,12,Não Residente,1206275
+2022,1,Não Residente,954051
+2022,2,Não Residente,1481858
+2022,3,Não Residente,2294193
+2022,4,Não Residente,3470079
+2022,5,Não Residente,3981872
+2022,6,Não Residente,4058921
+2022,7,Não Residente,4767565
+2022,8,Não Residente,5081239
+2022,9,Não Residente,4387050
+2022,10,Não Residente,4190746
+2022,11,Não Residente,2457410
+2022,12,Não Residente,1918905
+2023,1,Não Residente,1904142
+2023,2,Não Residente,2245373
+2023,3,Não Residente,3018390
+2023,4,Não Residente,4022762
+2023,5,Não Residente,4477013
+2023,6,Não Residente,4359388
+2023,7,Não Residente,4904701
+2023,8,Não Residente,5371285
+2023,9,Não Residente,4849410
+2023,10,Não Residente,4658657
+2023,11,Não Residente,2716023
+2023,12,Não Residente,2067076
+2024,1,Não Residente,1947529
+2024,2,Não Residente,2430694
+2024,3,Não Residente,3412420
+2024,4,Não Residente,3966099
+2024,5,Não Residente,4785845
+2024,6,Não Residente,4597334
+2024,7,Não Residente,5126038
+2024,8,Não Residente,5496733
+2024,9,Não Residente,4990609
+2024,10,Não Residente,4783974
+2024,11,Não Residente,2828013
+2024,12,Não Residente,2168134
+2025,1,Não Residente,2029840
+2025,2,Não Residente,2363802
+2025,3,Não Residente,3292329
+2025,4,Não Residente,4277543
+2025,5,Não Residente,4813000
+2025,6,Não Residente,4714512
+2025,7,Não Residente,5280841
