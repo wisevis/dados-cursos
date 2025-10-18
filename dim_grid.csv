@@ -1,0 +1,1038 @@
+﻿GridNo,Lat,Long,Alt,NUTS3_ID,NUTS3_Desc,NUTS2_ID,NUTS2_Desc,NUTS1_ID,NUTS1_Desc,Country_ID,Country_Desc,RiverBank
+41053,36.05157,-5.56551,51,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+41054,36.06896,-5.44667,26,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+42052,36.20539,-5.88516,30,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+42053,36.20706,-5.63915,54,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+42054,36.27215,-5.39316,26,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+42055,36.37034,-5.23396,31,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+42063,36.72688,-2.83146,52,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+42064,36.73249,-2.69925,29,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+42065,36.80673,-2.25469,4,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+42066,36.79754,-2.13789,21,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43051,36.38272,-6.14894,32,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43052,36.3826,-5.9611,62,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43053,36.42914,-5.68871,77,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43054,36.47489,-5.41602,134,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43055,36.52845,-5.15016,195,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43056,36.58503,-4.86858,191,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43057,36.63253,-4.61982,69,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43058,36.73455,-4.33239,41,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43059,36.76819,-4.05639,66,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43060,36.7928,-3.7731,209,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43061,36.79931,-3.49399,223,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43062,36.8356,-3.22469,541,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43063,36.85524,-2.94669,317,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43064,36.89087,-2.67681,340,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43065,36.93356,-2.39559,148,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43066,36.96312,-2.12417,164,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+43067,37.02732,-1.93131,110,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44051,36.592,-6.22123,21,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44052,36.6044,-6.01192,70,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44053,36.65111,-5.73873,148,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44054,36.69703,-5.46523,227,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44055,36.74216,-5.19143,710,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44056,36.78648,-4.91733,424,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44057,36.83001,-4.64294,389,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44058,36.87274,-4.36826,650,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44059,36.91467,-4.0933,918,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44060,36.95579,-3.81805,970,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44061,36.99611,-3.54253,830,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44062,37.03563,-3.26674,1505,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44063,37.07434,-2.99068,1110,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44064,37.11225,-2.71437,757,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44065,37.14934,-2.43779,581,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44066,37.18563,-2.16097,499,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44067,37.22977,-1.90426,65,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+44068,37.32634,-1.72455,58,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45051,36.77825,-6.30596,24,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45052,36.82609,-6.0632,41,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45053,36.87298,-5.7892,108,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45054,36.91906,-5.51489,196,ES612,Cádiz,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45055,36.96435,-5.24028,523,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45056,37.00884,-4.96536,525,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45057,37.05253,-4.69014,437,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45058,37.09542,-4.41463,615,ES617,Málaga,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45059,37.1375,-4.13884,730,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45060,37.17878,-3.86276,765,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45061,37.21926,-3.5864,678,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45062,37.25892,-3.30976,1063,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45063,37.29778,-3.03286,1128,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45064,37.33582,-2.75569,965,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45065,37.37306,-2.47826,1029,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45066,37.40948,-2.20058,471,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45067,37.44509,-1.92264,299,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+45068,37.48681,-1.6523,195,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+45069,37.56817,-1.3985,49,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+45070,37.61352,-1.0965,40,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+45071,37.62683,-0.85665,57,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+46050,37.04441,-6.58578,38,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46051,37.00736,-6.38131,3,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46052,37.04767,-6.11495,3,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46053,37.09473,-5.84014,53,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46054,37.14099,-5.56501,110,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46055,37.18644,-5.28957,197,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46056,37.2311,-5.01383,256,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46057,37.27495,-4.73778,403,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46058,37.318,-4.46143,385,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46059,37.36024,-4.1848,622,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46060,37.40167,-3.90787,895,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46061,37.4423,-3.63066,986,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46062,37.48211,-3.35318,1043,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46063,37.52111,-3.07542,1038,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46064,37.5593,-2.79739,845,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46065,37.59668,-2.5191,989,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46066,37.63324,-2.24055,1046,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+46067,37.66898,-1.96175,661,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+46068,37.70391,-1.68269,461,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+46069,37.73801,-1.4034,165,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+46070,37.7713,-1.12387,96,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+46071,37.81662,-0.88076,11,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+47045,37.02611,-7.99694,3,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+47046,37.03539,-7.85014,5,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+47047,37.09893,-7.66692,5,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+47049,37.20635,-6.95,4,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47050,37.18654,-6.70669,47,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47051,37.2211,-6.44248,20,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47052,37.26914,-6.16717,47,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47053,37.31637,-5.89154,45,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47054,37.3628,-5.61558,70,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47055,37.40843,-5.33932,130,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47056,37.45325,-5.06274,170,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47057,37.49727,-4.78585,190,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47058,37.54048,-4.50866,281,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47059,37.58288,-4.23118,408,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47060,37.62447,-3.95341,612,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47061,37.66524,-3.67534,740,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47062,37.70521,-3.397,1053,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47063,37.74436,-3.11838,844,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47064,37.78269,-2.83948,943,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47065,37.82021,-2.56032,965,ES614,Granada,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47066,37.85691,-2.28089,1082,ES611,Almería,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+47067,37.89279,-2.00121,906,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+47068,37.92785,-1.72128,736,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+47069,37.96208,-1.4411,227,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+47070,37.9955,-1.16068,50,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+47071,38.02809,-0.88003,22,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+47072,38.07356,-0.6939,5,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+48042,37.05959,-8.91672,45,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+48043,37.11127,-8.72465,2,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+48044,37.14413,-8.41347,21,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+48045,37.15727,-8.13669,45,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+48046,37.18922,-7.87157,162,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+48047,37.24609,-7.60206,63,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+48048,37.29765,-7.32278,30,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48049,37.34345,-7.04726,36,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48050,37.39326,-6.7718,45,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48051,37.44228,-6.496,112,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48052,37.49049,-6.21987,65,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48053,37.5379,-5.94341,52,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48054,37.58451,-5.66663,87,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48055,37.63031,-5.38952,128,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48056,37.6753,-5.1121,167,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48057,37.71948,-4.83437,214,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48058,37.76285,-4.55633,234,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48059,37.80541,-4.27799,315,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48060,37.84716,-3.99936,333,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48061,37.88809,-3.72044,390,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48062,37.92821,-3.44122,380,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48063,37.96751,-3.16173,463,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48064,38.00599,-2.88196,828,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48065,38.04365,-2.60192,1426,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+48066,38.08049,-2.32162,1163,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+48067,38.1165,-2.04105,1083,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+48068,38.1517,-1.76023,449,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+48069,38.18607,-1.47916,429,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+48070,38.21961,-1.19784,174,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+48071,38.25232,-0.91628,82,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+48072,38.28825,-0.64493,24,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+48073,38.38563,-0.45582,19,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+49042,37.14111,-8.89825,66,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+49043,37.24443,-8.74371,77,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+49044,37.30215,-8.47904,95,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+49045,37.35614,-8.20453,196,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+49046,37.40934,-7.92967,309,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+49047,37.46174,-7.65444,158,PT150,Algarve,PT15,Algarve,PT1,Continente,PT,Portugal,South of Tagus
+49048,37.51334,-7.37886,118,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49049,37.56414,-7.10292,133,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49050,37.61415,-6.82664,173,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49051,37.66334,-6.55002,302,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49052,37.71174,-6.27306,278,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49053,37.75933,-5.99576,231,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49054,37.80611,-5.71814,272,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49055,37.85208,-5.44019,248,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49056,37.89724,-5.16192,156,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49057,37.94159,-4.88334,154,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49058,37.98513,-4.60444,182,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49059,38.02785,-4.32524,217,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49060,38.06976,-4.04574,232,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49061,38.11085,-3.76595,352,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49062,38.15112,-3.48586,353,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49063,38.19056,-3.20549,617,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49064,38.22919,-2.92484,582,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49065,38.267,-2.64392,900,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+49066,38.30398,-2.36272,853,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+49067,38.34013,-2.08126,712,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+49068,38.37546,-1.79954,569,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+49069,38.40996,-1.51757,456,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+49070,38.44364,-1.23535,520,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+49071,38.47648,-0.95288,534,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+49072,38.50849,-0.67018,399,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+49073,38.54808,-0.3971,221,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+49074,38.61179,-0.13306,98,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+49075,38.67929,0.0789,34,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+49079,38.69954,1.4184,31,ES531,"Eivissa, Formentera",ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+49080,38.67483,1.52131,84,ES531,"Eivissa, Formentera",ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+50043,37.46551,-8.74132,60,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+50044,37.52175,-8.53927,123,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+50045,37.57594,-8.26396,242,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+50046,37.62934,-7.98829,219,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+50047,37.68193,-7.71225,181,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+50048,37.73373,-7.43585,200,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+50049,37.78472,-7.15909,205,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50050,37.83491,-6.88198,301,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50051,37.8843,-6.60453,425,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50052,37.93287,-6.32673,416,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50053,37.98064,-6.04859,419,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50054,38.0276,-5.77012,495,ES618,Sevilla,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50055,38.07375,-5.49132,402,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50056,38.11908,-5.2122,482,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50057,38.1636,-4.93276,511,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50058,38.2073,-4.653,513,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50059,38.25019,-4.37293,598,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50060,38.29226,-4.09256,562,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50061,38.3335,-3.81189,513,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50062,38.37393,-3.53092,581,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50063,38.41353,-3.24966,824,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50064,38.4523,-2.96812,844,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50065,38.49025,-2.6863,787,ES616,Jaén,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+50066,38.52738,-2.40421,1095,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+50067,38.56367,-2.12185,929,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+50068,38.59914,-1.83922,809,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+50069,38.63378,-1.55634,712,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+50070,38.66758,-1.27321,766,ES620,Murcia,ES62,Región de Murcia,ES6,Sur (ES),ES,Spain,South of Tagus
+50071,38.70055,-0.98983,700,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+50072,38.73269,-0.70621,599,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+50073,38.76399,-0.42235,449,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+50074,38.79133,-0.1414,208,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+50075,38.77702,0.09549,46,ES521,Alicante / Alacant,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+50079,38.9471,1.33682,70,ES531,"Eivissa, Formentera",ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+50080,39.00595,1.49815,51,ES531,"Eivissa, Formentera",ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+50085,39.14765,2.94529,60,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+51043,37.68541,-8.76837,48,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+51044,37.74122,-8.60005,133,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+51045,37.79562,-8.32393,130,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+51046,37.84922,-8.04745,172,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+51047,37.90201,-7.77059,166,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+51048,37.954,-7.49336,204,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+51049,38.00519,-7.21578,200,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+51050,38.05557,-6.93784,306,ES615,Huelva,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+51051,38.10514,-6.65954,581,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+51052,38.1539,-6.3809,565,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+51053,38.20185,-6.10192,590,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+51054,38.24899,-5.82259,573,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+51055,38.29531,-5.54294,569,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+51056,38.34082,-5.26295,572,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+51057,38.38551,-4.98264,608,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+51058,38.42938,-4.70201,636,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+51059,38.47243,-4.42107,657,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51060,38.51466,-4.13981,664,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51061,38.55606,-3.85825,668,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51062,38.59664,-3.5764,758,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51063,38.6364,-3.29425,813,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51064,38.67532,-3.01181,858,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51065,38.71342,-2.72909,968,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51066,38.75069,-2.44609,997,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51067,38.78713,-2.16282,843,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51068,38.82273,-1.87928,796,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51069,38.8575,-1.59548,873,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51070,38.89144,-1.31143,861,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51071,38.92454,-1.02712,727,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+51072,38.9568,-0.74258,332,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+51073,38.98822,-0.45779,110,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+51074,38.99709,-0.2345,23,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+51079,39.06464,1.38026,213,ES531,"Eivissa, Formentera",ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+51080,39.08475,1.5046,95,ES531,"Eivissa, Formentera",ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+51084,39.38298,2.79617,92,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+51085,39.36182,3.00721,50,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+51086,39.38435,3.17804,31,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+52043,37.94411,-8.82499,33,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+52044,37.96057,-8.66138,120,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+52045,38.01518,-8.38446,72,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+52046,38.06897,-8.10715,123,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+52047,38.12197,-7.82947,166,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+52048,38.17416,-7.55141,140,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+52049,38.22554,-7.27299,170,PT184,Baixo Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+52050,38.27611,-6.99421,248,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+52051,38.32587,-6.71507,415,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+52052,38.37481,-6.43558,506,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+52053,38.42295,-6.15573,512,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+52054,38.47027,-5.87555,544,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+52055,38.51677,-5.59503,555,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+52056,38.56245,-5.31417,507,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+52057,38.60731,-5.03299,515,ES613,Córdoba,ES61,Andalucía,ES6,Sur (ES),ES,Spain,South of Tagus
+52058,38.65135,-4.75148,451,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52059,38.69457,-4.46965,603,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52060,38.73696,-4.18751,666,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52061,38.77853,-3.90506,646,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52062,38.81927,-3.62231,675,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52063,38.85918,-3.33925,693,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52064,38.89825,-3.05591,800,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52065,38.9365,-2.77228,926,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52066,38.97392,-2.48837,989,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52067,39.0105,-2.20418,780,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52068,39.04624,-1.91972,697,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52069,39.08115,-1.635,722,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52070,39.11522,-1.35001,801,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+52071,39.14845,-1.06478,769,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+52072,39.18084,-0.77929,308,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+52073,39.21238,-0.49356,24,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+52074,39.22284,-0.30161,8,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+52083,39.55086,2.44818,40,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+52084,39.54665,2.69995,20,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+52085,39.52493,2.95186,121,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+52086,39.55598,3.22147,83,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+52087,39.64366,3.40595,15,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+53044,38.17615,-8.68749,59,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+53045,38.23461,-8.44554,50,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+53046,38.28861,-8.1674,133,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+53047,38.34181,-7.88889,203,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+53048,38.39419,-7.60999,198,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+53049,38.44577,-7.33073,184,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+53050,38.49653,-7.0511,251,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+53051,38.54648,-6.77111,324,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+53052,38.59562,-6.49076,371,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+53053,38.64394,-6.21005,353,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+53054,38.69144,-5.929,476,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+53055,38.73812,-5.64761,428,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+53056,38.78398,-5.36587,498,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+53057,38.82902,-5.08381,528,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+53058,38.87323,-4.80141,582,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53059,38.91661,-4.51869,635,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53060,38.95917,-4.23565,625,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53061,39.0009,-3.9523,617,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53062,39.0418,-3.66865,630,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53063,39.08186,-3.38469,643,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53064,39.12109,-3.10043,662,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53065,39.15949,-2.81588,783,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53066,39.19705,-2.53105,802,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53067,39.23378,-2.24593,739,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53068,39.26966,-1.96054,730,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53069,39.30471,-1.67488,737,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53070,39.33891,-1.38896,720,ES421,Albacete,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+53071,39.37227,-1.10278,567,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+53072,39.40479,-0.81635,336,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+53073,39.43647,-0.52968,51,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+53074,39.47435,-0.35103,1,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+53083,39.62425,2.44744,295,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+53084,39.69678,2.66758,147,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+53085,39.75017,2.92751,89,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+53086,39.73459,3.19354,60,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+53087,39.71576,3.40992,51,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+53089,39.90078,4.14591,109,ES533,Menorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+53090,39.87937,4.26239,45,ES533,Menorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+54043,38.44315,-9.10193,196,PT170,Área Metropolitana de Lisboa,PT17,Área Metropolitana de Lisboa,PT1,Continente,PT,Portugal,South of Tagus
+54044,38.40065,-8.72622,8,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+54045,38.45392,-8.50718,78,PT181,Alentejo Litoral,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+54046,38.50813,-8.22821,179,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+54047,38.56153,-7.94886,233,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+54048,38.61411,-7.66912,235,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+54049,38.66589,-7.38901,236,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+54050,38.71685,-7.10852,218,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+54051,38.76699,-6.82767,254,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+54052,38.81632,-6.54645,243,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+54053,38.86482,-6.26488,268,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+54054,38.91251,-5.98295,286,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+54055,38.95937,-5.70068,315,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+54056,39.00541,-5.41806,348,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+54057,39.05062,-5.1351,395,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+54058,39.095,-4.85181,526,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54059,39.13856,-4.56819,647,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54060,39.18128,-4.28425,628,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54061,39.22317,-3.99999,713,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54062,39.26423,-3.71542,806,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54063,39.30446,-3.43055,629,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54064,39.34384,-3.14537,644,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54065,39.38239,-2.85989,700,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54066,39.4201,-2.57413,746,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54067,39.45697,-2.28808,806,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54068,39.493,-2.00175,809,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54069,39.52819,-1.71515,811,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+54070,39.56253,-1.42829,867,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+54071,39.59602,-1.14116,740,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+54072,39.62867,-0.85377,352,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+54073,39.66047,-0.56614,141,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+54074,39.70331,-0.30746,20,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+54075,39.80688,-0.13664,1,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+54085,39.88957,2.96854,80,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+54086,39.92336,3.1223,3,ES532,Mallorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+54088,39.99218,3.86988,47,ES533,Menorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+54089,39.99767,4.05977,102,ES533,Menorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+54090,39.97405,4.24037,30,ES533,Menorca,ES53,Illes Balears,ES5,Este (ES),ES,Spain,North of Tagus
+55043,38.56054,-9.09596,40,PT170,Área Metropolitana de Lisboa,PT17,Área Metropolitana de Lisboa,PT1,Continente,PT,Portugal,South of Tagus
+55044,38.62276,-8.84895,21,PT170,Área Metropolitana de Lisboa,PT17,Área Metropolitana de Lisboa,PT1,Continente,PT,Portugal,South of Tagus
+55045,38.67311,-8.56939,112,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+55046,38.72753,-8.28958,176,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+55047,38.78113,-8.00938,271,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+55048,38.83392,-7.72879,279,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+55049,38.88589,-7.44783,308,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+55050,38.93705,-7.16648,277,PT186,Alto Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+55051,38.98739,-6.88476,209,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+55052,39.0369,-6.60267,232,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+55053,39.0856,-6.32022,296,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+55054,39.13347,-6.03741,267,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+55055,39.18051,-5.75425,301,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+55056,39.22673,-5.47074,333,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+55057,39.27212,-5.18688,393,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+55058,39.31668,-4.90269,444,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+55059,39.36041,-4.61816,625,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55060,39.4033,-4.33331,708,ES422,Ciudad Real,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55061,39.44536,-4.04814,829,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55062,39.48658,-3.76265,750,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55063,39.52696,-3.47684,696,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55064,39.5665,-3.19073,678,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55065,39.60521,-2.90433,759,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55066,39.64307,-2.61762,810,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55067,39.68009,-2.33063,841,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55068,39.71626,-2.04336,871,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55069,39.75158,-1.75581,916,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55070,39.78606,-1.46798,901,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+55071,39.81969,-1.1799,778,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+55072,39.85247,-0.89155,1053,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+55073,39.8844,-0.60295,590,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+55074,39.91547,-0.31411,200,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+55075,39.96575,-0.07663,9,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+55076,40.06784,0.11551,27,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+56042,38.76616,-9.4058,76,PT170,Área Metropolitana de Lisboa,PT17,Área Metropolitana de Lisboa,PT1,Continente,PT,Portugal,South of Tagus
+56043,38.79649,-9.20579,58,PT170,Área Metropolitana de Lisboa,PT17,Área Metropolitana de Lisboa,PT1,Continente,PT,Portugal,South of Tagus
+56044,38.84427,-8.89962,1,PT185,Lezíria do Tejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+56045,38.89218,-8.63218,34,PT185,Lezíria do Tejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+56046,38.9468,-8.35152,62,PT185,Lezíria do Tejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+56047,39.00061,-8.07047,111,PT187,Alentejo Central,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+56048,39.05361,-7.78903,218,PT186,Alto Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+56049,39.10578,-7.50719,297,PT186,Alto Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+56050,39.15714,-7.22498,306,PT186,Alto Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+56051,39.20767,-6.94238,271,ES431,Badajoz,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+56052,39.25738,-6.65942,329,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+56053,39.30627,-6.37608,381,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+56054,39.35433,-6.09238,447,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+56055,39.40156,-5.80832,492,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+56056,39.44796,-5.52391,572,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+56057,39.49352,-5.23915,568,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+56058,39.53826,-4.95405,567,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56059,39.58216,-4.66861,704,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56060,39.62522,-4.38284,712,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56061,39.66745,-4.09674,736,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56062,39.70883,-3.81032,692,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56063,39.74937,-3.52358,683,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56064,39.78908,-3.23653,711,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56065,39.82793,-2.94918,780,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56066,39.86595,-2.66153,846,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56067,39.90311,-2.37359,909,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56068,39.93943,-2.08536,995,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56069,39.9749,-1.79685,990,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56070,40.00951,-1.50807,1118,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+56071,40.04328,-1.21901,928,ES523,Valencia / València,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,South of Tagus
+56072,40.07619,-0.92969,1065,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+56073,40.10825,-0.64012,939,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+56074,40.13945,-0.3503,599,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+56075,40.16979,-0.06023,281,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+56076,40.22947,0.18013,56,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+57042,38.91009,-9.40945,101,PT170,Área Metropolitana de Lisboa,PT17,Área Metropolitana de Lisboa,PT1,Continente,PT,Portugal,South of Tagus
+57043,38.99872,-9.25663,89,PT170,Área Metropolitana de Lisboa,PT17,Área Metropolitana de Lisboa,PT1,Continente,PT,Portugal,South of Tagus
+57044,39.05547,-8.97665,28,PT16B,Oeste,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+57045,39.11112,-8.69555,26,PT185,Lezíria do Tejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+57046,39.16596,-8.41404,112,PT185,Lezíria do Tejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+57047,39.21998,-8.13213,151,PT186,Alto Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+57048,39.27318,-7.84982,210,PT186,Alto Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+57049,39.32556,-7.56712,301,PT186,Alto Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+57050,39.37711,-7.28402,409,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+57051,39.42785,-7.00055,329,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+57052,39.47775,-6.7167,297,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+57053,39.52683,-6.43247,347,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+57054,39.57508,-6.14787,405,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+57055,39.62249,-5.86291,492,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+57056,39.66908,-5.57759,466,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+57057,39.71483,-5.29192,463,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+57058,39.75974,-5.0059,392,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+57059,39.80381,-4.71953,530,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+57060,39.84705,-4.43283,532,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+57061,39.88944,-4.1458,501,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+57062,39.93099,-3.85844,520,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+57063,39.9717,-3.57077,651,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+57064,40.01156,-3.28277,728,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+57065,40.05057,-2.99447,768,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+57066,40.08874,-2.70587,887,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+57067,40.12605,-2.41696,1001,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+57068,40.16252,-2.12777,989,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+57069,40.19813,-1.83829,1331,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+57070,40.23289,-1.54853,1428,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+57071,40.26679,-1.2585,990,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+57072,40.29983,-0.96821,1094,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+57073,40.33202,-0.67765,1279,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+57074,40.36335,-0.38684,1188,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+57075,40.39382,-0.09578,684,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+57076,40.42343,0.19553,265,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+57077,40.47883,0.41321,34,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+57078,40.57082,0.65625,3,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+58043,39.2135,-9.27122,47,PT16B,Oeste,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+58044,39.27408,-9.04147,87,PT16B,Oeste,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+58045,39.32994,-8.75951,69,PT185,Lezíria do Tejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+58046,39.38499,-8.47714,37,PT185,Lezíria do Tejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+58047,39.43922,-8.19437,113,PT16I,Médio Tejo,PT16,Centro (PT),PT1,Continente,PT,Portugal,South of Tagus
+58048,39.49263,-7.91118,185,PT186,Alto Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+58049,39.54522,-7.6276,299,PT186,Alto Alentejo,PT18,Alentejo,PT1,Continente,PT,Portugal,South of Tagus
+58050,39.59698,-7.34363,243,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+58051,39.64791,-7.05926,238,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+58052,39.69801,-6.77451,272,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+58053,39.74728,-6.48939,287,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+58054,39.79572,-6.20388,330,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+58055,39.84333,-5.91801,271,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+58056,39.8901,-5.63178,274,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+58057,39.93603,-5.34519,335,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+58058,39.98112,-5.05824,388,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+58059,40.02537,-4.77094,432,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+58060,40.06878,-4.48331,464,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+58061,40.11134,-4.19534,540,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+58062,40.15306,-3.90703,604,ES425,Toledo,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+58063,40.19393,-3.6184,605,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+58064,40.23395,-3.32946,764,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+58065,40.27313,-3.04019,741,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+58066,40.31145,-2.75063,772,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+58067,40.34891,-2.46075,856,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+58068,40.38552,-2.17059,942,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+58069,40.42128,-1.88013,1451,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+58070,40.45618,-1.58939,1404,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+58071,40.49022,-1.29838,1053,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+58072,40.5234,-1.00709,1163,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+58073,40.55572,-0.71554,1349,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+58074,40.58718,-0.42373,1033,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+58075,40.61777,-0.13167,865,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+58076,40.6475,0.16064,596,ES522,Castellón / Castelló,ES52,Comunidad Valenciana,ES5,Este (ES),ES,Spain,North of Tagus
+58077,40.67868,0.4494,91,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+58078,40.71396,0.70639,3,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+59043,39.36849,-9.29466,30,PT16B,Oeste,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+59044,39.47481,-9.07587,35,PT16B,Oeste,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+59045,39.54864,-8.82408,173,PT16F,Região de Leiria,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+59046,39.60391,-8.54084,125,PT16I,Médio Tejo,PT16,Centro (PT),PT1,Continente,PT,Portugal,South of Tagus
+59047,39.65835,-8.25719,192,PT16I,Médio Tejo,PT16,Centro (PT),PT1,Continente,PT,Portugal,South of Tagus
+59048,39.71197,-7.97312,298,PT16I,Médio Tejo,PT16,Centro (PT),PT1,Continente,PT,Portugal,South of Tagus
+59049,39.76476,-7.68866,226,PT16H,Beira Baixa,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+59050,39.81673,-7.40379,331,PT16H,Beira Baixa,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+59051,39.86786,-7.11853,231,PT16H,Beira Baixa,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+59052,39.91816,-6.83288,307,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+59053,39.96763,-6.54685,260,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+59054,40.01626,-6.26043,269,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+59055,40.06406,-5.97364,377,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+59056,40.11102,-5.68648,397,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+59057,40.15713,-5.39896,302,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+59058,40.2024,-5.11108,411,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+59059,40.24683,-4.82285,502,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+59060,40.29042,-4.53427,632,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+59061,40.33315,-4.24535,554,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+59062,40.37504,-3.95609,631,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+59063,40.41608,-3.6665,614,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+59064,40.45626,-3.37659,652,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+59065,40.49559,-3.08636,866,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+59066,40.53407,-2.79582,975,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+59067,40.57169,-2.50497,836,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+59068,40.60845,-2.21382,1132,ES423,Cuenca,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,South of Tagus
+59069,40.64435,-1.92238,1184,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+59070,40.6794,-1.63065,1267,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+59071,40.71358,-1.33864,1024,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+59072,40.74689,-1.04635,1211,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+59073,40.77935,-0.7538,1231,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+59074,40.81093,-0.46099,840,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+59075,40.84165,-0.16791,535,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+59076,40.8715,0.12541,535,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+59077,40.90049,0.41897,149,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+59078,40.93775,0.69806,139,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+59079,41.02804,0.92779,30,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+59080,41.07279,1.16449,8,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+60044,39.66527,-9.03981,82,PT16B,Oeste,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+60045,39.76334,-8.87971,67,PT16F,Região de Leiria,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+60046,39.82271,-8.60513,162,PT16F,Região de Leiria,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+60047,39.87736,-8.3206,256,PT16F,Região de Leiria,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+60048,39.9312,-8.03565,392,PT16H,Beira Baixa,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+60049,39.9842,-7.75029,393,PT16H,Beira Baixa,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+60050,40.03637,-7.46453,365,PT16J,Beiras e Serra da Estrela,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+60051,40.08771,-7.17836,409,PT16H,Beira Baixa,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+60052,40.13821,-6.8918,382,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+60053,40.18787,-6.60485,363,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+60054,40.2367,-6.31752,418,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+60055,40.28469,-6.0298,396,ES432,Cáceres,ES43,Extremadura,ES4,Centro (ES),ES,Spain,South of Tagus
+60056,40.33183,-5.74171,958,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+60057,40.37814,-5.45325,1010,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+60058,40.42359,-5.16443,1400,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+60059,40.4682,-4.87525,1092,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+60060,40.51196,-4.58572,890,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+60061,40.55487,-4.29584,899,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+60062,40.59693,-4.00562,813,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+60063,40.63813,-3.71506,642,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+60064,40.67848,-3.42418,726,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+60065,40.71797,-3.13297,775,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+60066,40.75661,-2.84145,1017,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+60067,40.79438,-2.54961,1096,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+60068,40.83129,-2.25747,1095,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+60069,40.86734,-1.96504,1147,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+60070,40.90253,-1.67231,1114,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+60071,40.93685,-1.3793,1010,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+60072,40.97031,-1.086,1105,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+60073,41.0029,-0.79244,818,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+60074,41.03461,-0.49861,539,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+60075,41.06546,-0.20451,362,ES242,Teruel,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+60076,41.09544,0.08983,243,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+60077,41.12454,0.38442,274,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+60078,41.15277,0.67925,119,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+60079,41.18012,0.97431,208,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+60080,41.21607,1.26337,94,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+60081,41.26375,1.55673,110,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+60082,41.30464,1.8474,150,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+60083,41.33871,2.0815,7,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+61045,39.97015,-8.86985,30,PT16F,Região de Leiria,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+61046,40.04138,-8.67003,31,PT16E,Região de Coimbra,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+61047,40.09626,-8.38461,136,PT16E,Região de Coimbra,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+61048,40.1503,-8.09877,244,PT16E,Região de Coimbra,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+61049,40.20352,-7.81251,496,PT16E,Região de Coimbra,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+61050,40.25589,-7.52584,436,PT16J,Beiras e Serra da Estrela,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+61051,40.30744,-7.23876,496,PT16J,Beiras e Serra da Estrela,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+61052,40.35814,-6.95128,792,PT16J,Beiras e Serra da Estrela,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+61053,40.40801,-6.66341,832,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+61054,40.45703,-6.37515,806,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+61055,40.50521,-6.0865,674,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+61056,40.55255,-5.79747,876,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+61057,40.59904,-5.50806,939,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+61058,40.64468,-5.21829,1033,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+61059,40.68947,-4.92815,1062,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+61060,40.73341,-4.63766,962,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+61061,40.77649,-4.34681,1014,ES416,Segovia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+61062,40.81872,-4.05562,1138,ES416,Segovia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+61063,40.8601,-3.76409,1021,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+61064,40.90061,-3.47223,873,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+61065,40.94027,-3.18004,863,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+61066,40.97906,-2.88752,979,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+61067,41.01699,-2.59469,1092,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+61068,41.05406,-2.30155,1135,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+61069,41.09026,-2.00811,1147,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+61070,41.12559,-1.71438,1042,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+61071,41.16005,-1.42035,917,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+61072,41.19365,-1.12604,861,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+61073,41.22637,-0.83145,607,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+61074,41.25822,-0.53659,298,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+61075,41.2892,-0.24147,249,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+61076,41.3193,0.0539,307,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+61077,41.34853,0.34953,307,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+61078,41.37687,0.6454,263,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+61079,41.40434,0.9415,479,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+61080,41.43093,1.23783,698,ES514,Tarragona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+61081,41.45664,1.53439,602,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+61082,41.48147,1.83116,184,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+61083,41.50884,2.1224,141,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+61084,41.57624,2.3979,181,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+61085,41.63414,2.65107,52,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+62045,40.18218,-8.87825,24,PT16E,Região de Coimbra,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+62046,40.25648,-8.7264,43,PT16E,Região de Coimbra,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+62047,40.31503,-8.44923,61,PT16E,Região de Coimbra,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+62048,40.36929,-8.16248,171,PT16G,Viseu Dão Lafões,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+62049,40.42272,-7.87532,293,PT16E,Região de Coimbra,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+62050,40.47531,-7.58773,440,PT16J,Beiras e Serra da Estrela,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+62051,40.52706,-7.29974,700,PT16J,Beiras e Serra da Estrela,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+62052,40.57797,-7.01134,716,PT16J,Beiras e Serra da Estrela,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+62053,40.62804,-6.72253,709,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62054,40.67726,-6.43333,740,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62055,40.72564,-6.14374,816,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62056,40.77317,-5.85376,857,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62057,40.81985,-5.5634,855,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62058,40.86567,-5.27267,867,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62059,40.91065,-4.98157,883,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62060,40.95477,-4.69011,871,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62061,40.99803,-4.39829,903,ES416,Segovia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62062,41.04043,-4.10612,924,ES416,Segovia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62063,41.08198,-3.8136,1017,ES416,Segovia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62064,41.12266,-3.52075,1170,ES300,Madrid,ES30,Comunidad de Madrid,ES3,Comunidad de Madrid,ES,Spain,North of Tagus
+62065,41.16248,-3.22756,1233,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+62066,41.20143,-2.93405,1091,ES424,Guadalajara,ES42,Castilla-la Mancha,ES4,Centro (ES),ES,Spain,North of Tagus
+62067,41.23952,-2.64021,1099,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62068,41.27674,-2.34606,940,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+62069,41.31309,-2.05161,835,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+62070,41.34857,-1.75685,651,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+62071,41.38318,-1.4618,533,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+62072,41.41691,-1.16647,487,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+62073,41.44978,-0.87085,437,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+62074,41.48176,-0.57496,227,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+62075,41.51287,-0.2788,338,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+62076,41.54309,0.01762,307,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+62077,41.57244,0.31429,289,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+62078,41.60091,0.61121,193,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+62079,41.6285,0.90837,215,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+62080,41.6552,1.20576,455,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+62081,41.68101,1.50338,663,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+62082,41.70595,1.80121,287,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+62083,41.72999,2.09926,658,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+62084,41.75315,2.3975,264,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+62085,41.7769,2.69379,98,ES512,Girona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+62086,41.829,2.9642,127,ES512,Girona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+62087,41.89601,3.16699,47,ES512,Girona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+63046,40.47278,-8.72827,19,PT16E,Região de Coimbra,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+63047,40.53369,-8.51446,44,PT16D,Região de Aveiro,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+63048,40.58817,-8.2268,296,PT16G,Viseu Dão Lafões,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+63049,40.64181,-7.93872,369,PT16G,Viseu Dão Lafões,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+63050,40.69461,-7.65022,497,PT16G,Viseu Dão Lafões,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+63051,40.74657,-7.3613,448,PT16J,Beiras e Serra da Estrela,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+63052,40.79769,-7.07196,529,PT16J,Beiras e Serra da Estrela,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+63053,40.84796,-6.78222,667,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63054,40.89738,-6.49207,732,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63055,40.94596,-6.20153,756,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63056,40.99368,-5.9106,796,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63057,41.04055,-5.61928,816,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63058,41.08657,-5.32758,809,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63059,41.13173,-5.03551,772,ES411,Ávila,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63060,41.17603,-4.74306,779,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63061,41.21947,-4.45026,793,ES416,Segovia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63062,41.26205,-4.1571,872,ES416,Segovia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63063,41.30377,-3.86359,958,ES416,Segovia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63064,41.34462,-3.56974,984,ES416,Segovia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63065,41.3846,-3.27555,1033,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63066,41.42372,-2.98102,1013,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63067,41.46197,-2.68618,957,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63068,41.49934,-2.39101,996,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63069,41.53585,-2.09553,997,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+63070,41.57148,-1.79975,1025,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+63071,41.60623,-1.50367,441,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+63072,41.64011,-1.2073,340,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+63073,41.67311,-0.91064,254,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+63074,41.70523,-0.6137,382,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+63075,41.73646,-0.31649,397,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+63076,41.76682,-0.01902,313,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+63077,41.79629,0.27871,351,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+63078,41.82488,0.57669,334,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+63079,41.85258,0.87491,323,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+63080,41.8794,1.17337,436,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+63081,41.90533,1.47206,624,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+63082,41.93036,1.77096,546,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+63083,41.95451,2.07009,622,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+63084,41.97777,2.36942,513,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+63085,42.00014,2.66894,150,ES512,Girona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+63086,42.02161,2.96866,75,ES512,Girona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+63087,42.01938,3.16171,36,ES512,Girona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+64046,40.65119,-8.72655,4,PT16D,Região de Aveiro,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+64047,40.74899,-8.57127,6,PT16D,Região de Aveiro,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+64048,40.80692,-8.29174,303,PT11A,Área Metropolitana do Porto,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+64049,40.86078,-8.00274,432,PT16G,Viseu Dão Lafões,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+64050,40.9138,-7.71331,749,PT16G,Viseu Dão Lafões,PT16,Centro (PT),PT1,Continente,PT,Portugal,North of Tagus
+64051,40.96597,-7.42345,646,PT11D,Douro,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+64052,41.0173,-7.13317,363,PT11D,Douro,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+64053,41.06778,-6.84248,416,PT11D,Douro,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+64054,41.1174,-6.55138,733,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64055,41.16618,-6.25988,735,ES415,Salamanca,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64056,41.2141,-5.96798,798,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64057,41.26116,-5.6757,826,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64058,41.30737,-5.38302,765,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64059,41.35272,-5.08997,730,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64060,41.3972,-4.79654,727,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64061,41.44082,-4.50274,827,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64062,41.48358,-4.20859,884,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64063,41.52547,-3.91407,922,ES416,Segovia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64064,41.56649,-3.61921,931,ES416,Segovia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64065,41.60664,-3.32401,921,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64066,41.64593,-3.02847,966,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64067,41.68433,-2.7326,1011,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64068,41.72187,-2.4364,1009,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64069,41.75852,-2.13989,1011,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+64070,41.7943,-1.84307,1007,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+64071,41.82921,-1.54595,387,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+64072,41.86323,-1.24853,298,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+64073,41.89636,-0.95082,386,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+64074,41.92862,-0.65283,384,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+64075,41.95999,-0.35456,420,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+64076,41.99048,-0.05603,434,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+64077,42.02008,0.24277,445,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+64078,42.04879,0.54182,713,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+64079,42.07661,0.84112,524,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+64080,42.10354,1.14065,620,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+64081,42.12958,1.44042,731,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+64082,42.15472,1.74041,640,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+64083,42.17897,2.04063,833,ES511,Barcelona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+64084,42.20233,2.34105,687,ES512,Girona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+64085,42.22479,2.64167,219,ES512,Girona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+64086,42.24636,2.94249,109,ES512,Girona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+64087,42.29706,3.17757,21,ES512,Girona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+65047,40.97132,-8.58028,96,PT11A,Área Metropolitana do Porto,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+65048,41.02557,-8.3573,134,PT11C,Tâmega e Sousa,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+65049,41.07965,-8.06737,332,PT11C,Tâmega e Sousa,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+65050,41.13288,-7.777,369,PT11D,Douro,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+65051,41.18527,-7.4862,378,PT11D,Douro,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+65052,41.2368,-7.19497,330,PT11E,Terras de Trás-os-Montes,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+65053,41.28749,-6.90333,377,PT11E,Terras de Trás-os-Montes,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+65054,41.33732,-6.61127,713,PT11E,Terras de Trás-os-Montes,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+65055,41.3863,-6.3188,713,PT11E,Terras de Trás-os-Montes,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+65056,41.43441,-6.02593,759,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65057,41.48167,-5.73266,698,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65058,41.52807,-5.439,721,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65059,41.57361,-5.14496,731,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65060,41.61828,-4.85053,818,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65061,41.66208,-4.55574,791,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65062,41.70502,-4.26057,870,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65063,41.74709,-3.96505,894,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65064,41.78828,-3.66917,913,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65065,41.8286,-3.37294,959,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65066,41.86805,-3.07638,1078,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65067,41.90662,-2.77947,1114,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65068,41.94431,-2.48224,1045,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65069,41.98112,-2.18469,980,ES417,Soria,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+65070,42.01706,-1.88682,495,ES230,La Rioja,ES23,La Rioja,ES2,Noreste (ES),ES,Spain,North of Tagus
+65071,42.05211,-1.58865,334,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+65072,42.08627,-1.29017,340,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+65073,42.11955,-0.9914,423,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+65074,42.15195,-0.69235,449,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+65075,42.18345,-0.39301,521,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+65076,42.21407,-0.0934,561,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+65077,42.24379,0.20647,599,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+65078,42.27263,0.5066,683,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+65079,42.30057,0.80698,850,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+65080,42.32761,1.10761,1022,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+65081,42.35376,1.40847,988,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+65082,42.37902,1.70956,1278,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+65084,42.42683,2.31239,1313,ES512,Girona,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+66047,41.20738,-8.63534,49,PT11A,Área Metropolitana do Porto,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+66048,41.24409,-8.42349,128,PT11A,Área Metropolitana do Porto,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+66049,41.29839,-8.13262,229,PT11C,Tâmega e Sousa,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+66050,41.35185,-7.8413,498,PT119,Ave,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+66051,41.40445,-7.54955,644,PT11D,Douro,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+66052,41.4562,-7.25737,304,PT11E,Terras de Trás-os-Montes,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+66053,41.50709,-6.96476,591,PT11E,Terras de Trás-os-Montes,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+66054,41.55713,-6.67173,615,PT11E,Terras de Trás-os-Montes,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+66055,41.60631,-6.37829,765,PT11E,Terras de Trás-os-Montes,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+66056,41.65463,-6.08444,760,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+66057,41.70209,-5.79018,689,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+66058,41.74868,-5.49553,683,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+66059,41.79441,-5.20049,720,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+66060,41.83926,-4.90506,828,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+66061,41.88325,-4.60925,813,ES414,Palencia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+66062,41.92637,-4.31307,815,ES414,Palencia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+66063,41.96861,-4.01653,904,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+66064,42.00998,-3.71962,913,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+66065,42.05048,-3.42236,1000,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+66066,42.09009,-3.12476,1155,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+66067,42.12882,-2.82682,1212,ES230,La Rioja,ES23,La Rioja,ES2,Noreste (ES),ES,Spain,North of Tagus
+66068,42.16668,-2.52854,1063,ES230,La Rioja,ES23,La Rioja,ES2,Noreste (ES),ES,Spain,North of Tagus
+66069,42.20365,-2.22993,779,ES230,La Rioja,ES23,La Rioja,ES2,Noreste (ES),ES,Spain,North of Tagus
+66070,42.23973,-1.93101,361,ES230,La Rioja,ES23,La Rioja,ES2,Noreste (ES),ES,Spain,North of Tagus
+66071,42.27493,-1.63177,369,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+66072,42.30924,-1.33223,437,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+66073,42.34267,-1.03239,567,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+66074,42.3752,-0.73226,659,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+66075,42.40684,-0.43185,785,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+66076,42.43759,-0.13115,996,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+66077,42.46744,0.16981,667,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+66078,42.4964,0.47103,1215,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+66079,42.52446,0.77251,1479,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+66080,42.55163,1.07423,1487,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+66081,42.57789,1.3762,1600,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+67047,41.42004,-8.70265,31,PT11A,Área Metropolitana do Porto,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+67048,41.4625,-8.49031,83,PT119,Ave,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+67049,41.51703,-8.1985,276,PT119,Ave,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+67050,41.5707,-7.90623,486,PT119,Ave,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+67051,41.62352,-7.61352,866,PT11B,Alto Tâmega,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+67052,41.67549,-7.32038,797,PT11B,Alto Tâmega,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+67053,41.72659,-7.0268,801,PT11E,Terras de Trás-os-Montes,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+67054,41.77684,-6.73279,747,PT11E,Terras de Trás-os-Montes,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+67055,41.82622,-6.43836,807,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67056,41.87475,-6.14352,798,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67057,41.9224,-5.84827,715,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67058,41.96919,-5.55262,711,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67059,42.01511,-5.25656,748,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67060,42.06016,-4.96012,761,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67061,42.10433,-4.6633,775,ES414,Palencia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67062,42.14763,-4.36609,800,ES414,Palencia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67063,42.19006,-4.06852,816,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67064,42.2316,-3.77058,883,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67065,42.27227,-3.47228,961,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67066,42.31205,-3.17362,823,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+67067,42.35095,-2.87463,662,ES230,La Rioja,ES23,La Rioja,ES2,Noreste (ES),ES,Spain,North of Tagus
+67068,42.38897,-2.57529,442,ES230,La Rioja,ES23,La Rioja,ES2,Noreste (ES),ES,Spain,North of Tagus
+67069,42.42609,-2.27563,429,ES230,La Rioja,ES23,La Rioja,ES2,Noreste (ES),ES,Spain,North of Tagus
+67070,42.46233,-1.97564,383,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+67071,42.49769,-1.67533,362,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+67072,42.53215,-1.37471,448,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+67073,42.56571,-1.07379,527,ES243,Zaragoza,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+67074,42.59839,-0.77258,655,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+67075,42.63017,-0.47107,849,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+67076,42.66105,-0.16928,1380,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+67077,42.69103,0.13277,1653,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+67079,42.7483,0.73768,1269,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+67080,42.77558,1.04052,1346,ES513,Lleida,ES51,Cataluña,ES5,Este (ES),ES,Spain,North of Tagus
+68047,41.64405,-8.76445,36,PT111,Alto Minho,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+68048,41.68079,-8.55779,63,PT111,Alto Minho,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+68049,41.73555,-8.26502,218,PT112,Cávado,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+68050,41.78944,-7.97179,825,PT11B,Alto Tâmega,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+68051,41.84248,-7.67811,894,PT11B,Alto Tâmega,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+68052,41.89466,-7.38399,443,ES113,Ourense,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+68053,41.94599,-7.08943,744,PT11E,Terras de Trás-os-Montes,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+68054,41.99644,-6.79444,916,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68055,42.04604,-6.49902,905,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68056,42.09476,-6.20318,802,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68057,42.14262,-5.90693,750,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68058,42.18961,-5.61026,766,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68059,42.23572,-5.31319,801,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68060,42.28096,-5.01573,803,ES418,Valladolid,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68061,42.32532,-4.71787,833,ES414,Palencia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68062,42.36881,-4.41964,819,ES414,Palencia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68063,42.41141,-4.12102,824,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68064,42.45313,-3.82203,918,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68065,42.49397,-3.52268,926,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68066,42.53393,-3.22298,744,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+68067,42.573,-2.92292,564,ES230,La Rioja,ES23,La Rioja,ES2,Noreste (ES),ES,Spain,North of Tagus
+68068,42.61118,-2.62252,632,ES211,Araba/Álava,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+68069,42.64846,-2.32178,589,ES211,Araba/Álava,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+68070,42.68486,-2.02071,481,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+68071,42.72037,-1.71932,457,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+68072,42.75498,-1.41762,534,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+68073,42.78869,-1.11561,743,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+68074,42.82151,-0.8133,1014,ES241,Huesca,ES24,Aragón,ES2,Noreste (ES),ES,Spain,North of Tagus
+69047,41.85114,-8.82302,51,PT111,Alto Minho,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+69048,41.89897,-8.62591,131,PT111,Alto Minho,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+69049,41.95395,-8.33218,289,PT111,Alto Minho,PT11,Norte,PT1,Continente,PT,Portugal,North of Tagus
+69050,42.00807,-8.03799,686,ES113,Ourense,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+69051,42.06133,-7.74334,618,ES113,Ourense,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+69052,42.11374,-7.44823,760,ES113,Ourense,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+69053,42.16527,-7.15269,870,ES113,Ourense,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+69054,42.21594,-6.8567,1259,ES419,Zamora,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69055,42.26575,-6.56028,1192,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69056,42.31468,-6.26343,979,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69057,42.36274,-5.96616,791,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69058,42.40993,-5.66848,844,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69059,42.45624,-5.37038,832,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69060,42.50167,-5.07189,888,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69061,42.54622,-4.773,965,ES414,Palencia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69062,42.58989,-4.47371,898,ES414,Palencia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69063,42.63268,-4.17405,884,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69064,42.67458,-3.87401,939,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69065,42.7156,-3.5736,965,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69066,42.75573,-3.27282,642,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+69067,42.79496,-2.97169,523,ES211,Araba/Álava,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+69068,42.83331,-2.67021,534,ES211,Araba/Álava,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+69069,42.87076,-2.36839,589,ES211,Araba/Álava,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+69070,42.90732,-2.06624,570,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+69071,42.94297,-1.76376,485,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+69072,42.97773,-1.46096,704,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+69073,43.0116,-1.15785,845,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+70047,42.03871,-8.85793,281,ES114,Pontevedra,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+70048,42.11315,-8.68497,66,ES114,Pontevedra,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+70049,42.17224,-8.4,99,ES114,Pontevedra,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+70050,42.22659,-8.10483,274,ES113,Ourense,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+70051,42.28008,-7.8092,350,ES113,Ourense,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+70052,42.3327,-7.5131,564,ES113,Ourense,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+70053,42.38445,-7.21656,515,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+70054,42.43534,-6.91957,545,ES113,Ourense,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+70055,42.48535,-6.62214,542,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+70056,42.5345,-6.32428,931,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+70057,42.58276,-6.02598,956,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+70058,42.63015,-5.72727,894,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+70059,42.67666,-5.42814,869,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+70060,42.72229,-5.1286,910,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+70061,42.76703,-4.82866,1122,ES414,Palencia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+70062,42.81089,-4.52833,1073,ES414,Palencia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+70063,42.85386,-4.22761,939,ES414,Palencia,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+70064,42.89595,-3.9265,836,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+70065,42.93714,-3.62502,604,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+70066,42.97744,-3.32317,667,ES412,Burgos,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+70067,43.01685,-3.02096,355,ES213,Bizkaia,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+70068,43.05536,-2.71839,397,ES213,Bizkaia,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+70069,43.09298,-2.41548,300,ES212,Gipuzkoa,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+70070,43.12969,-2.11223,231,ES212,Gipuzkoa,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+70071,43.16551,-1.80865,286,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+70072,43.20042,-1.50474,268,ES220,Navarra,ES22,Comunidad Foral de Navarra,ES2,Noreste (ES),ES,Spain,North of Tagus
+71048,42.34575,-8.72318,68,ES114,Pontevedra,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+71049,42.39041,-8.46849,305,ES114,Pontevedra,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+71050,42.44499,-8.17233,413,ES113,Ourense,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+71051,42.49871,-7.8757,453,ES113,Ourense,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+71052,42.55155,-7.57861,346,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+71053,42.60353,-7.28106,566,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+71054,42.65463,-6.98306,882,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+71055,42.70486,-6.68461,658,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+71056,42.75421,-6.38572,908,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+71057,42.80269,-6.0864,1209,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+71058,42.85028,-5.78665,1132,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+71059,42.89699,-5.48648,1152,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+71060,42.94281,-5.18589,1183,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+71061,42.98775,-4.88489,1294,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+71062,43.0318,-4.58349,1061,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+71063,43.07496,-4.2817,872,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+71064,43.11723,-3.97952,473,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+71065,43.1586,-3.67696,612,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+71066,43.19908,-3.37402,314,ES213,Bizkaia,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+71067,43.23704,-3.07124,112,ES213,Bizkaia,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+71068,43.27734,-2.76706,75,ES213,Bizkaia,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+71069,43.28006,-2.48425,138,ES213,Bizkaia,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+71070,43.27218,-2.14827,46,ES212,Gipuzkoa,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+71071,43.32186,-1.82919,34,ES212,Gipuzkoa,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+72047,42.57287,-9.02953,21,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72048,42.55686,-8.80033,31,ES114,Pontevedra,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72049,42.60847,-8.53764,176,ES114,Pontevedra,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72050,42.66329,-8.24049,440,ES114,Pontevedra,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72051,42.71723,-7.94287,531,ES114,Pontevedra,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72052,42.7703,-7.64477,447,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72053,42.8225,-7.34621,463,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72054,42.87382,-7.04718,599,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72055,42.92427,-6.74771,918,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72056,42.97383,-6.44778,1124,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+72057,43.02251,-6.14742,1248,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+72058,43.07031,-5.84662,816,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72059,43.11723,-5.54539,774,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72060,43.16325,-5.24375,809,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72061,43.20838,-4.94168,823,ES413,León,ES41,Castilla y León,ES4,Centro (ES),ES,Spain,North of Tagus
+72062,43.25263,-4.63921,376,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72063,43.28945,-4.33923,131,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72064,43.33148,-4.02776,66,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72065,43.3718,-3.72796,43,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72066,43.38476,-3.44972,37,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+72067,43.35996,-3.11015,30,ES213,Bizkaia,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+72068,43.40961,-2.83357,74,ES213,Bizkaia,ES21,País Vasco,ES2,Noreste (ES),ES,Spain,North of Tagus
+73047,42.77303,-9.08922,38,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73048,42.77193,-8.89351,116,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73049,42.82642,-8.60748,119,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73050,42.88147,-8.30933,260,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73051,42.93564,-8.0107,408,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73052,42.98894,-7.71158,478,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73053,43.04136,-7.412,449,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73054,43.09291,-7.11194,589,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73055,43.14357,-6.81143,568,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73056,43.19335,-6.51046,563,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73057,43.24224,-6.20905,516,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73058,43.29025,-5.90719,228,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73059,43.33737,-5.6049,272,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73060,43.37975,-5.30551,170,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73061,43.39075,-5.00414,109,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73062,43.38819,-4.72368,36,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73063,43.3917,-4.49297,1,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+73065,43.48289,-3.82859,15,ES130,Cantabria,ES13,Cantabria,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74047,42.96982,-9.19436,83,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74048,42.98809,-8.97667,283,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74049,43.04425,-8.67801,314,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74050,43.09953,-8.37885,278,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74051,43.15394,-8.0792,383,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74052,43.20747,-7.77906,444,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74053,43.26012,-7.47844,416,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74054,43.31189,-7.17735,331,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74055,43.36277,-6.87579,388,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74056,43.41277,-6.57377,304,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74057,43.45811,-6.2727,200,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74058,43.49583,-5.95919,76,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74059,43.51375,-5.68371,53,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+74060,43.51484,-5.40232,54,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75047,43.08735,-9.21194,57,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75048,43.16154,-9.01823,88,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75049,43.23108,-8.75187,92,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75050,43.28139,-8.43258,46,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75051,43.36695,-8.13377,74,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75052,43.42589,-7.84721,430,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75053,43.47877,-7.54555,436,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75054,43.50612,-7.25897,85,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75055,43.51593,-6.93301,53,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75056,43.53869,-6.65546,51,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75057,43.55808,-6.39537,1,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+75059,43.65092,-5.84317,1,ES120,Asturias,ES12,Principado de Asturias,ES1,Noroeste (ES),ES,Spain,North of Tagus
+76051,43.54619,-8.17225,15,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+76052,43.62798,-7.91281,151,ES111,A Coruña,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+76053,43.6615,-7.6198,91,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
+76054,43.65384,-7.40014,35,ES112,Lugo,ES11,Galicia,ES1,Noroeste (ES),ES,Spain,North of Tagus
