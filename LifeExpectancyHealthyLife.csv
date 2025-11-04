@@ -1,4 +1,4 @@
-﻿Indicador,Sexo,Geo,GeoDesc,OBS_VALUE,Pais
+﻿Indicador,Sexo,Geo,GeoDesc,OBS_VALUE,Table1.Pais
 Vida Saudável,Mulheres,AT,Austria,60.5,Austria
 Vida Saudável,Homens,AT,Austria,60.3,Austria
 Vida Saudável,Mulheres,BE,Belgium,63.5,Bélgica
@@ -99,67 +99,51 @@ Esperança de Vida,Homens,CY,Cyprus,80.9,Chipre
 Esperança de Vida,Mulheres,CZ,Czechia,82.9,Chequia
 Esperança de Vida,Homens,CZ,Czechia,76.9,Chequia
 Esperança de Vida,Mulheres,HR,Croatia,81.8,Croácia
+Esperança de Vida,Homens,HR,Croatia,75.5,Croácia
 Esperança de Vida,Mulheres,DE,Germany,83.5,Alemanha
 Esperança de Vida,Homens,DE,Germany,78.7,Alemanha
 Esperança de Vida,Mulheres,DK,Denmark,83.7,Dinamarca
+Esperança de Vida,Homens,DK,Denmark,79.9,Dinamarca
 Esperança de Vida,Mulheres,EE,Estonia,83.3,Estónia
+Esperança de Vida,Homens,EE,Estonia,74.5,Estónia
 Esperança de Vida,Mulheres,EL,Greece,84.4,Grécia
+Esperança de Vida,Homens,EL,Greece,79.2,Grécia
 Esperança de Vida,Mulheres,ES,Spain,86.7,Espanha
+Esperança de Vida,Homens,ES,Spain,81.3,Espanha
 Esperança de Vida,Mulheres,EU27_2020,União Europeia,84,EU27
+Esperança de Vida,Homens,EU27_2020,União Europeia,78.7,EU27
 Esperança de Vida,Mulheres,FI,Finland,84.3,Finlândia
+Esperança de Vida,Homens,FI,Finland,79,Finlândia
 Esperança de Vida,Mulheres,FR,France,85.7,França
-Esperança de Vida,Mulheres,GE,Georgia,77.5,Georgia
+Esperança de Vida,Homens,FR,France,80.1,França
 Esperança de Vida,Mulheres,HU,Hungary,79.9,Hungria
-Esperança de Vida,Mulheres,IS,Iceland,84.3,Islândia
 Esperança de Vida,Mulheres,IE,Ireland,84.6,Irlanda
 Esperança de Vida,Mulheres,IT,Italy,85.4,Itália
-Esperança de Vida,Mulheres,LV,Latvia,80.6,Letónia
-Esperança de Vida,Mulheres,LI,Liechtenstein,86.9,Liechtenstein
 Esperança de Vida,Mulheres,LT,Lithuania,81.9,Lituânia
-Esperança de Vida,Mulheres,LU,Luxembourg,85,Luxemburgo
+Esperança de Vida,Mulheres,LV,Latvia,80.6,Letónia
 Esperança de Vida,Mulheres,MT,Malta,85.2,Malta
-Esperança de Vida,Mulheres,ME,Montenegro,80.2,Montenegro
-Esperança de Vida,Mulheres,MD,Moldova,76.4,Moldova
 Esperança de Vida,Mulheres,NL,Netherlands,83.4,Países Baixos
 Esperança de Vida,Mulheres,NO,Norway,84.6,Noruega
 Esperança de Vida,Mulheres,PL,Poland,82.1,Polónia
 Esperança de Vida,Mulheres,PT,Portugal,85.3,Portugal
 Esperança de Vida,Mulheres,RO,Romania,80.4,Roménia
-Esperança de Vida,Mulheres,RS,Serbia,78.6,Sérvia
-Esperança de Vida,Mulheres,SK,Slovakia,81.5,Eslováquia
-Esperança de Vida,Mulheres,SI,Slovenia,84.9,Eslovénia
 Esperança de Vida,Mulheres,SE,Sweden,85,Suécia
-Esperança de Vida,Mulheres,TR,Türkiye,79.8,Turquia
-Esperança de Vida,Homens,DK,Denmark,79.9,Dinamarca
-Esperança de Vida,Homens,EE,Estonia,74.5,Estónia
-Esperança de Vida,Homens,EL,Greece,79.2,Grécia
-Esperança de Vida,Homens,ES,Spain,81.3,Espanha
-Esperança de Vida,Homens,EU27_2020,União Europeia,78.7,EU27
-Esperança de Vida,Homens,FI,Finland,79,Finlândia
-Esperança de Vida,Homens,FR,France,80.1,França
-Esperança de Vida,Homens,GE,Georgia,69.9,Georgia
-Esperança de Vida,Homens,HR,Croatia,75.5,Croácia
+Esperança de Vida,Mulheres,SI,Slovenia,84.9,Eslovénia
+Esperança de Vida,Mulheres,SK,Slovakia,81.5,Eslováquia
 Esperança de Vida,Homens,HU,Hungary,73.4,Hungria
 Esperança de Vida,Homens,IE,Ireland,81.1,Irlanda
-Esperança de Vida,Homens,IS,Iceland,80.7,Islândia
 Esperança de Vida,Homens,IT,Italy,81.4,Itália
-Esperança de Vida,Homens,LI,Liechtenstein,82.4,Liechtenstein
 Esperança de Vida,Homens,LT,Lithuania,72.9,Lituânia
-Esperança de Vida,Homens,LU,Luxembourg,81.7,Luxemburgo
 Esperança de Vida,Homens,LV,Latvia,70.5,Letónia
-Esperança de Vida,Homens,MD,Moldova,67.5,Moldova
-Esperança de Vida,Homens,ME,Montenegro,75.1,Montenegro
 Esperança de Vida,Homens,MT,Malta,81.6,Malta
 Esperança de Vida,Homens,NL,Netherlands,80.4,Países Baixos
 Esperança de Vida,Homens,NO,Norway,81.5,Noruega
 Esperança de Vida,Homens,PL,Poland,74.6,Polónia
 Esperança de Vida,Homens,PT,Portugal,79.5,Portugal
 Esperança de Vida,Homens,RO,Romania,72.6,Roménia
-Esperança de Vida,Homens,RS,Serbia,73.8,Sérvia
 Esperança de Vida,Homens,SE,Sweden,81.7,Suécia
 Esperança de Vida,Homens,SI,Slovenia,79.1,Eslovénia
 Esperança de Vida,Homens,SK,Slovakia,74.9,Eslováquia
-Esperança de Vida,Homens,TR,Türkiye,74.8,Turquia
 Esperança de Vida,Total,AT,Austria,81.9,Austria
 Esperança de Vida,Total,BE,Belgium,82.5,Bélgica
 Esperança de Vida,Total,BG,Bulgaria,75.8,Bulgária
@@ -174,26 +158,18 @@ Esperança de Vida,Total,ES,Spain,84,Espanha
 Esperança de Vida,Total,EU27_2020,União Europeia,81.4,EU27
 Esperança de Vida,Total,FI,Finland,81.6,Finlândia
 Esperança de Vida,Total,FR,France,83,França
-Esperança de Vida,Total,GE,Georgia,73.7,Georgia
 Esperança de Vida,Total,HR,Croatia,78.6,Croácia
 Esperança de Vida,Total,HU,Hungary,76.7,Hungria
 Esperança de Vida,Total,IE,Ireland,82.9,Irlanda
-Esperança de Vida,Total,IS,Iceland,82.4,Islândia
 Esperança de Vida,Total,IT,Italy,83.5,Itália
-Esperança de Vida,Total,LI,Liechtenstein,84.6,Liechtenstein
 Esperança de Vida,Total,LT,Lithuania,77.6,Lituânia
-Esperança de Vida,Total,LU,Luxembourg,83.4,Luxemburgo
 Esperança de Vida,Total,LV,Latvia,75.6,Letónia
-Esperança de Vida,Total,MD,Moldova,71.9,Moldova
-Esperança de Vida,Total,ME,Montenegro,77.6,Montenegro
 Esperança de Vida,Total,MT,Malta,83.4,Malta
 Esperança de Vida,Total,NL,Netherlands,81.9,Países Baixos
 Esperança de Vida,Total,NO,Norway,83.1,Noruega
 Esperança de Vida,Total,PL,Poland,78.4,Polónia
 Esperança de Vida,Total,PT,Portugal,82.5,Portugal
 Esperança de Vida,Total,RO,Romania,76.4,Roménia
-Esperança de Vida,Total,RS,Serbia,76.2,Sérvia
 Esperança de Vida,Total,SE,Sweden,83.4,Suécia
 Esperança de Vida,Total,SI,Slovenia,82,Eslovénia
 Esperança de Vida,Total,SK,Slovakia,78.2,Eslováquia
-Esperança de Vida,Total,TR,Türkiye,77.3,Turquia
